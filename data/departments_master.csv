@@ -1,0 +1,21 @@
+dept_id,department_name
+D01,General Medicine
+D02,Cardiology
+D03,Neurology
+D04,Orthopaedics
+D05,Dermatology
+D06,Gastroenterology
+D07,Pulmonology
+D08,Endocrinology
+D09,Nephrology
+D10,Urology
+D11,Gynaecology
+D12,Paediatrics
+D13,Ophthalmology
+D14,ENT
+D15,Psychiatry
+D16,Oncology
+D17,Haematology
+D18,Rheumatology
+D19,Infectious Disease
+D20,Emergency Medicine

@@ -1,0 +1,574 @@
+disease_id,disease_name,dept_id
+DIS001,Common Cold,D01
+DIS002,Influenza,D01
+DIS003,Typhoid Fever,D01
+DIS004,Malaria,D01
+DIS005,Dengue Fever,D01
+DIS006,Chikungunya,D01
+DIS007,Viral Gastroenteritis,D01
+DIS008,Anaemia,D01
+DIS009,Dehydration,D01
+DIS010,Heat Stroke,D01
+DIS011,Vitamin D Deficiency,D01
+DIS012,Vitamin B12 Deficiency,D01
+DIS013,Iron Deficiency,D01
+DIS014,Obesity,D01
+DIS015,Malnutrition,D01
+DIS016,Septicaemia,D01
+DIS017,Leptospirosis,D01
+DIS018,Scrub Typhus,D01
+DIS019,Brucellosis,D01
+DIS020,Rabies,D01
+DIS021,Hypertension,D02
+DIS022,Coronary Artery Disease,D02
+DIS023,Myocardial Infarction,D02
+DIS024,Heart Failure,D02
+DIS025,Atrial Fibrillation,D02
+DIS026,Angina Pectoris,D02
+DIS027,Cardiomyopathy,D02
+DIS028,Aortic Stenosis,D02
+DIS029,Mitral Valve Prolapse,D02
+DIS030,Pericarditis,D02
+DIS031,Endocarditis,D02
+DIS032,Deep Vein Thrombosis,D02
+DIS033,Pulmonary Embolism,D02
+DIS034,Peripheral Arterial Disease,D02
+DIS035,Rheumatic Heart Disease,D02
+DIS036,Congenital Heart Defect,D02
+DIS037,Cardiac Arrhythmia,D02
+DIS038,Hypotension,D02
+DIS039,Aortic Aneurysm,D02
+DIS040,Hypertrophic Cardiomyopathy,D02
+DIS041,Migraine,D03
+DIS042,Epilepsy,D03
+DIS043,Stroke,D03
+DIS044,Parkinson's Disease,D03
+DIS045,Alzheimer's Disease,D03
+DIS046,Multiple Sclerosis,D03
+DIS047,Meningitis,D03
+DIS048,Encephalitis,D03
+DIS049,Bell's Palsy,D03
+DIS050,Trigeminal Neuralgia,D03
+DIS051,Guillain-Barre Syndrome,D03
+DIS052,Cerebral Palsy,D03
+DIS053,Huntington's Disease,D03
+DIS054,Amyotrophic Lateral Sclerosis,D03
+DIS055,Transient Ischaemic Attack,D03
+DIS056,Neuralgia,D03
+DIS057,Narcolepsy,D03
+DIS058,Restless Leg Syndrome,D03
+DIS059,Chronic Daily Headache,D03
+DIS060,Myasthenia Gravis,D03
+DIS061,Osteoarthritis,D04
+DIS062,Rheumatoid Arthritis,D04
+DIS063,Osteoporosis,D04
+DIS064,Gout,D04
+DIS065,Scoliosis,D04
+DIS066,Herniated Disc,D04
+DIS067,Frozen Shoulder,D04
+DIS068,Carpal Tunnel Syndrome,D04
+DIS069,Tennis Elbow,D04
+DIS070,Plantar Fasciitis,D04
+DIS071,Bone Fracture,D04
+DIS072,Ligament Sprain,D04
+DIS073,Muscle Strain,D04
+DIS074,Bursitis,D04
+DIS075,Osteomyelitis,D04
+DIS076,Paget's Disease of Bone,D04
+DIS077,Ankylosing Spondylitis,D04
+DIS078,Tendinitis,D04
+DIS079,Knee Meniscus Tear,D04
+DIS080,Rotator Cuff Tear,D04
+DIS081,Acne Vulgaris,D05
+DIS082,Psoriasis,D05
+DIS083,Eczema,D05
+DIS084,Urticaria,D05
+DIS085,Fungal Infection,D05
+DIS086,Scabies,D05
+DIS087,Chickenpox,D05
+DIS088,Shingles,D05
+DIS089,Vitiligo,D05
+DIS090,Rosacea,D05
+DIS091,Seborrhoeic Dermatitis,D05
+DIS092,Contact Dermatitis,D05
+DIS093,Alopecia Areata,D05
+DIS094,Cellulitis,D05
+DIS095,Impetigo,D05
+DIS096,Melasma,D05
+DIS097,Pemphigus Vulgaris,D05
+DIS098,Epidermolysis Bullosa,D05
+DIS099,Tinea Versicolor,D05
+DIS100,Folliculitis,D05
+DIS101,GERD,D06
+DIS102,Peptic Ulcer,D06
+DIS103,Irritable Bowel Syndrome,D06
+DIS104,Crohn's Disease,D06
+DIS105,Ulcerative Colitis,D06
+DIS106,Liver Cirrhosis,D06
+DIS107,Hepatitis B,D06
+DIS108,Hepatitis C,D06
+DIS109,Pancreatitis,D06
+DIS110,Gallstones,D06
+DIS111,Appendicitis,D06
+DIS112,Coeliac Disease,D06
+DIS113,Diverticulitis,D06
+DIS114,Haemorrhoids,D06
+DIS115,Gastritis,D06
+DIS116,Colorectal Cancer,D06
+DIS117,Non-Alcoholic Fatty Liver,D06
+DIS118,Cholangitis,D06
+DIS119,Achalasia,D06
+DIS120,Intestinal Obstruction,D06
+DIS121,Asthma,D07
+DIS122,COPD,D07
+DIS123,Pneumonia,D07
+DIS124,Tuberculosis,D07
+DIS125,Bronchitis,D07
+DIS126,Pulmonary Fibrosis,D07
+DIS127,Sleep Apnoea,D07
+DIS128,Pleural Effusion,D07
+DIS129,Lung Cancer,D07
+DIS130,Pulmonary Hypertension,D07
+DIS131,Bronchiectasis,D07
+DIS132,Pleuritis,D07
+DIS133,Pneumothorax,D07
+DIS134,Emphysema,D07
+DIS135,Allergic Rhinitis,D07
+DIS136,Occupational Asthma,D07
+DIS137,Sarcoidosis,D07
+DIS138,COVID-19,D07
+DIS139,Acute Respiratory Distress Syndrome,D07
+DIS140,Respiratory Syncytial Virus,D07
+DIS141,Type 1 Diabetes,D08
+DIS142,Type 2 Diabetes,D08
+DIS143,Hypothyroidism,D08
+DIS144,Hyperthyroidism,D08
+DIS145,Cushing's Syndrome,D08
+DIS146,Addison's Disease,D08
+DIS147,Polycystic Ovary Syndrome,D08
+DIS148,Hypoparathyroidism,D08
+DIS149,Hyperparathyroidism,D08
+DIS150,Diabetes Insipidus,D08
+DIS151,Acromegaly,D08
+DIS152,Gigantism,D08
+DIS153,Congenital Hypothyroidism,D08
+DIS154,Metabolic Syndrome,D08
+DIS155,Adrenal Insufficiency,D08
+DIS156,Pituitary Adenoma,D08
+DIS157,Conn's Syndrome,D08
+DIS158,Phaeochromocytoma,D08
+DIS159,Thyroid Nodule,D08
+DIS160,Goitre,D08
+DIS161,Chronic Kidney Disease,D09
+DIS162,Acute Kidney Injury,D09
+DIS163,Glomerulonephritis,D09
+DIS164,Nephrotic Syndrome,D09
+DIS165,Kidney Stones,D09
+DIS166,Urinary Tract Infection,D09
+DIS167,Polycystic Kidney Disease,D09
+DIS168,Renal Artery Stenosis,D09
+DIS169,Lupus Nephritis,D09
+DIS170,Interstitial Nephritis,D09
+DIS171,Hydronephrosis,D09
+DIS172,Renal Tubular Acidosis,D09
+DIS173,Alport Syndrome,D09
+DIS174,Diabetic Nephropathy,D09
+DIS175,Renal Cell Carcinoma,D09
+DIS176,Bladder Cancer,D09
+DIS177,Pyelonephritis,D09
+DIS178,Nephrolithiasis,D09
+DIS179,Minimal Change Disease,D09
+DIS180,IgA Nephropathy,D09
+DIS181,Benign Prostatic Hyperplasia,D10
+DIS182,Prostate Cancer,D10
+DIS183,Erectile Dysfunction,D10
+DIS184,Testicular Cancer,D10
+DIS185,Varicocele,D10
+DIS186,Hydrocele,D10
+DIS187,Epididymitis,D10
+DIS188,Peyronie's Disease,D10
+DIS189,Urethral Stricture,D10
+DIS190,Interstitial Cystitis,D10
+DIS191,Overactive Bladder,D10
+DIS192,Urinary Incontinence,D10
+DIS193,Cryptorchidism,D10
+DIS194,Phimosis,D10
+DIS195,Priapism,D10
+DIS196,Kidney Infection,D10
+DIS197,Urinary Retention,D10
+DIS198,Ureteral Calculi,D10
+DIS199,Bladder Prolapse,D10
+DIS200,Vesicoureteral Reflux,D10
+DIS201,Endometriosis,D11
+DIS202,Uterine Fibroids,D11
+DIS203,Ovarian Cyst,D11
+DIS204,Cervical Cancer,D11
+DIS205,Ovarian Cancer,D11
+DIS206,Uterine Cancer,D11
+DIS207,Polycystic Ovarian Syndrome,D11
+DIS208,Pelvic Inflammatory Disease,D11
+DIS209,Vaginitis,D11
+DIS210,Menorrhagia,D11
+DIS211,Dysmenorrhoea,D11
+DIS212,Premature Ovarian Insufficiency,D11
+DIS213,Ectopic Pregnancy,D11
+DIS214,Preeclampsia,D11
+DIS215,Gestational Diabetes,D11
+DIS216,Vulvodynia,D11
+DIS217,Bartholin Cyst,D11
+DIS218,Amenorrhoea,D11
+DIS219,Menopausal Syndrome,D11
+DIS220,Gestational Hypertension,D11
+DIS221,Childhood Asthma,D12
+DIS222,Febrile Seizures,D12
+DIS223,Kawasaki Disease,D12
+DIS224,Croup,D12
+DIS225,RSV Infection,D12
+DIS226,Hand Foot Mouth Disease,D12
+DIS227,Whooping Cough,D12
+DIS228,Measles,D12
+DIS229,Mumps,D12
+DIS230,Rubella,D12
+DIS231,Roseola,D12
+DIS232,Otitis Media,D12
+DIS233,Intussusception,D12
+DIS234,Tonsillitis,D12
+DIS235,Childhood Obesity,D12
+DIS236,Attention Deficit Hyperactivity Disorder,D12
+DIS237,Autism Spectrum Disorder,D12
+DIS238,Neonatal Jaundice,D12
+DIS239,Failure to Thrive,D12
+DIS240,Cerebral Malaria,D12
+DIS241,Cataract,D13
+DIS242,Glaucoma,D13
+DIS243,Age-Related Macular Degeneration,D13
+DIS244,Diabetic Retinopathy,D13
+DIS245,Conjunctivitis,D13
+DIS246,Dry Eye Syndrome,D13
+DIS247,Retinal Detachment,D13
+DIS248,Strabismus,D13
+DIS249,Amblyopia,D13
+DIS250,Keratoconus,D13
+DIS251,Uveitis,D13
+DIS252,Blepharitis,D13
+DIS253,Pterygium,D13
+DIS254,Corneal Ulcer,D13
+DIS255,Optic Neuritis,D13
+DIS256,Chalazion,D13
+DIS257,Night Blindness,D13
+DIS258,Orbital Cellulitis,D13
+DIS259,Central Retinal Artery Occlusion,D13
+DIS260,Hypertensive Retinopathy,D13
+DIS261,Sinusitis,D14
+DIS262,Otitis Externa,D14
+DIS263,Tonsillitis,D14
+DIS264,Adenoid Hypertrophy,D14
+DIS265,Hearing Loss,D14
+DIS266,Tinnitus,D14
+DIS267,Vertigo,D14
+DIS268,Epistaxis,D14
+DIS269,Laryngitis,D14
+DIS270,Otosclerosis,D14
+DIS271,Nasal Polyps,D14
+DIS272,Epiglottitis,D14
+DIS273,Vocal Cord Nodules,D14
+DIS274,Cholesteatoma,D14
+DIS275,Acoustic Neuroma,D14
+DIS276,Deviated Nasal Septum,D14
+DIS277,Pharyngitis,D14
+DIS278,Mastoiditis,D14
+DIS279,Meniere's Disease,D14
+DIS280,Foreign Body Ear,D14
+DIS281,Major Depressive Disorder,D15
+DIS282,Generalised Anxiety Disorder,D15
+DIS283,Schizophrenia,D15
+DIS284,Bipolar Disorder,D15
+DIS285,Post-Traumatic Stress Disorder,D15
+DIS286,Obsessive Compulsive Disorder,D15
+DIS287,Panic Disorder,D15
+DIS288,Social Anxiety Disorder,D15
+DIS289,Eating Disorder,D15
+DIS290,Borderline Personality Disorder,D15
+DIS291,Substance Use Disorder,D15
+DIS292,Insomnia,D15
+DIS293,Attention Deficit Disorder,D15
+DIS294,Conduct Disorder,D15
+DIS295,Somatisation Disorder,D15
+DIS296,Delusional Disorder,D15
+DIS297,Agoraphobia,D15
+DIS298,Hypochondria,D15
+DIS299,Dissociative Identity Disorder,D15
+DIS300,Intermittent Explosive Disorder,D15
+DIS301,Breast Cancer,D16
+DIS302,Lung Cancer,D16
+DIS303,Prostate Cancer,D16
+DIS304,Stomach Cancer,D16
+DIS305,Liver Cancer,D16
+DIS306,Pancreatic Cancer,D16
+DIS307,Colorectal Cancer,D16
+DIS308,Lymphoma,D16
+DIS309,Leukaemia,D16
+DIS310,Thyroid Cancer,D16
+DIS311,Kidney Cancer,D16
+DIS312,Bladder Cancer,D16
+DIS313,Cervical Cancer,D16
+DIS314,Ovarian Cancer,D16
+DIS315,Melanoma,D16
+DIS316,Brain Tumour,D16
+DIS317,Bone Cancer,D16
+DIS318,Multiple Myeloma,D16
+DIS319,Oral Cancer,D16
+DIS320,Skin Cancer,D16
+DIS321,Iron Deficiency Anaemia,D17
+DIS322,Sickle Cell Disease,D17
+DIS323,Thalassaemia,D17
+DIS324,Haemophilia,D17
+DIS325,Polycythaemia Vera,D17
+DIS326,Thrombocytopenia,D17
+DIS327,Deep Vein Thrombosis,D17
+DIS328,Haemolytic Anaemia,D17
+DIS329,Aplastic Anaemia,D17
+DIS330,Myelodysplastic Syndrome,D17
+DIS331,Von Willebrand Disease,D17
+DIS332,Lymphoedema,D17
+DIS333,Hypercoagulable State,D17
+DIS334,Haemochromatosis,D17
+DIS335,Porphyria,D17
+DIS336,Antiphospholipid Syndrome,D17
+DIS337,Waldenstrom Macroglobulinaemia,D17
+DIS338,Myeloma,D17
+DIS339,Idiopathic Thrombocytopenic Purpura,D17
+DIS340,Megaloblastic Anaemia,D17
+DIS341,Systemic Lupus Erythematosus,D18
+DIS342,Rheumatoid Arthritis,D18
+DIS343,Ankylosing Spondylitis,D18
+DIS344,Psoriatic Arthritis,D18
+DIS345,Sjogren's Syndrome,D18
+DIS346,Vasculitis,D18
+DIS347,Polymyalgia Rheumatica,D18
+DIS348,Gout,D18
+DIS349,Reactive Arthritis,D18
+DIS350,Dermatomyositis,D18
+DIS351,Polymyositis,D18
+DIS352,Osteoarthritis,D18
+DIS353,Fibromyalgia,D18
+DIS354,Scleroderma,D18
+DIS355,Mixed Connective Tissue Disease,D18
+DIS356,Antiphospholipid Syndrome,D18
+DIS357,Relapsing Polychondritis,D18
+DIS358,Behcet's Disease,D18
+DIS359,Myositis,D18
+DIS360,Juvenile Idiopathic Arthritis,D18
+DIS361,HIV/AIDS,D19
+DIS362,Hepatitis A,D19
+DIS363,Hepatitis E,D19
+DIS364,Enteric Fever,D19
+DIS365,Cholera,D19
+DIS366,Meningococcal Disease,D19
+DIS367,Tetanus,D19
+DIS368,Diphtheria,D19
+DIS369,Pertussis,D19
+DIS370,Zika Virus,D19
+DIS371,Ebola Virus Disease,D19
+DIS372,West Nile Fever,D19
+DIS373,Japanese Encephalitis,D19
+DIS374,Filariasis,D19
+DIS375,Leishmaniasis,D19
+DIS376,Kala-azar,D19
+DIS377,SARS,D19
+DIS378,MERS,D19
+DIS379,Anthrax,D19
+DIS380,Plague,D19
+DIS381,Anaphylaxis,D20
+DIS382,Acute Poisoning,D20
+DIS383,Near Drowning,D20
+DIS384,Severe Burns,D20
+DIS385,Major Trauma,D20
+DIS386,Overdose,D20
+DIS387,Electric Shock,D20
+DIS388,Smoke Inhalation,D20
+DIS389,Hypertensive Emergency,D20
+DIS390,Diabetic Ketoacidosis,D20
+DIS391,Hypoglycaemic Crisis,D20
+DIS392,Status Epilepticus,D20
+DIS393,Acute Abdomen,D20
+DIS394,Acute Coronary Syndrome,D20
+DIS395,Septic Shock,D20
+DIS396,Respiratory Failure,D20
+DIS397,Heat Exhaustion,D20
+DIS398,Hypothermia,D20
+DIS399,Eclampsia,D20
+DIS400,Haemorrhagic Shock,D20
+DIS401,Food Poisoning,D01
+DIS402,Altitude Sickness,D01
+DIS403,Jet Lag,D01
+DIS404,Chronic Fatigue Syndrome,D01
+DIS405,Fibromyalgia,D01
+DIS406,Systemic Sclerosis,D01
+DIS407,Sarcoidosis,D01
+DIS408,Amyloidosis,D01
+DIS409,Wilson's Disease,D01
+DIS410,Hereditary Haemochromatosis,D01
+DIS411,Sick Sinus Syndrome,D02
+DIS412,Long QT Syndrome,D02
+DIS413,Wolff-Parkinson-White Syndrome,D02
+DIS414,Cardiac Tamponade,D02
+DIS415,Vasovagal Syncope,D02
+DIS416,Transverse Myelitis,D03
+DIS417,Normal Pressure Hydrocephalus,D03
+DIS418,Cerebral Venous Thrombosis,D03
+DIS419,Brachial Neuritis,D03
+DIS420,Syringomyelia,D03
+DIS421,Compartment Syndrome,D04
+DIS422,Osteochondritis Dissecans,D04
+DIS423,Pes Planus,D04
+DIS424,Hallux Valgus,D04
+DIS425,Patellofemoral Syndrome,D04
+DIS426,Lichen Planus,D05
+DIS427,Erythema Multiforme,D05
+DIS428,Pityriasis Rosea,D05
+DIS429,Granuloma Annulare,D05
+DIS430,Hidradenitis Suppurativa,D05
+DIS431,Eosinophilic Oesophagitis,D06
+DIS432,Microscopic Colitis,D06
+DIS433,Primary Sclerosing Cholangitis,D06
+DIS434,Autoimmune Hepatitis,D06
+DIS435,Zenker's Diverticulum,D06
+DIS436,Alpha-1 Antitrypsin Deficiency,D07
+DIS437,Hypersensitivity Pneumonitis,D07
+DIS438,Lymphangioleiomyomatosis,D07
+DIS439,Pulmonary Arteriovenous Malformation,D07
+DIS440,Bronchiolitis,D07
+DIS441,Autoimmune Thyroiditis,D08
+DIS442,De Quervain Thyroiditis,D08
+DIS443,Thyroid Storm,D08
+DIS444,Hypogonadism,D08
+DIS445,Androgen Insensitivity Syndrome,D08
+DIS446,Renal Amyloidosis,D09
+DIS447,Thin Basement Membrane Disease,D09
+DIS448,Oxalate Nephropathy,D09
+DIS449,Medullary Sponge Kidney,D09
+DIS450,Renal Tubular Acidosis Type 2,D09
+DIS451,Penile Cancer,D10
+DIS452,Fournier's Gangrene,D10
+DIS453,Urethral Cancer,D10
+DIS454,Retroperitoneal Fibrosis,D10
+DIS455,Vesicovaginal Fistula,D10
+DIS456,Adenomyosis,D11
+DIS457,Asherman's Syndrome,D11
+DIS458,Mullerian Anomalies,D11
+DIS459,Placenta Praevia,D11
+DIS460,Placental Abruption,D11
+DIS461,Congenital Rubella Syndrome,D12
+DIS462,Phenylketonuria,D12
+DIS463,Down Syndrome,D12
+DIS464,Neonatal Sepsis,D12
+DIS465,Hirschsprung Disease,D12
+DIS466,Eyelid Tumour,D13
+DIS467,Central Serous Chorioretinopathy,D13
+DIS468,Branch Retinal Vein Occlusion,D13
+DIS469,Ocular Hypertension,D13
+DIS470,Lacrimal Duct Obstruction,D13
+DIS471,Otitic Barotrauma,D14
+DIS472,Vocal Cord Paralysis,D14
+DIS473,Parotid Gland Tumour,D14
+DIS474,Nasopharyngeal Carcinoma,D14
+DIS475,Temporomandibular Joint Disorder,D14
+DIS476,Specific Phobia,D15
+DIS477,Adjustment Disorder,D15
+DIS478,Burnout,D15
+DIS479,Grief Disorder,D15
+DIS480,Conversion Disorder,D15
+DIS481,Mesothelioma,D16
+DIS482,Carcinoid Tumour,D16
+DIS483,Ewing's Sarcoma,D16
+DIS484,Retinoblastoma,D16
+DIS485,Wilms' Tumour,D16
+DIS486,Essential Thrombocythaemia,D17
+DIS487,Myelofibrosis,D17
+DIS488,Paroxysmal Nocturnal Haemoglobinuria,D17
+DIS489,Warm Autoimmune Haemolytic Anaemia,D17
+DIS490,Cold Agglutinin Disease,D17
+DIS491,Adult Onset Still's Disease,D18
+DIS492,Eosinophilic Granulomatosis,D18
+DIS493,Polyarteritis Nodosa,D18
+DIS494,Spondyloarthropathy,D18
+DIS495,Microscopic Polyangiitis,D18
+DIS496,Monkeypox,D19
+DIS497,Q Fever,D19
+DIS498,Rocky Mountain Spotted Fever,D19
+DIS499,Tularaemia,D19
+DIS500,Hantavirus Pulmonary Syndrome,D19
+DIS501,Cauda Equina Syndrome,D20
+DIS502,Testicular Torsion,D20
+DIS503,Ludwig's Angina,D20
+DIS504,Boerhaave Syndrome,D20
+DIS505,Aortic Dissection,D20
+DIS506,Systemic Vasculitis,D01
+DIS507,Eosinophilia,D01
+DIS508,Hypercalcaemia,D01
+DIS509,Hyponatraemia,D01
+DIS510,Hyperkalaemia,D01
+DIS511,Hypokalaemia,D01
+DIS512,Hyperuricaemia,D01
+DIS513,Cor Pulmonale,D02
+DIS514,Libman-Sacks Endocarditis,D02
+DIS515,Loeffler Endocarditis,D02
+DIS516,Non-Bacterial Thrombotic Endocarditis,D02
+DIS517,Stiff Person Syndrome,D03
+DIS518,Neuromyelitis Optica,D03
+DIS519,Cerebral Autosomal Dominant Arteriopathy,D03
+DIS520,Anti-NMDA Receptor Encephalitis,D03
+DIS521,Tarsal Tunnel Syndrome,D04
+DIS522,Kienbock Disease,D04
+DIS523,Dupuytren's Contracture,D04
+DIS524,Trigger Finger,D04
+DIS525,Mycosis Fungoides,D05
+DIS526,Dermatitis Herpetiformis,D05
+DIS527,Acanthosis Nigricans,D05
+DIS528,Pyoderma Gangrenosum,D05
+DIS529,Budd-Chiari Syndrome,D06
+DIS530,Portal Hypertension,D06
+DIS531,Short Bowel Syndrome,D06
+DIS532,Intestinal Pseudo-obstruction,D06
+DIS533,Goodpasture Syndrome,D07
+DIS534,Wegener's Granulomatosis,D07
+DIS535,Churg-Strauss Syndrome,D07
+DIS536,Idiopathic Pulmonary Arterial Hypertension,D07
+DIS537,Multiple Endocrine Neoplasia Type 1,D08
+DIS538,Multiple Endocrine Neoplasia Type 2,D08
+DIS539,Carcinoid Syndrome,D08
+DIS540,Zollinger-Ellison Syndrome,D08
+DIS541,Contrast Nephropathy,D09
+DIS542,Radiation Nephritis,D09
+DIS543,Cast Nephropathy,D09
+DIS544,Urethral Diverticulum,D10
+DIS545,Seminal Vesicle Cyst,D10
+DIS546,Ovarian Hyperstimulation Syndrome,D11
+DIS547,Chronic Pelvic Pain,D11
+DIS548,Pelvic Organ Prolapse,D11
+DIS549,Galactosaemia,D12
+DIS550,Maple Syrup Urine Disease,D12
+DIS551,Congenital Adrenal Hyperplasia,D12
+DIS552,Biliary Atresia,D12
+DIS553,Herpes Simplex Keratitis,D13
+DIS554,Acanthamoeba Keratitis,D13
+DIS555,Scleritis,D13
+DIS556,Branchial Cleft Cyst,D14
+DIS557,Thyroglossal Duct Cyst,D14
+DIS558,Parapharyngeal Abscess,D14
+DIS559,Body Dysmorphic Disorder,D15
+DIS560,Trichotillomania,D15
+DIS561,Excoriation Disorder,D15
+DIS562,Gastrointestinal Stromal Tumour,D16
+DIS563,Cholangiocarcinoma,D16
+DIS564,Adrenocortical Carcinoma,D16
+DIS565,Haemophagocytic Lymphohistiocytosis,D17
+DIS566,Mastocytosis,D17
+DIS567,SAPHO Syndrome,D18
+DIS568,Palindromic Rheumatism,D18
+DIS569,Nocardiosis,D19
+DIS570,Actinomycosis,D19
+DIS571,Melioidosis,D19
+DIS572,Tension Pneumothorax,D20
+DIS573,Massive Haemothorax,D20

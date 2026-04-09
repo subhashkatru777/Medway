@@ -1,0 +1,1442 @@
+symptom_id,symptom_name
+SYM0001,runny nose
+SYM0002,sneezing
+SYM0003,sore throat
+SYM0004,mild fever
+SYM0005,nasal congestion
+SYM0006,cough
+SYM0007,headache
+SYM0008,high fever
+SYM0009,body aches
+SYM0010,fatigue
+SYM0011,dry cough
+SYM0012,chills
+SYM0013,prolonged fever
+SYM0014,abdominal pain
+SYM0015,weakness
+SYM0016,loss of appetite
+SYM0017,rash
+SYM0018,constipation
+SYM0019,cyclic fever
+SYM0020,sweating
+SYM0021,nausea
+SYM0022,muscle pain
+SYM0023,severe headache
+SYM0024,eye pain
+SYM0025,joint pain
+SYM0026,bleeding gums
+SYM0027,fever
+SYM0028,joint swelling
+SYM0029,diarrhoea
+SYM0030,vomiting
+SYM0031,stomach cramps
+SYM0032,dehydration
+SYM0033,pallor
+SYM0034,shortness of breath
+SYM0035,dizziness
+SYM0036,cold hands
+SYM0037,brittle nails
+SYM0038,thirst
+SYM0039,dry mouth
+SYM0040,dark urine
+SYM0041,sunken eyes
+SYM0042,decreased urination
+SYM0043,high body temperature
+SYM0044,hot dry skin
+SYM0045,confusion
+SYM0046,rapid pulse
+SYM0047,unconsciousness
+SYM0048,bone pain
+SYM0049,muscle weakness
+SYM0050,depression
+SYM0051,hair loss
+SYM0052,back pain
+SYM0053,impaired healing
+SYM0054,numbness
+SYM0055,memory loss
+SYM0056,mood changes
+SYM0057,pale skin
+SYM0058,balance problems
+SYM0059,chest pain
+SYM0060,frequent infections
+SYM0061,excess weight
+SYM0062,breathlessness
+SYM0063,snoring
+SYM0064,weight loss
+SYM0065,stunted growth
+SYM0066,dry skin
+SYM0067,poor wound healing
+SYM0068,rapid breathing
+SYM0069,rapid heart rate
+SYM0070,low blood pressure
+SYM0071,cold clammy skin
+SYM0072,decreased urine
+SYM0073,muscle aches
+SYM0074,red eyes
+SYM0075,jaundice
+SYM0076,eschar
+SYM0077,swollen lymph nodes
+SYM0078,agitation
+SYM0079,hallucinations
+SYM0080,excessive salivation
+SYM0081,paralysis
+SYM0082,hydrophobia
+SYM0083,blurred vision
+SYM0084,nosebleeds
+SYM0085,palpitations
+SYM0086,jaw pain
+SYM0087,severe chest pain
+SYM0088,left arm pain
+SYM0089,leg swelling
+SYM0090,rapid heartbeat
+SYM0091,persistent cough
+SYM0092,weight gain
+SYM0093,irregular heartbeat
+SYM0094,fainting
+SYM0095,chest tightness
+SYM0096,chest pressure
+SYM0097,shoulder pain
+SYM0098,heart murmur
+SYM0099,anxiety
+SYM0100,sharp chest pain
+SYM0101,swelling
+SYM0102,night sweats
+SYM0103,leg pain
+SYM0104,redness
+SYM0105,warmth
+SYM0106,leg cramps
+SYM0107,skin discolouration
+SYM0108,sudden shortness of breath
+SYM0109,coughing blood
+SYM0110,leg pain on walking
+SYM0111,cold legs
+SYM0112,leg numbness
+SYM0113,weak pulse
+SYM0114,slow healing wounds
+SYM0115,leg discolouration
+SYM0116,hair loss on legs
+SYM0117,swollen joints
+SYM0118,bluish skin
+SYM0119,poor weight gain
+SYM0120,frequent respiratory infections
+SYM0121,swollen legs
+SYM0122,irregular pulse
+SYM0123,rapid shallow breathing
+SYM0124,pulsating abdomen
+SYM0125,hoarseness
+SYM0126,swallowing difficulty
+SYM0127,light sensitivity
+SYM0128,sound sensitivity
+SYM0129,aura
+SYM0130,throbbing pain
+SYM0131,seizures
+SYM0132,loss of consciousness
+SYM0133,muscle stiffness
+SYM0134,staring spells
+SYM0135,uncontrolled movements
+SYM0136,temporary memory loss
+SYM0137,sudden face drooping
+SYM0138,arm weakness
+SYM0139,speech difficulty
+SYM0140,vision loss
+SYM0141,loss of balance
+SYM0142,tremors
+SYM0143,slow movement
+SYM0144,muscle rigidity
+SYM0145,speech changes
+SYM0146,writing changes
+SYM0147,mask-like face
+SYM0148,disorientation
+SYM0149,difficulty with tasks
+SYM0150,language problems
+SYM0151,wandering
+SYM0152,vision problems
+SYM0153,cognitive issues
+SYM0154,bladder problems
+SYM0155,neck stiffness
+SYM0156,altered consciousness
+SYM0157,stiff neck
+SYM0158,sensitivity to light
+SYM0159,facial drooping
+SYM0160,inability to close eye
+SYM0161,drooling
+SYM0162,taste changes
+SYM0163,ear pain
+SYM0164,sensitivity to sound
+SYM0165,severe facial pain
+SYM0166,electric shock pain
+SYM0167,pain on chewing
+SYM0168,pain on speaking
+SYM0169,pain on touching face
+SYM0170,burning sensation
+SYM0171,weakness in legs
+SYM0172,pins and needles
+SYM0173,difficulty walking
+SYM0174,breathing difficulty
+SYM0175,facial weakness
+SYM0176,poor coordination
+SYM0177,involuntary movements
+SYM0178,speech problems
+SYM0179,intellectual disability
+SYM0180,cognitive decline
+SYM0181,difficulty swallowing
+SYM0182,personality changes
+SYM0183,slurred speech
+SYM0184,muscle twitching
+SYM0185,muscle cramps
+SYM0186,cognitive changes
+SYM0187,sudden weakness
+SYM0188,burning pain
+SYM0189,sharp pain
+SYM0190,sensitivity to touch
+SYM0191,tingling
+SYM0192,electric shock sensation
+SYM0193,excessive sleepiness
+SYM0194,sudden muscle weakness
+SYM0195,sleep paralysis
+SYM0196,disrupted night sleep
+SYM0197,automatic behaviour
+SYM0198,memory lapses
+SYM0199,leg discomfort
+SYM0200,urge to move legs
+SYM0201,worse at night
+SYM0202,sleep disturbance
+SYM0203,crawling sensation
+SYM0204,relief with movement
+SYM0205,daytime fatigue
+SYM0206,daily headache
+SYM0207,head pressure
+SYM0208,neck pain
+SYM0209,drooping eyelids
+SYM0210,double vision
+SYM0211,joint stiffness
+SYM0212,reduced range of motion
+SYM0213,grating sensation
+SYM0214,bone spurs
+SYM0215,joint tenderness
+SYM0216,joint deformity
+SYM0217,loss of height
+SYM0218,stooped posture
+SYM0219,fragile bones
+SYM0220,bone fractures
+SYM0221,sudden joint pain
+SYM0222,tenderness
+SYM0223,limited range of motion
+SYM0224,recurrent attacks
+SYM0225,uneven shoulders
+SYM0226,uneven waist
+SYM0227,one hip higher
+SYM0228,visible spine curve
+SYM0229,radiating leg pain
+SYM0230,pain on movement
+SYM0231,stiffness
+SYM0232,aching pain
+SYM0233,pain at night
+SYM0234,difficulty reaching
+SYM0235,hand numbness
+SYM0236,tingling in fingers
+SYM0237,wrist pain
+SYM0238,grip weakness
+SYM0239,hand weakness
+SYM0240,night symptoms
+SYM0241,outer elbow pain
+SYM0242,forearm pain
+SYM0243,arm pain
+SYM0244,heel pain
+SYM0245,foot pain
+SYM0246,morning pain
+SYM0247,arch pain
+SYM0248,pain
+SYM0249,bruising
+SYM0250,deformity
+SYM0251,inability to move
+SYM0252,limited movement
+SYM0253,instability
+SYM0254,popping sound
+SYM0255,muscle spasm
+SYM0256,irritability
+SYM0257,bone deformity
+SYM0258,fractures
+SYM0259,hearing loss
+SYM0260,increased bone size
+SYM0261,lower back pain
+SYM0262,pain improves with exercise
+SYM0263,eye inflammation
+SYM0264,reduced flexibility
+SYM0265,hip pain
+SYM0266,mild swelling
+SYM0267,knee pain
+SYM0268,clicking sound
+SYM0269,locking knee
+SYM0270,inability to fully extend
+SYM0271,feeling unstable
+SYM0272,night pain
+SYM0273,crackling sensation
+SYM0274,difficulty lifting
+SYM0275,shoulder stiffness
+SYM0276,pimples
+SYM0277,blackheads
+SYM0278,whiteheads
+SYM0279,oily skin
+SYM0280,scarring
+SYM0281,pustules
+SYM0282,red patches
+SYM0283,silvery scales
+SYM0284,itching
+SYM0285,burning
+SYM0286,thickened nails
+SYM0287,red rash
+SYM0288,weeping skin
+SYM0289,thickened skin
+SYM0290,blistering
+SYM0291,scaly patches
+SYM0292,raised welts
+SYM0293,hives
+SYM0294,angioedema
+SYM0295,scaling
+SYM0296,ring-shaped rash
+SYM0297,nail thickening
+SYM0298,intense itching
+SYM0299,pimple-like rash
+SYM0300,burrow tracks
+SYM0301,sores
+SYM0302,night itching
+SYM0303,rash in folds
+SYM0304,crusting
+SYM0305,itchy blisters
+SYM0306,malaise
+SYM0307,painful rash
+SYM0308,blisters
+SYM0309,white patches
+SYM0310,loss of skin colour
+SYM0311,premature greying
+SYM0312,eye discolouration
+SYM0313,mucous membrane discolouration
+SYM0314,sunburn susceptibility
+SYM0315,hair whitening
+SYM0316,facial redness
+SYM0317,skin thickening
+SYM0318,eye irritation
+SYM0319,enlarged nose
+SYM0320,flushing
+SYM0321,flaky skin
+SYM0322,dandruff
+SYM0323,red skin
+SYM0324,greasy patches
+SYM0325,skin scales
+SYM0326,dry cracked skin
+SYM0327,patchy hair loss
+SYM0328,smooth bald patches
+SYM0329,nail pitting
+SYM0330,hair thinning
+SYM0331,short broken hairs
+SYM0332,skin tightness
+SYM0333,honey-coloured crust
+SYM0334,fluid-filled lesions
+SYM0335,dark patches
+SYM0336,tan patches
+SYM0337,brown discolouration
+SYM0338,symmetrical patches
+SYM0339,facial patches
+SYM0340,skin darkening
+SYM0341,hormonal changes
+SYM0342,blisters on skin
+SYM0343,mouth sores
+SYM0344,painful erosions
+SYM0345,fragile blisters
+SYM0346,skin peeling
+SYM0347,fragile skin
+SYM0348,nail problems
+SYM0349,discoloured patches
+SYM0350,patches on trunk
+SYM0351,patches on neck
+SYM0352,red bumps
+SYM0353,pus-filled blisters
+SYM0354,crusty sores
+SYM0355,swollen skin
+SYM0356,heartburn
+SYM0357,acid reflux
+SYM0358,regurgitation
+SYM0359,bloating
+SYM0360,burning stomach pain
+SYM0361,belching
+SYM0362,intolerance to fatty foods
+SYM0363,mucus in stool
+SYM0364,gas
+SYM0365,incomplete bowel movement
+SYM0366,blood in stool
+SYM0367,anal fissure
+SYM0368,bloody diarrhoea
+SYM0369,urgency
+SYM0370,rectal pain
+SYM0371,abdominal swelling
+SYM0372,clay-coloured stools
+SYM0373,severe abdominal pain
+SYM0374,abdominal bloating
+SYM0375,sudden abdominal pain
+SYM0376,abdominal rigidity
+SYM0377,pain at navel
+SYM0378,anaemia
+SYM0379,lower abdominal pain
+SYM0380,rectal bleeding
+SYM0381,discomfort
+SYM0382,mucus discharge
+SYM0383,difficulty sitting
+SYM0384,stomach pain
+SYM0385,hiccups
+SYM0386,bowel habit changes
+SYM0387,feeling of incomplete emptying
+SYM0388,abdominal discomfort
+SYM0389,enlarged liver
+SYM0390,spider veins
+SYM0391,right upper abdominal pain
+SYM0392,coughing
+SYM0393,inability to pass gas
+SYM0394,cramping
+SYM0395,abdominal distension
+SYM0396,wheezing
+SYM0397,exercise intolerance
+SYM0398,mucus production
+SYM0399,chronic cough
+SYM0400,cyanosis
+SYM0401,cough with phlegm
+SYM0402,chest discomfort
+SYM0403,unexplained weight loss
+SYM0404,muscle and joint ache
+SYM0405,clubbing of fingers
+SYM0406,loud snoring
+SYM0407,breathing pauses
+SYM0408,gasping during sleep
+SYM0409,morning headache
+SYM0410,daytime sleepiness
+SYM0411,difficulty concentrating
+SYM0412,difficulty breathing lying down
+SYM0413,swollen ankles
+SYM0414,bluish lips
+SYM0415,racing heartbeat
+SYM0416,daily cough
+SYM0417,large amounts of mucus
+SYM0418,pain with breathing
+SYM0419,pain with movement
+SYM0420,sudden chest pain
+SYM0421,barrel chest
+SYM0422,reduced exercise tolerance
+SYM0423,itchy eyes
+SYM0424,watery eyes
+SYM0425,itchy nose
+SYM0426,post-nasal drip
+SYM0427,symptoms at work
+SYM0428,skin lesions
+SYM0429,eye problems
+SYM0430,loss of taste
+SYM0431,loss of smell
+SYM0432,severe shortness of breath
+SYM0433,extreme fatigue
+SYM0434,laboured breathing
+SYM0435,excessive thirst
+SYM0436,frequent urination
+SYM0437,fruity breath
+SYM0438,cold intolerance
+SYM0439,heat intolerance
+SYM0440,bulging eyes
+SYM0441,moon face
+SYM0442,buffalo hump
+SYM0443,stretch marks
+SYM0444,thin skin
+SYM0445,easy bruising
+SYM0446,darkening of skin
+SYM0447,salt craving
+SYM0448,irregular periods
+SYM0449,acne
+SYM0450,excess hair growth
+SYM0451,darkened skin
+SYM0452,infertility
+SYM0453,cataracts
+SYM0454,kidney stones
+SYM0455,increased thirst
+SYM0456,excessive urination
+SYM0457,dilute urine
+SYM0458,enlarged hands
+SYM0459,enlarged feet
+SYM0460,facial changes
+SYM0461,excessive sweating
+SYM0462,abnormal height
+SYM0463,large hands
+SYM0464,large feet
+SYM0465,delayed puberty
+SYM0466,poor feeding
+SYM0467,hoarse cry
+SYM0468,slow growth
+SYM0469,puffy face
+SYM0470,central obesity
+SYM0471,high blood pressure
+SYM0472,high blood sugar
+SYM0473,abnormal cholesterol
+SYM0474,hormonal imbalance
+SYM0475,weight changes
+SYM0476,vision changes
+SYM0477,lump in throat
+SYM0478,hyperthyroid symptoms
+SYM0479,swollen neck
+SYM0480,tight feeling in throat
+SYM0481,blood in urine
+SYM0482,foamy urine
+SYM0483,frothy urine
+SYM0484,severe flank pain
+SYM0485,burning urination
+SYM0486,cloudy urine
+SYM0487,foul-smelling urine
+SYM0488,pelvic pain
+SYM0489,decreased kidney function
+SYM0490,elevated creatinine
+SYM0491,side pain
+SYM0492,pain while urinating
+SYM0493,growth retardation
+SYM0494,kidney failure
+SYM0495,abdominal mass
+SYM0496,painful urination
+SYM0497,severe pain
+SYM0498,oedema
+SYM0499,low urine output
+SYM0500,weak urine stream
+SYM0501,difficulty starting urination
+SYM0502,dribbling
+SYM0503,incomplete bladder emptying
+SYM0504,night urination
+SYM0505,urinary retention
+SYM0506,difficulty urinating
+SYM0507,erectile dysfunction
+SYM0508,difficulty achieving erection
+SYM0509,difficulty maintaining erection
+SYM0510,reduced desire
+SYM0511,relationship problems
+SYM0512,stress
+SYM0513,testicular lump
+SYM0514,testicular swelling
+SYM0515,dull ache
+SYM0516,heaviness in scrotum
+SYM0517,breast tenderness
+SYM0518,scrotal pain
+SYM0519,testicular atrophy
+SYM0520,fertility problems
+SYM0521,scrotal heaviness
+SYM0522,visible veins
+SYM0523,dragging sensation
+SYM0524,scrotal swelling
+SYM0525,painless swelling
+SYM0526,heaviness
+SYM0527,pain on squeezing
+SYM0528,translucency on light
+SYM0529,smooth swelling
+SYM0530,discharge
+SYM0531,pain with urination
+SYM0532,penile curvature
+SYM0533,painful erection
+SYM0534,reduced length
+SYM0535,scar tissue
+SYM0536,plaque
+SYM0537,straining
+SYM0538,incomplete emptying
+SYM0539,urinary tract infection
+SYM0540,pain during intercourse
+SYM0541,pain with bladder filling
+SYM0542,pressure
+SYM0543,sudden urge to urinate
+SYM0544,incontinence
+SYM0545,pelvic discomfort
+SYM0546,urine leakage
+SYM0547,stress incontinence
+SYM0548,overflow incontinence
+SYM0549,weak pelvic floor
+SYM0550,absent testicle
+SYM0551,inguinal swelling
+SYM0552,increased cancer risk
+SYM0553,tight foreskin
+SYM0554,pain during erection
+SYM0555,difficulty retracting foreskin
+SYM0556,urinary problems
+SYM0557,recurrent infections
+SYM0558,prolonged erection
+SYM0559,penile rigidity
+SYM0560,inability to urinate
+SYM0561,weak stream
+SYM0562,urinary frequency
+SYM0563,radiating pain
+SYM0564,pelvic pressure
+SYM0565,urinary incontinence
+SYM0566,uncomfortable intercourse
+SYM0567,recurrent urinary infections
+SYM0568,bedwetting
+SYM0569,kidney damage
+SYM0570,painful periods
+SYM0571,heavy periods
+SYM0572,pain during bowel movements
+SYM0573,backache
+SYM0574,prolonged periods
+SYM0575,painful intercourse
+SYM0576,vaginal bleeding
+SYM0577,unusual discharge
+SYM0578,quick satiety
+SYM0579,urinary urgency
+SYM0580,abnormal vaginal bleeding
+SYM0581,vaginal discharge
+SYM0582,excess hair
+SYM0583,thinning hair
+SYM0584,darkening skin
+SYM0585,irregular bleeding
+SYM0586,odour
+SYM0587,heavy bleeding
+SYM0588,passing large clots
+SYM0589,soaking pads hourly
+SYM0590,hot flashes
+SYM0591,vaginal dryness
+SYM0592,sharp pelvic pain
+SYM0593,protein in urine
+SYM0594,chronic vulvar pain
+SYM0595,stinging
+SYM0596,rawness
+SYM0597,throbbing
+SYM0598,vulvar lump
+SYM0599,discomfort when walking
+SYM0600,absent periods
+SYM0601,nipple discharge
+SYM0602,sleep problems
+SYM0603,seizure
+SYM0604,muscle jerking
+SYM0605,drowsiness
+SYM0606,temporary paralysis
+SYM0607,red lips
+SYM0608,swollen hands
+SYM0609,swollen feet
+SYM0610,barking cough
+SYM0611,hoarse voice
+SYM0612,stridor
+SYM0613,difficulty breathing
+SYM0614,decreased appetite
+SYM0615,sores in mouth
+SYM0616,rash on hands
+SYM0617,rash on feet
+SYM0618,rash on buttocks
+SYM0619,severe cough
+SYM0620,whooping sound
+SYM0621,vomiting after cough
+SYM0622,koplik spots
+SYM0623,swollen salivary glands
+SYM0624,rash after fever breaks
+SYM0625,puffy eyes
+SYM0626,mild cough
+SYM0627,tugging at ear
+SYM0628,difficulty sleeping
+SYM0629,currant jelly stools
+SYM0630,swollen tonsils
+SYM0631,bad breath
+SYM0632,inattention
+SYM0633,hyperactivity
+SYM0634,impulsivity
+SYM0635,restlessness
+SYM0636,forgetfulness
+SYM0637,interrupting others
+SYM0638,speech delay
+SYM0639,social difficulties
+SYM0640,repetitive behaviour
+SYM0641,sensory sensitivities
+SYM0642,avoids eye contact
+SYM0643,rigid routines
+SYM0644,intellectual challenges
+SYM0645,yellow skin
+SYM0646,yellow eyes
+SYM0647,high-pitched cry
+SYM0648,lethargy
+SYM0649,pale stools
+SYM0650,short stature
+SYM0651,delayed development
+SYM0652,coma
+SYM0653,impaired consciousness
+SYM0654,respiratory distress
+SYM0655,hypoglycaemia
+SYM0656,cloudy vision
+SYM0657,poor night vision
+SYM0658,colour fading
+SYM0659,glare sensitivity
+SYM0660,frequent prescription changes
+SYM0661,gradual vision loss
+SYM0662,halos around lights
+SYM0663,tunnel vision
+SYM0664,central vision loss
+SYM0665,blurry vision
+SYM0666,straight lines appear wavy
+SYM0667,difficulty recognising faces
+SYM0668,dark or empty areas
+SYM0669,colour dullness
+SYM0670,need for bright light
+SYM0671,floaters
+SYM0672,dark areas
+SYM0673,vision fluctuation
+SYM0674,colour changes
+SYM0675,impaired contrast
+SYM0676,swollen eyelids
+SYM0677,burning eyes
+SYM0678,eye fatigue
+SYM0679,sudden floaters
+SYM0680,flashes of light
+SYM0681,shadow in vision
+SYM0682,reduced peripheral vision
+SYM0683,curtain over vision
+SYM0684,misaligned eyes
+SYM0685,uncoordinated eye movements
+SYM0686,tilting head
+SYM0687,squinting
+SYM0688,poor depth perception
+SYM0689,amblyopia
+SYM0690,poor vision one eye
+SYM0691,head tilting
+SYM0692,eye turn
+SYM0693,difficulty reading
+SYM0694,eyestrain
+SYM0695,multiple images
+SYM0696,halos
+SYM0697,streaking
+SYM0698,ghost images
+SYM0699,eye pressure
+SYM0700,dark spots
+SYM0701,eyelid redness
+SYM0702,itchy eyelids
+SYM0703,crusty eyelashes
+SYM0704,visible growth on eye
+SYM0705,irritation
+SYM0706,tearing
+SYM0707,foreign body sensation
+SYM0708,pain on eye movement
+SYM0709,colour vision changes
+SYM0710,reduced contrast
+SYM0711,eyelid lump
+SYM0712,eyelid swelling
+SYM0713,eyelid tenderness
+SYM0714,heavy eyelid
+SYM0715,poor vision in low light
+SYM0716,difficulty driving at night
+SYM0717,delayed adaptation to dark
+SYM0718,stumbling in dark
+SYM0719,poor contrast
+SYM0720,swollen eyelid
+SYM0721,eye bulging
+SYM0722,restricted eye movement
+SYM0723,sudden vision loss
+SYM0724,painless loss of vision
+SYM0725,afferent pupillary defect
+SYM0726,visual field defect
+SYM0727,pale retina
+SYM0728,cherry red spot
+SYM0729,reduced visual acuity
+SYM0730,visual field defects
+SYM0731,facial pain
+SYM0732,muffled hearing
+SYM0733,nasal obstruction
+SYM0734,mouth breathing
+SYM0735,sleep apnoea
+SYM0736,nasal voice
+SYM0737,frequent ear infections
+SYM0738,muffled sounds
+SYM0739,asking repetition
+SYM0740,turning up volume
+SYM0741,difficulty hearing consonants
+SYM0742,withdrawal from conversation
+SYM0743,tinnitus
+SYM0744,ringing in ears
+SYM0745,buzzing
+SYM0746,hissing
+SYM0747,clicking
+SYM0748,roaring
+SYM0749,spinning sensation
+SYM0750,nose bleeding
+SYM0751,anterior bleed
+SYM0752,posterior bleed
+SYM0753,blood in throat
+SYM0754,swallowing blood
+SYM0755,history of hypertension
+SYM0756,dry throat
+SYM0757,difficulty speaking
+SYM0758,progressive hearing loss
+SYM0759,soft spoken voice
+SYM0760,paracusis
+SYM0761,low frequency hearing loss
+SYM0762,family history
+SYM0763,severe sore throat
+SYM0764,muffled voice
+SYM0765,voice fatigue
+SYM0766,breathy voice
+SYM0767,loss of range
+SYM0768,throat clearing
+SYM0769,pain when speaking
+SYM0770,ear discharge
+SYM0771,facial numbness
+SYM0772,noisy breathing
+SYM0773,swallowing pain
+SYM0774,swelling behind ear
+SYM0775,vertigo attacks
+SYM0776,ear fullness
+SYM0777,unsteadiness
+SYM0778,feeling of fullness
+SYM0779,reflex cough
+SYM0780,persistent sadness
+SYM0781,loss of interest
+SYM0782,concentration difficulty
+SYM0783,appetite changes
+SYM0784,thoughts of death
+SYM0785,excessive worry
+SYM0786,muscle tension
+SYM0787,delusions
+SYM0788,disorganised speech
+SYM0789,flat affect
+SYM0790,social withdrawal
+SYM0791,cognitive impairment
+SYM0792,lack of motivation
+SYM0793,mood swings
+SYM0794,mania
+SYM0795,elevated mood
+SYM0796,decreased sleep
+SYM0797,grandiosity
+SYM0798,reckless behaviour
+SYM0799,flashbacks
+SYM0800,nightmares
+SYM0801,avoidance
+SYM0802,hypervigilance
+SYM0803,emotional numbness
+SYM0804,obsessive thoughts
+SYM0805,compulsive behaviours
+SYM0806,repetitive actions
+SYM0807,fear of contamination
+SYM0808,checking behaviour
+SYM0809,counting rituals
+SYM0810,panic attacks
+SYM0811,trembling
+SYM0812,fear of dying
+SYM0813,fear of social situations
+SYM0814,excessive self-consciousness
+SYM0815,avoiding social events
+SYM0816,physical symptoms
+SYM0817,blushing
+SYM0818,distorted body image
+SYM0819,restrictive eating
+SYM0820,binge eating
+SYM0821,purging
+SYM0822,obsession with weight
+SYM0823,food rituals
+SYM0824,excessive exercise
+SYM0825,emotional instability
+SYM0826,unstable relationships
+SYM0827,self-harm
+SYM0828,fear of abandonment
+SYM0829,identity disturbance
+SYM0830,suicidal behaviour
+SYM0831,craving
+SYM0832,loss of control
+SYM0833,withdrawal symptoms
+SYM0834,tolerance
+SYM0835,continued use despite problems
+SYM0836,neglecting responsibilities
+SYM0837,difficulty falling asleep
+SYM0838,staying awake at night
+SYM0839,early morning waking
+SYM0840,mood disturbances
+SYM0841,losing items
+SYM0842,difficulty completing tasks
+SYM0843,easily distracted
+SYM0844,daydreaming
+SYM0845,poor time management
+SYM0846,aggression
+SYM0847,destruction of property
+SYM0848,deceitfulness
+SYM0849,rule violations
+SYM0850,bullying
+SYM0851,cruelty to animals
+SYM0852,truancy
+SYM0853,multiple physical complaints
+SYM0854,gastrointestinal symptoms
+SYM0855,neurological symptoms
+SYM0856,sexual symptoms
+SYM0857,medical unexplained symptoms
+SYM0858,frequent medical visits
+SYM0859,false beliefs
+SYM0860,paranoia
+SYM0861,jealousy delusions
+SYM0862,persecutory beliefs
+SYM0863,grandiose delusions
+SYM0864,somatic delusions
+SYM0865,erotomania
+SYM0866,fear of open spaces
+SYM0867,fear of public transport
+SYM0868,housebound
+SYM0869,fear of crowds
+SYM0870,health anxiety
+SYM0871,fear of serious illness
+SYM0872,preoccupation with symptoms
+SYM0873,reassurance seeking
+SYM0874,excessive checking
+SYM0875,catastrophising
+SYM0876,multiple personalities
+SYM0877,memory gaps
+SYM0878,depersonalisation
+SYM0879,derealisation
+SYM0880,hearing internal voices
+SYM0881,explosive outbursts
+SYM0882,disproportionate anger
+SYM0883,road rage
+SYM0884,domestic violence
+SYM0885,guilt after outburst
+SYM0886,physical aggression
+SYM0887,breast lump
+SYM0888,breast pain
+SYM0889,skin changes
+SYM0890,nipple changes
+SYM0891,armpit lump
+SYM0892,breast shape change
+SYM0893,blood in sputum
+SYM0894,bloody stools
+SYM0895,new-onset diabetes
+SYM0896,fatty stools
+SYM0897,neck lump
+SYM0898,bowel changes
+SYM0899,changing mole
+SYM0900,irregular borders
+SYM0901,multiple colours
+SYM0902,large diameter
+SYM0903,asymmetric mole
+SYM0904,itching mole
+SYM0905,bleeding mole
+SYM0906,speech difficulties
+SYM0907,memory problems
+SYM0908,kidney problems
+SYM0909,elevated calcium
+SYM0910,mouth sore
+SYM0911,lump in mouth
+SYM0912,red patch
+SYM0913,white patch
+SYM0914,changing skin lesion
+SYM0915,non-healing sore
+SYM0916,pearly bump
+SYM0917,flat flesh-coloured lesion
+SYM0918,bleeding sore
+SYM0919,scar-like lesion
+SYM0920,pain crises
+SYM0921,delayed growth
+SYM0922,stroke
+SYM0923,facial bone deformities
+SYM0924,excessive bleeding
+SYM0925,prolonged bleeding
+SYM0926,joint bleeding
+SYM0927,skin bruising
+SYM0928,redness of skin
+SYM0929,petechiae
+SYM0930,leg heaviness
+SYM0931,enlarged spleen
+SYM0932,bleeding
+SYM0933,heavy menstrual bleeding
+SYM0934,bleeding after surgery
+SYM0935,gum bleeding
+SYM0936,limb swelling
+SYM0937,aching
+SYM0938,restricted range of motion
+SYM0939,recurring infections
+SYM0940,hardening of skin
+SYM0941,blood clots
+SYM0942,deep vein thrombosis
+SYM0943,pulmonary embolism
+SYM0944,miscarriage
+SYM0945,diabetes
+SYM0946,liver disease
+SYM0947,heart problems
+SYM0948,skin bronzing
+SYM0949,red urine
+SYM0950,low platelet count
+SYM0951,strokes
+SYM0952,skin mottling
+SYM0953,leg ulcers
+SYM0954,lymph node swelling
+SYM0955,visual disturbances
+SYM0956,peripheral neuropathy
+SYM0957,infections
+SYM0958,hypercalcaemia
+SYM0959,smooth tongue
+SYM0960,butterfly rash
+SYM0961,photosensitivity
+SYM0962,joint inflammation
+SYM0963,morning stiffness
+SYM0964,symmetrical joint involvement
+SYM0965,rheumatoid nodules
+SYM0966,low back pain
+SYM0967,improved with exercise
+SYM0968,reduced spinal flexibility
+SYM0969,psoriasis
+SYM0970,nail changes
+SYM0971,enthesitis
+SYM0972,dactylitis
+SYM0973,dry eyes
+SYM0974,skin rashes
+SYM0975,nerve problems
+SYM0976,big toe pain
+SYM0977,recurring attacks
+SYM0978,urethritis
+SYM0979,oral ulcers
+SYM0980,skin rash
+SYM0981,purple eyelids
+SYM0982,difficulty climbing stairs
+SYM0983,widespread pain
+SYM0984,cognitive difficulties
+SYM0985,irritable bowel
+SYM0986,raynaud's phenomenon
+SYM0987,digestive problems
+SYM0988,finger ulcers
+SYM0989,recurrent miscarriage
+SYM0990,thrombocytopenia
+SYM0991,ear inflammation
+SYM0992,nose deformity
+SYM0993,genital ulcers
+SYM0994,vascular inflammation
+SYM0995,growth problems
+SYM0996,oral thrush
+SYM0997,rose spots
+SYM0998,hepatosplenomegaly
+SYM0999,watery diarrhoea
+SYM1000,sudden fever
+SYM1001,jaw stiffness
+SYM1002,muscle spasms
+SYM1003,grey membrane
+SYM1004,whooping
+SYM1005,exhaustion
+SYM1006,conjunctivitis
+SYM1007,neurological changes
+SYM1008,lymphoedema
+SYM1009,swollen limbs
+SYM1010,elephantiasis
+SYM1011,skin sores
+SYM1012,splenomegaly
+SYM1013,hepatomegaly
+SYM1014,pneumonia
+SYM1015,renal failure
+SYM1016,skin lesion
+SYM1017,hypotension
+SYM1018,respiratory depression
+SYM1019,miosis
+SYM1020,hypothermia
+SYM1021,burn injury
+SYM1022,charred skin
+SYM1023,shock
+SYM1024,fluid loss
+SYM1025,tachycardia
+SYM1026,bradycardia
+SYM1027,burns
+SYM1028,cardiac arrhythmia
+SYM1029,respiratory arrest
+SYM1030,soot in mouth
+SYM1031,facial burns
+SYM1032,hunger
+SYM1033,prolonged seizures
+SYM1034,tongue biting
+SYM1035,post-ictal confusion
+SYM1036,rigidity
+SYM1037,rebound tenderness
+SYM1038,distension
+SYM1039,reduced urine
+SYM1040,low oxygen
+SYM1041,heavy sweating
+SYM1042,cool pale skin
+SYM1043,shivering
+SYM1044,cold skin
+SYM1045,slow breathing
+SYM1046,loss of coordination
+SYM1047,massive bleeding
+SYM1048,cold extremities
+SYM1049,insomnia
+SYM1050,stomach upset
+SYM1051,general malaise
+SYM1052,post-exertional malaise
+SYM1053,headaches
+SYM1054,bowel problems
+SYM1055,skin nodules
+SYM1056,enlarged tongue
+SYM1057,psychiatric symptoms
+SYM1058,kayser-fleischer rings
+SYM1059,bronze skin
+SYM1060,slow heartbeat
+SYM1061,sudden cardiac arrest
+SYM1062,muffled heart sounds
+SYM1063,sensory disturbance
+SYM1064,bladder dysfunction
+SYM1065,gait disturbance
+SYM1066,dementia
+SYM1067,falls
+SYM1068,slow movements
+SYM1069,sudden shoulder pain
+SYM1070,muscle wasting
+SYM1071,pain radiating to arm
+SYM1072,loss of reflexes
+SYM1073,limited shoulder movement
+SYM1074,loss of pain sensation
+SYM1075,loss of temperature sensation
+SYM1076,scoliosis
+SYM1077,muscle atrophy
+SYM1078,tightness
+SYM1079,pulse absence
+SYM1080,pain with passive stretch
+SYM1081,locking joint
+SYM1082,catching sensation
+SYM1083,flat foot
+SYM1084,ankle pain
+SYM1085,shin splints
+SYM1086,bunion
+SYM1087,toe pain
+SYM1088,difficulty wearing shoes
+SYM1089,restricted movement
+SYM1090,pain on stairs
+SYM1091,pain on squatting
+SYM1092,knee grinding
+SYM1093,itchy purple bumps
+SYM1094,lacy white patches in mouth
+SYM1095,flat-topped bumps
+SYM1096,target lesions
+SYM1097,herald patch
+SYM1098,christmas tree pattern
+SYM1099,skin-coloured bumps
+SYM1100,mild itching
+SYM1101,no scales
+SYM1102,knuckle rash
+SYM1103,wrist rash
+SYM1104,painful lumps
+SYM1105,abscesses
+SYM1106,tunnels in skin
+SYM1107,sweat gland areas
+SYM1108,recurrent boils
+SYM1109,food impaction
+SYM1110,faecal incontinence
+SYM1111,abnormal liver tests
+SYM1112,aspiration
+SYM1113,neck swelling
+SYM1114,noisy swallowing
+SYM1115,frequent lung infections
+SYM1116,liver problems
+SYM1117,collapsed lung
+SYM1118,chylous pleural effusion
+SYM1119,kidney tumours
+SYM1120,clubbing
+SYM1121,polycythaemia
+SYM1122,brain abscess
+SYM1123,hyperthyroid symptoms followed by hypothyroid
+SYM1124,swollen thyroid
+SYM1125,low libido
+SYM1126,small testicles
+SYM1127,decreased muscle mass
+SYM1128,absence of menstruation
+SYM1129,absent or sparse pubic hair
+SYM1130,undescended testes
+SYM1131,breast development in males
+SYM1132,inguinal hernia
+SYM1133,nephrotic syndrome
+SYM1134,proteinuria
+SYM1135,enlarged kidneys
+SYM1136,no other symptoms
+SYM1137,normal blood pressure
+SYM1138,normal kidney function
+SYM1139,microscopic haematuria
+SYM1140,frequent urinary infections
+SYM1141,failure to thrive
+SYM1142,polyuria
+SYM1143,bone disease
+SYM1144,penile lesion
+SYM1145,sore
+SYM1146,crepitus
+SYM1147,necrosis
+SYM1148,foul odour
+SYM1149,urethral discharge
+SYM1150,continuous urine leakage
+SYM1151,skin irritation
+SYM1152,social isolation
+SYM1153,severe cramping
+SYM1154,enlarged uterus
+SYM1155,chronic pelvic pain
+SYM1156,light or absent periods
+SYM1157,amenorrhoea
+SYM1158,difficulty conceiving
+SYM1159,abdominal cramps
+SYM1160,menstrual problems
+SYM1161,abnormal uterus
+SYM1162,kidney abnormalities
+SYM1163,painless vaginal bleeding
+SYM1164,preterm labour
+SYM1165,low lying placenta
+SYM1166,abnormal presentation
+SYM1167,uterine tenderness
+SYM1168,fetal distress
+SYM1169,uterine rigidity
+SYM1170,heart defects
+SYM1171,small head
+SYM1172,purple skin patches
+SYM1173,behavioural problems
+SYM1174,musty odour
+SYM1175,fair skin
+SYM1176,light hair
+SYM1177,flat facial profile
+SYM1178,upward slanting eyes
+SYM1179,single palmar crease
+SYM1180,poor muscle tone
+SYM1181,congenital heart defects
+SYM1182,temperature instability
+SYM1183,feeding difficulty
+SYM1184,apnoea
+SYM1185,absent bowel movements
+SYM1186,ribbon-like stools
+SYM1187,malnutrition
+SYM1188,lash loss
+SYM1189,eyelid thickening
+SYM1190,chronic blepharitis
+SYM1191,ulcerated eyelid
+SYM1192,chronic conjunctivitis
+SYM1193,blurred central vision
+SYM1194,straight lines appear curved
+SYM1195,colours seem faded
+SYM1196,central scotoma
+SYM1197,metamorphopsia
+SYM1198,micropsia
+SYM1199,macular oedema
+SYM1200,neovascularisation
+SYM1201,haemorrhages
+SYM1202,no symptoms
+SYM1203,increased eye pressure
+SYM1204,visual field changes
+SYM1205,optic nerve changes
+SYM1206,glaucoma risk
+SYM1207,swollen lacrimal sac
+SYM1208,recurrent conjunctivitis
+SYM1209,pain near inner eye corner
+SYM1210,ringing
+SYM1211,vertigo
+SYM1212,feeling of congestion
+SYM1213,perforation
+SYM1214,coughing while eating
+SYM1215,reduced voice volume
+SYM1216,parotid swelling
+SYM1217,facial nerve weakness
+SYM1218,difficulty opening mouth
+SYM1219,neck lymph node
+SYM1220,bloody nasal discharge
+SYM1221,clicking jaw
+SYM1222,limited mouth opening
+SYM1223,jaw locking
+SYM1224,intense fear of specific object
+SYM1225,anticipatory anxiety
+SYM1226,distress
+SYM1227,impaired functioning
+SYM1228,emotional disturbance
+SYM1229,behavioural changes
+SYM1230,sadness
+SYM1231,worry
+SYM1232,hopelessness
+SYM1233,reduced performance
+SYM1234,cynicism
+SYM1235,intense sadness
+SYM1236,yearning
+SYM1237,difficulty accepting loss
+SYM1238,bitterness
+SYM1239,identity confusion
+SYM1240,preoccupation with deceased
+SYM1241,sensory symptoms
+SYM1242,pleural effusion
+SYM1243,white pupil
+SYM1244,red eye
+SYM1245,enlarged pupil
+SYM1246,secondary glaucoma
+SYM1247,tingling in hands
+SYM1248,redness of hands
+SYM1249,haemolytic anaemia
+SYM1250,cold-triggered symptoms
+SYM1251,acrocyanosis
+SYM1252,livedo reticularis
+SYM1253,quotidian fever
+SYM1254,arthritis
+SYM1255,salmon-coloured rash
+SYM1256,liver enlargement
+SYM1257,lymphadenopathy
+SYM1258,asthma
+SYM1259,sinusitis
+SYM1260,nerve damage
+SYM1261,blood eosinophilia
+SYM1262,heart disease
+SYM1263,hypertension
+SYM1264,kidney disease
+SYM1265,lung haemorrhage
+SYM1266,hepatitis
+SYM1267,rash starting on wrists
+SYM1268,skin ulcer
+SYM1269,bilateral leg weakness
+SYM1270,saddle anaesthesia
+SYM1271,bowel dysfunction
+SYM1272,sexual dysfunction
+SYM1273,sciatica
+SYM1274,sudden severe scrotal pain
+SYM1275,high-riding testicle
+SYM1276,erythema
+SYM1277,floor of mouth swelling
+SYM1278,trismus
+SYM1279,submandibular swelling
+SYM1280,severe chest pain after vomiting
+SYM1281,subcutaneous emphysema
+SYM1282,dysphagia
+SYM1283,haematemesis
+SYM1284,sudden severe chest pain
+SYM1285,tearing back pain
+SYM1286,unequal blood pressure
+SYM1287,stroke symptoms
+SYM1288,aortic regurgitation
+SYM1289,pulse deficit
+SYM1290,increased urination
+SYM1291,respiratory problems
+SYM1292,tophi
+SYM1293,gout attacks
+SYM1294,distended neck veins
+SYM1295,eosinophilia
+SYM1296,embolic events
+SYM1297,systemic symptoms
+SYM1298,hyperlordosis
+SYM1299,autonomic dysfunction
+SYM1300,sensory loss
+SYM1301,spinal cord symptoms
+SYM1302,migraines
+SYM1303,white matter changes
+SYM1304,movement disorder
+SYM1305,decreased consciousness
+SYM1306,autonomic instability
+SYM1307,catatonia
+SYM1308,burning in foot
+SYM1309,pain worse at night
+SYM1310,avascular necrosis
+SYM1311,finger contracture
+SYM1312,palm thickening
+SYM1313,inability to straighten fingers
+SYM1314,painless nodules
+SYM1315,ring finger affected
+SYM1316,little finger affected
+SYM1317,palmar pits
+SYM1318,finger catching
+SYM1319,locking
+SYM1320,swelling at base
+SYM1321,inability to straighten
+SYM1322,skin patches
+SYM1323,plaques
+SYM1324,tumours
+SYM1325,rash on elbows
+SYM1326,rash on knees
+SYM1327,rash on back
+SYM1328,dark velvety skin
+SYM1329,body folds affected
+SYM1330,neck patches
+SYM1331,armpit patches
+SYM1332,insulin resistance
+SYM1333,painful ulcers
+SYM1334,rapid enlargement
+SYM1335,surrounding erythema
+SYM1336,tissue destruction
+SYM1337,ascites
+SYM1338,variceal bleeding
+SYM1339,encephalopathy
+SYM1340,spider angiomas
+SYM1341,caput medusae
+SYM1342,electrolyte imbalances
+SYM1343,steatorrhoea
+SYM1344,reduced bowel sounds
+SYM1345,nasal crusting
+SYM1346,nasal polyps
+SYM1347,parathyroid tumours
+SYM1348,pituitary tumours
+SYM1349,pancreatic tumours
+SYM1350,peptic ulcers
+SYM1351,medullary thyroid cancer
+SYM1352,phaeochromocytoma
+SYM1353,parathyroid disease
+SYM1354,telangiectasia
+SYM1355,pellagra-like rash
+SYM1356,multiple peptic ulcers
+SYM1357,acute kidney injury after contrast
+SYM1358,fluid retention
+SYM1359,electrolyte imbalance
+SYM1360,history of radiation
+SYM1361,post-void dribbling
+SYM1362,recurrent uti
+SYM1363,dyspareunia
+SYM1364,anterior vaginal wall mass
+SYM1365,ejaculatory duct obstruction
+SYM1366,haematospermia
+SYM1367,urinary symptoms
+SYM1368,perineal pain
+SYM1369,rapid weight gain
+SYM1370,pelvic pain lasting over 6 months
+SYM1371,dysmenorrhoea
+SYM1372,bladder symptoms
+SYM1373,bowel symptoms
+SYM1374,bulge in vagina
+SYM1375,difficulty defecating
+SYM1376,liver damage
+SYM1377,sepsis in newborns
+SYM1378,sweet-smelling urine
+SYM1379,neurological deterioration
+SYM1380,ambiguous genitalia
+SYM1381,salt wasting
+SYM1382,precocious puberty
+SYM1383,virilisation
+SYM1384,photophobia
+SYM1385,dendritic ulcer
+SYM1386,decreased vision
+SYM1387,severe eye pain
+SYM1388,disproportionate pain
+SYM1389,ring infiltrate
+SYM1390,systemic disease association
+SYM1391,sinus tract
+SYM1392,abscess
+SYM1393,midline neck lump
+SYM1394,moves with tongue protrusion
+SYM1395,recurrent infection
+SYM1396,neck discomfort
+SYM1397,fistula
+SYM1398,preoccupation with perceived defect
+SYM1399,repetitive behaviours
+SYM1400,skin picking
+SYM1401,compulsive hair pulling
+SYM1402,bald patches
+SYM1403,tension before pulling
+SYM1404,relief after pulling
+SYM1405,hair ingestion
+SYM1406,skin damage
+SYM1407,shame
+SYM1408,compulsive skin picking
+SYM1409,tissue damage
+SYM1410,difficulty stopping
+SYM1411,bleeding sores
+SYM1412,scars
+SYM1413,gastrointestinal bleeding
+SYM1414,early satiety
+SYM1415,hormonal excess
+SYM1416,cushing's features
+SYM1417,cytopenia
+SYM1418,elevated ferritin
+SYM1419,coagulopathy
+SYM1420,liver dysfunction
+SYM1421,anaphylaxis
+SYM1422,sternoclavicular arthritis
+SYM1423,palmoplantar pustulosis
+SYM1424,hyperostosis
+SYM1425,osteitis
+SYM1426,episodic joint swelling
+SYM1427,spontaneous resolution
+SYM1428,shoulder attacks
+SYM1429,wrist attacks
+SYM1430,lung infection
+SYM1431,skin infection
+SYM1432,draining sinuses
+SYM1433,firm swelling
+SYM1434,jaw involvement
+SYM1435,pelvic involvement
+SYM1436,localised infection
+SYM1437,septicaemia
+SYM1438,tracheal deviation
+SYM1439,absent breath sounds
+SYM1440,decreased breath sounds
+SYM1441,dullness on percussion

@@ -1,0 +1,4011 @@
+disease_id,disease_name,symptom_id,symptom_name
+DIS001,Common Cold,SYM0001,runny nose
+DIS001,Common Cold,SYM0002,sneezing
+DIS001,Common Cold,SYM0003,sore throat
+DIS001,Common Cold,SYM0004,mild fever
+DIS001,Common Cold,SYM0005,nasal congestion
+DIS001,Common Cold,SYM0006,cough
+DIS001,Common Cold,SYM0007,headache
+DIS002,Influenza,SYM0008,high fever
+DIS002,Influenza,SYM0009,body aches
+DIS002,Influenza,SYM0010,fatigue
+DIS002,Influenza,SYM0011,dry cough
+DIS002,Influenza,SYM0007,headache
+DIS002,Influenza,SYM0012,chills
+DIS002,Influenza,SYM0003,sore throat
+DIS003,Typhoid Fever,SYM0013,prolonged fever
+DIS003,Typhoid Fever,SYM0014,abdominal pain
+DIS003,Typhoid Fever,SYM0015,weakness
+DIS003,Typhoid Fever,SYM0007,headache
+DIS003,Typhoid Fever,SYM0016,loss of appetite
+DIS003,Typhoid Fever,SYM0017,rash
+DIS003,Typhoid Fever,SYM0018,constipation
+DIS004,Malaria,SYM0019,cyclic fever
+DIS004,Malaria,SYM0012,chills
+DIS004,Malaria,SYM0020,sweating
+DIS004,Malaria,SYM0007,headache
+DIS004,Malaria,SYM0021,nausea
+DIS004,Malaria,SYM0022,muscle pain
+DIS004,Malaria,SYM0010,fatigue
+DIS005,Dengue Fever,SYM0008,high fever
+DIS005,Dengue Fever,SYM0023,severe headache
+DIS005,Dengue Fever,SYM0024,eye pain
+DIS005,Dengue Fever,SYM0025,joint pain
+DIS005,Dengue Fever,SYM0017,rash
+DIS005,Dengue Fever,SYM0026,bleeding gums
+DIS005,Dengue Fever,SYM0010,fatigue
+DIS006,Chikungunya,SYM0027,fever
+DIS006,Chikungunya,SYM0025,joint pain
+DIS006,Chikungunya,SYM0017,rash
+DIS006,Chikungunya,SYM0007,headache
+DIS006,Chikungunya,SYM0022,muscle pain
+DIS006,Chikungunya,SYM0028,joint swelling
+DIS006,Chikungunya,SYM0010,fatigue
+DIS007,Viral Gastroenteritis,SYM0029,diarrhoea
+DIS007,Viral Gastroenteritis,SYM0030,vomiting
+DIS007,Viral Gastroenteritis,SYM0021,nausea
+DIS007,Viral Gastroenteritis,SYM0031,stomach cramps
+DIS007,Viral Gastroenteritis,SYM0004,mild fever
+DIS007,Viral Gastroenteritis,SYM0032,dehydration
+DIS007,Viral Gastroenteritis,SYM0016,loss of appetite
+DIS008,Anaemia,SYM0010,fatigue
+DIS008,Anaemia,SYM0033,pallor
+DIS008,Anaemia,SYM0034,shortness of breath
+DIS008,Anaemia,SYM0035,dizziness
+DIS008,Anaemia,SYM0036,cold hands
+DIS008,Anaemia,SYM0037,brittle nails
+DIS008,Anaemia,SYM0007,headache
+DIS009,Dehydration,SYM0038,thirst
+DIS009,Dehydration,SYM0039,dry mouth
+DIS009,Dehydration,SYM0040,dark urine
+DIS009,Dehydration,SYM0010,fatigue
+DIS009,Dehydration,SYM0035,dizziness
+DIS009,Dehydration,SYM0041,sunken eyes
+DIS009,Dehydration,SYM0042,decreased urination
+DIS010,Heat Stroke,SYM0043,high body temperature
+DIS010,Heat Stroke,SYM0044,hot dry skin
+DIS010,Heat Stroke,SYM0045,confusion
+DIS010,Heat Stroke,SYM0046,rapid pulse
+DIS010,Heat Stroke,SYM0007,headache
+DIS010,Heat Stroke,SYM0021,nausea
+DIS010,Heat Stroke,SYM0047,unconsciousness
+DIS011,Vitamin D Deficiency,SYM0048,bone pain
+DIS011,Vitamin D Deficiency,SYM0049,muscle weakness
+DIS011,Vitamin D Deficiency,SYM0010,fatigue
+DIS011,Vitamin D Deficiency,SYM0050,depression
+DIS011,Vitamin D Deficiency,SYM0051,hair loss
+DIS011,Vitamin D Deficiency,SYM0052,back pain
+DIS011,Vitamin D Deficiency,SYM0053,impaired healing
+DIS012,Vitamin B12 Deficiency,SYM0010,fatigue
+DIS012,Vitamin B12 Deficiency,SYM0054,numbness
+DIS012,Vitamin B12 Deficiency,SYM0055,memory loss
+DIS012,Vitamin B12 Deficiency,SYM0056,mood changes
+DIS012,Vitamin B12 Deficiency,SYM0057,pale skin
+DIS012,Vitamin B12 Deficiency,SYM0018,constipation
+DIS012,Vitamin B12 Deficiency,SYM0058,balance problems
+DIS013,Iron Deficiency,SYM0010,fatigue
+DIS013,Iron Deficiency,SYM0015,weakness
+DIS013,Iron Deficiency,SYM0057,pale skin
+DIS013,Iron Deficiency,SYM0059,chest pain
+DIS013,Iron Deficiency,SYM0036,cold hands
+DIS013,Iron Deficiency,SYM0037,brittle nails
+DIS013,Iron Deficiency,SYM0060,frequent infections
+DIS014,Obesity,SYM0061,excess weight
+DIS014,Obesity,SYM0062,breathlessness
+DIS014,Obesity,SYM0025,joint pain
+DIS014,Obesity,SYM0010,fatigue
+DIS014,Obesity,SYM0020,sweating
+DIS014,Obesity,SYM0063,snoring
+DIS014,Obesity,SYM0050,depression
+DIS015,Malnutrition,SYM0064,weight loss
+DIS015,Malnutrition,SYM0010,fatigue
+DIS015,Malnutrition,SYM0015,weakness
+DIS015,Malnutrition,SYM0065,stunted growth
+DIS015,Malnutrition,SYM0066,dry skin
+DIS015,Malnutrition,SYM0051,hair loss
+DIS015,Malnutrition,SYM0067,poor wound healing
+DIS016,Septicaemia,SYM0008,high fever
+DIS016,Septicaemia,SYM0068,rapid breathing
+DIS016,Septicaemia,SYM0069,rapid heart rate
+DIS016,Septicaemia,SYM0045,confusion
+DIS016,Septicaemia,SYM0070,low blood pressure
+DIS016,Septicaemia,SYM0071,cold clammy skin
+DIS016,Septicaemia,SYM0072,decreased urine
+DIS017,Leptospirosis,SYM0027,fever
+DIS017,Leptospirosis,SYM0007,headache
+DIS017,Leptospirosis,SYM0073,muscle aches
+DIS017,Leptospirosis,SYM0074,red eyes
+DIS017,Leptospirosis,SYM0075,jaundice
+DIS017,Leptospirosis,SYM0017,rash
+DIS017,Leptospirosis,SYM0030,vomiting
+DIS018,Scrub Typhus,SYM0027,fever
+DIS018,Scrub Typhus,SYM0007,headache
+DIS018,Scrub Typhus,SYM0017,rash
+DIS018,Scrub Typhus,SYM0076,eschar
+DIS018,Scrub Typhus,SYM0022,muscle pain
+DIS018,Scrub Typhus,SYM0006,cough
+DIS018,Scrub Typhus,SYM0077,swollen lymph nodes
+DIS019,Brucellosis,SYM0027,fever
+DIS019,Brucellosis,SYM0020,sweating
+DIS019,Brucellosis,SYM0025,joint pain
+DIS019,Brucellosis,SYM0010,fatigue
+DIS019,Brucellosis,SYM0016,loss of appetite
+DIS019,Brucellosis,SYM0007,headache
+DIS019,Brucellosis,SYM0052,back pain
+DIS020,Rabies,SYM0027,fever
+DIS020,Rabies,SYM0007,headache
+DIS020,Rabies,SYM0078,agitation
+DIS020,Rabies,SYM0079,hallucinations
+DIS020,Rabies,SYM0080,excessive salivation
+DIS020,Rabies,SYM0081,paralysis
+DIS020,Rabies,SYM0082,hydrophobia
+DIS021,Hypertension,SYM0007,headache
+DIS021,Hypertension,SYM0035,dizziness
+DIS021,Hypertension,SYM0083,blurred vision
+DIS021,Hypertension,SYM0059,chest pain
+DIS021,Hypertension,SYM0034,shortness of breath
+DIS021,Hypertension,SYM0084,nosebleeds
+DIS021,Hypertension,SYM0085,palpitations
+DIS022,Coronary Artery Disease,SYM0059,chest pain
+DIS022,Coronary Artery Disease,SYM0034,shortness of breath
+DIS022,Coronary Artery Disease,SYM0010,fatigue
+DIS022,Coronary Artery Disease,SYM0085,palpitations
+DIS022,Coronary Artery Disease,SYM0020,sweating
+DIS022,Coronary Artery Disease,SYM0021,nausea
+DIS022,Coronary Artery Disease,SYM0086,jaw pain
+DIS023,Myocardial Infarction,SYM0087,severe chest pain
+DIS023,Myocardial Infarction,SYM0088,left arm pain
+DIS023,Myocardial Infarction,SYM0034,shortness of breath
+DIS023,Myocardial Infarction,SYM0020,sweating
+DIS023,Myocardial Infarction,SYM0021,nausea
+DIS023,Myocardial Infarction,SYM0086,jaw pain
+DIS023,Myocardial Infarction,SYM0035,dizziness
+DIS024,Heart Failure,SYM0062,breathlessness
+DIS024,Heart Failure,SYM0089,leg swelling
+DIS024,Heart Failure,SYM0010,fatigue
+DIS024,Heart Failure,SYM0090,rapid heartbeat
+DIS024,Heart Failure,SYM0091,persistent cough
+DIS024,Heart Failure,SYM0092,weight gain
+DIS024,Heart Failure,SYM0035,dizziness
+DIS025,Atrial Fibrillation,SYM0093,irregular heartbeat
+DIS025,Atrial Fibrillation,SYM0085,palpitations
+DIS025,Atrial Fibrillation,SYM0034,shortness of breath
+DIS025,Atrial Fibrillation,SYM0010,fatigue
+DIS025,Atrial Fibrillation,SYM0035,dizziness
+DIS025,Atrial Fibrillation,SYM0059,chest pain
+DIS025,Atrial Fibrillation,SYM0094,fainting
+DIS026,Angina Pectoris,SYM0095,chest tightness
+DIS026,Angina Pectoris,SYM0096,chest pressure
+DIS026,Angina Pectoris,SYM0034,shortness of breath
+DIS026,Angina Pectoris,SYM0021,nausea
+DIS026,Angina Pectoris,SYM0010,fatigue
+DIS026,Angina Pectoris,SYM0097,shoulder pain
+DIS026,Angina Pectoris,SYM0086,jaw pain
+DIS027,Cardiomyopathy,SYM0062,breathlessness
+DIS027,Cardiomyopathy,SYM0089,leg swelling
+DIS027,Cardiomyopathy,SYM0010,fatigue
+DIS027,Cardiomyopathy,SYM0093,irregular heartbeat
+DIS027,Cardiomyopathy,SYM0035,dizziness
+DIS027,Cardiomyopathy,SYM0059,chest pain
+DIS027,Cardiomyopathy,SYM0094,fainting
+DIS028,Aortic Stenosis,SYM0059,chest pain
+DIS028,Aortic Stenosis,SYM0094,fainting
+DIS028,Aortic Stenosis,SYM0034,shortness of breath
+DIS028,Aortic Stenosis,SYM0010,fatigue
+DIS028,Aortic Stenosis,SYM0098,heart murmur
+DIS028,Aortic Stenosis,SYM0089,leg swelling
+DIS028,Aortic Stenosis,SYM0090,rapid heartbeat
+DIS029,Mitral Valve Prolapse,SYM0085,palpitations
+DIS029,Mitral Valve Prolapse,SYM0059,chest pain
+DIS029,Mitral Valve Prolapse,SYM0010,fatigue
+DIS029,Mitral Valve Prolapse,SYM0034,shortness of breath
+DIS029,Mitral Valve Prolapse,SYM0035,dizziness
+DIS029,Mitral Valve Prolapse,SYM0099,anxiety
+DIS029,Mitral Valve Prolapse,SYM0093,irregular heartbeat
+DIS030,Pericarditis,SYM0100,sharp chest pain
+DIS030,Pericarditis,SYM0027,fever
+DIS030,Pericarditis,SYM0011,dry cough
+DIS030,Pericarditis,SYM0010,fatigue
+DIS030,Pericarditis,SYM0034,shortness of breath
+DIS030,Pericarditis,SYM0101,swelling
+DIS030,Pericarditis,SYM0090,rapid heartbeat
+DIS031,Endocarditis,SYM0027,fever
+DIS031,Endocarditis,SYM0012,chills
+DIS031,Endocarditis,SYM0010,fatigue
+DIS031,Endocarditis,SYM0025,joint pain
+DIS031,Endocarditis,SYM0098,heart murmur
+DIS031,Endocarditis,SYM0102,night sweats
+DIS031,Endocarditis,SYM0034,shortness of breath
+DIS032,Deep Vein Thrombosis,SYM0089,leg swelling
+DIS032,Deep Vein Thrombosis,SYM0103,leg pain
+DIS032,Deep Vein Thrombosis,SYM0104,redness
+DIS032,Deep Vein Thrombosis,SYM0105,warmth
+DIS032,Deep Vein Thrombosis,SYM0106,leg cramps
+DIS032,Deep Vein Thrombosis,SYM0107,skin discolouration
+DIS032,Deep Vein Thrombosis,SYM0027,fever
+DIS033,Pulmonary Embolism,SYM0108,sudden shortness of breath
+DIS033,Pulmonary Embolism,SYM0059,chest pain
+DIS033,Pulmonary Embolism,SYM0090,rapid heartbeat
+DIS033,Pulmonary Embolism,SYM0109,coughing blood
+DIS033,Pulmonary Embolism,SYM0035,dizziness
+DIS033,Pulmonary Embolism,SYM0089,leg swelling
+DIS033,Pulmonary Embolism,SYM0020,sweating
+DIS034,Peripheral Arterial Disease,SYM0110,leg pain on walking
+DIS034,Peripheral Arterial Disease,SYM0111,cold legs
+DIS034,Peripheral Arterial Disease,SYM0112,leg numbness
+DIS034,Peripheral Arterial Disease,SYM0113,weak pulse
+DIS034,Peripheral Arterial Disease,SYM0114,slow healing wounds
+DIS034,Peripheral Arterial Disease,SYM0115,leg discolouration
+DIS034,Peripheral Arterial Disease,SYM0116,hair loss on legs
+DIS035,Rheumatic Heart Disease,SYM0059,chest pain
+DIS035,Rheumatic Heart Disease,SYM0034,shortness of breath
+DIS035,Rheumatic Heart Disease,SYM0010,fatigue
+DIS035,Rheumatic Heart Disease,SYM0098,heart murmur
+DIS035,Rheumatic Heart Disease,SYM0025,joint pain
+DIS035,Rheumatic Heart Disease,SYM0027,fever
+DIS035,Rheumatic Heart Disease,SYM0117,swollen joints
+DIS036,Congenital Heart Defect,SYM0118,bluish skin
+DIS036,Congenital Heart Defect,SYM0034,shortness of breath
+DIS036,Congenital Heart Defect,SYM0119,poor weight gain
+DIS036,Congenital Heart Defect,SYM0010,fatigue
+DIS036,Congenital Heart Defect,SYM0120,frequent respiratory infections
+DIS036,Congenital Heart Defect,SYM0098,heart murmur
+DIS036,Congenital Heart Defect,SYM0121,swollen legs
+DIS037,Cardiac Arrhythmia,SYM0085,palpitations
+DIS037,Cardiac Arrhythmia,SYM0035,dizziness
+DIS037,Cardiac Arrhythmia,SYM0094,fainting
+DIS037,Cardiac Arrhythmia,SYM0034,shortness of breath
+DIS037,Cardiac Arrhythmia,SYM0059,chest pain
+DIS037,Cardiac Arrhythmia,SYM0010,fatigue
+DIS037,Cardiac Arrhythmia,SYM0122,irregular pulse
+DIS038,Hypotension,SYM0035,dizziness
+DIS038,Hypotension,SYM0094,fainting
+DIS038,Hypotension,SYM0083,blurred vision
+DIS038,Hypotension,SYM0021,nausea
+DIS038,Hypotension,SYM0071,cold clammy skin
+DIS038,Hypotension,SYM0010,fatigue
+DIS038,Hypotension,SYM0123,rapid shallow breathing
+DIS039,Aortic Aneurysm,SYM0052,back pain
+DIS039,Aortic Aneurysm,SYM0014,abdominal pain
+DIS039,Aortic Aneurysm,SYM0124,pulsating abdomen
+DIS039,Aortic Aneurysm,SYM0034,shortness of breath
+DIS039,Aortic Aneurysm,SYM0125,hoarseness
+DIS039,Aortic Aneurysm,SYM0126,swallowing difficulty
+DIS039,Aortic Aneurysm,SYM0035,dizziness
+DIS040,Hypertrophic Cardiomyopathy,SYM0059,chest pain
+DIS040,Hypertrophic Cardiomyopathy,SYM0034,shortness of breath
+DIS040,Hypertrophic Cardiomyopathy,SYM0094,fainting
+DIS040,Hypertrophic Cardiomyopathy,SYM0085,palpitations
+DIS040,Hypertrophic Cardiomyopathy,SYM0035,dizziness
+DIS040,Hypertrophic Cardiomyopathy,SYM0010,fatigue
+DIS040,Hypertrophic Cardiomyopathy,SYM0098,heart murmur
+DIS041,Migraine,SYM0023,severe headache
+DIS041,Migraine,SYM0021,nausea
+DIS041,Migraine,SYM0030,vomiting
+DIS041,Migraine,SYM0127,light sensitivity
+DIS041,Migraine,SYM0128,sound sensitivity
+DIS041,Migraine,SYM0129,aura
+DIS041,Migraine,SYM0130,throbbing pain
+DIS042,Epilepsy,SYM0131,seizures
+DIS042,Epilepsy,SYM0132,loss of consciousness
+DIS042,Epilepsy,SYM0133,muscle stiffness
+DIS042,Epilepsy,SYM0134,staring spells
+DIS042,Epilepsy,SYM0045,confusion
+DIS042,Epilepsy,SYM0135,uncontrolled movements
+DIS042,Epilepsy,SYM0136,temporary memory loss
+DIS043,Stroke,SYM0137,sudden face drooping
+DIS043,Stroke,SYM0138,arm weakness
+DIS043,Stroke,SYM0139,speech difficulty
+DIS043,Stroke,SYM0023,severe headache
+DIS043,Stroke,SYM0140,vision loss
+DIS043,Stroke,SYM0035,dizziness
+DIS043,Stroke,SYM0141,loss of balance
+DIS044,Parkinson's Disease,SYM0142,tremors
+DIS044,Parkinson's Disease,SYM0143,slow movement
+DIS044,Parkinson's Disease,SYM0144,muscle rigidity
+DIS044,Parkinson's Disease,SYM0058,balance problems
+DIS044,Parkinson's Disease,SYM0145,speech changes
+DIS044,Parkinson's Disease,SYM0146,writing changes
+DIS044,Parkinson's Disease,SYM0147,mask-like face
+DIS045,Alzheimer's Disease,SYM0055,memory loss
+DIS045,Alzheimer's Disease,SYM0045,confusion
+DIS045,Alzheimer's Disease,SYM0148,disorientation
+DIS045,Alzheimer's Disease,SYM0056,mood changes
+DIS045,Alzheimer's Disease,SYM0149,difficulty with tasks
+DIS045,Alzheimer's Disease,SYM0150,language problems
+DIS045,Alzheimer's Disease,SYM0151,wandering
+DIS046,Multiple Sclerosis,SYM0054,numbness
+DIS046,Multiple Sclerosis,SYM0015,weakness
+DIS046,Multiple Sclerosis,SYM0152,vision problems
+DIS046,Multiple Sclerosis,SYM0010,fatigue
+DIS046,Multiple Sclerosis,SYM0058,balance problems
+DIS046,Multiple Sclerosis,SYM0153,cognitive issues
+DIS046,Multiple Sclerosis,SYM0154,bladder problems
+DIS047,Meningitis,SYM0023,severe headache
+DIS047,Meningitis,SYM0155,neck stiffness
+DIS047,Meningitis,SYM0008,high fever
+DIS047,Meningitis,SYM0127,light sensitivity
+DIS047,Meningitis,SYM0021,nausea
+DIS047,Meningitis,SYM0017,rash
+DIS047,Meningitis,SYM0156,altered consciousness
+DIS048,Encephalitis,SYM0027,fever
+DIS048,Encephalitis,SYM0023,severe headache
+DIS048,Encephalitis,SYM0045,confusion
+DIS048,Encephalitis,SYM0131,seizures
+DIS048,Encephalitis,SYM0030,vomiting
+DIS048,Encephalitis,SYM0157,stiff neck
+DIS048,Encephalitis,SYM0158,sensitivity to light
+DIS049,Bell's Palsy,SYM0159,facial drooping
+DIS049,Bell's Palsy,SYM0160,inability to close eye
+DIS049,Bell's Palsy,SYM0161,drooling
+DIS049,Bell's Palsy,SYM0162,taste changes
+DIS049,Bell's Palsy,SYM0163,ear pain
+DIS049,Bell's Palsy,SYM0007,headache
+DIS049,Bell's Palsy,SYM0164,sensitivity to sound
+DIS050,Trigeminal Neuralgia,SYM0165,severe facial pain
+DIS050,Trigeminal Neuralgia,SYM0166,electric shock pain
+DIS050,Trigeminal Neuralgia,SYM0167,pain on chewing
+DIS050,Trigeminal Neuralgia,SYM0168,pain on speaking
+DIS050,Trigeminal Neuralgia,SYM0169,pain on touching face
+DIS050,Trigeminal Neuralgia,SYM0170,burning sensation
+DIS050,Trigeminal Neuralgia,SYM0086,jaw pain
+DIS051,Guillain-Barre Syndrome,SYM0171,weakness in legs
+DIS051,Guillain-Barre Syndrome,SYM0172,pins and needles
+DIS051,Guillain-Barre Syndrome,SYM0173,difficulty walking
+DIS051,Guillain-Barre Syndrome,SYM0069,rapid heart rate
+DIS051,Guillain-Barre Syndrome,SYM0070,low blood pressure
+DIS051,Guillain-Barre Syndrome,SYM0174,breathing difficulty
+DIS051,Guillain-Barre Syndrome,SYM0175,facial weakness
+DIS052,Cerebral Palsy,SYM0133,muscle stiffness
+DIS052,Cerebral Palsy,SYM0176,poor coordination
+DIS052,Cerebral Palsy,SYM0142,tremors
+DIS052,Cerebral Palsy,SYM0177,involuntary movements
+DIS052,Cerebral Palsy,SYM0178,speech problems
+DIS052,Cerebral Palsy,SYM0179,intellectual disability
+DIS052,Cerebral Palsy,SYM0131,seizures
+DIS053,Huntington's Disease,SYM0177,involuntary movements
+DIS053,Huntington's Disease,SYM0180,cognitive decline
+DIS053,Huntington's Disease,SYM0056,mood changes
+DIS053,Huntington's Disease,SYM0058,balance problems
+DIS053,Huntington's Disease,SYM0181,difficulty swallowing
+DIS053,Huntington's Disease,SYM0178,speech problems
+DIS053,Huntington's Disease,SYM0182,personality changes
+DIS054,Amyotrophic Lateral Sclerosis,SYM0049,muscle weakness
+DIS054,Amyotrophic Lateral Sclerosis,SYM0183,slurred speech
+DIS054,Amyotrophic Lateral Sclerosis,SYM0181,difficulty swallowing
+DIS054,Amyotrophic Lateral Sclerosis,SYM0184,muscle twitching
+DIS054,Amyotrophic Lateral Sclerosis,SYM0185,muscle cramps
+DIS054,Amyotrophic Lateral Sclerosis,SYM0174,breathing difficulty
+DIS054,Amyotrophic Lateral Sclerosis,SYM0186,cognitive changes
+DIS055,Transient Ischaemic Attack,SYM0187,sudden weakness
+DIS055,Transient Ischaemic Attack,SYM0178,speech problems
+DIS055,Transient Ischaemic Attack,SYM0152,vision problems
+DIS055,Transient Ischaemic Attack,SYM0035,dizziness
+DIS055,Transient Ischaemic Attack,SYM0023,severe headache
+DIS055,Transient Ischaemic Attack,SYM0141,loss of balance
+DIS055,Transient Ischaemic Attack,SYM0054,numbness
+DIS056,Neuralgia,SYM0188,burning pain
+DIS056,Neuralgia,SYM0189,sharp pain
+DIS056,Neuralgia,SYM0190,sensitivity to touch
+DIS056,Neuralgia,SYM0049,muscle weakness
+DIS056,Neuralgia,SYM0054,numbness
+DIS056,Neuralgia,SYM0191,tingling
+DIS056,Neuralgia,SYM0192,electric shock sensation
+DIS057,Narcolepsy,SYM0193,excessive sleepiness
+DIS057,Narcolepsy,SYM0194,sudden muscle weakness
+DIS057,Narcolepsy,SYM0195,sleep paralysis
+DIS057,Narcolepsy,SYM0079,hallucinations
+DIS057,Narcolepsy,SYM0196,disrupted night sleep
+DIS057,Narcolepsy,SYM0197,automatic behaviour
+DIS057,Narcolepsy,SYM0198,memory lapses
+DIS058,Restless Leg Syndrome,SYM0199,leg discomfort
+DIS058,Restless Leg Syndrome,SYM0200,urge to move legs
+DIS058,Restless Leg Syndrome,SYM0201,worse at night
+DIS058,Restless Leg Syndrome,SYM0202,sleep disturbance
+DIS058,Restless Leg Syndrome,SYM0203,crawling sensation
+DIS058,Restless Leg Syndrome,SYM0204,relief with movement
+DIS058,Restless Leg Syndrome,SYM0205,daytime fatigue
+DIS059,Chronic Daily Headache,SYM0206,daily headache
+DIS059,Chronic Daily Headache,SYM0207,head pressure
+DIS059,Chronic Daily Headache,SYM0208,neck pain
+DIS059,Chronic Daily Headache,SYM0010,fatigue
+DIS059,Chronic Daily Headache,SYM0035,dizziness
+DIS059,Chronic Daily Headache,SYM0158,sensitivity to light
+DIS059,Chronic Daily Headache,SYM0021,nausea
+DIS060,Myasthenia Gravis,SYM0209,drooping eyelids
+DIS060,Myasthenia Gravis,SYM0210,double vision
+DIS060,Myasthenia Gravis,SYM0183,slurred speech
+DIS060,Myasthenia Gravis,SYM0181,difficulty swallowing
+DIS060,Myasthenia Gravis,SYM0049,muscle weakness
+DIS060,Myasthenia Gravis,SYM0010,fatigue
+DIS060,Myasthenia Gravis,SYM0174,breathing difficulty
+DIS061,Osteoarthritis,SYM0025,joint pain
+DIS061,Osteoarthritis,SYM0211,joint stiffness
+DIS061,Osteoarthritis,SYM0101,swelling
+DIS061,Osteoarthritis,SYM0212,reduced range of motion
+DIS061,Osteoarthritis,SYM0213,grating sensation
+DIS061,Osteoarthritis,SYM0214,bone spurs
+DIS061,Osteoarthritis,SYM0215,joint tenderness
+DIS062,Rheumatoid Arthritis,SYM0025,joint pain
+DIS062,Rheumatoid Arthritis,SYM0211,joint stiffness
+DIS062,Rheumatoid Arthritis,SYM0101,swelling
+DIS062,Rheumatoid Arthritis,SYM0010,fatigue
+DIS062,Rheumatoid Arthritis,SYM0027,fever
+DIS062,Rheumatoid Arthritis,SYM0016,loss of appetite
+DIS062,Rheumatoid Arthritis,SYM0216,joint deformity
+DIS063,Osteoporosis,SYM0052,back pain
+DIS063,Osteoporosis,SYM0217,loss of height
+DIS063,Osteoporosis,SYM0218,stooped posture
+DIS063,Osteoporosis,SYM0219,fragile bones
+DIS063,Osteoporosis,SYM0220,bone fractures
+DIS063,Osteoporosis,SYM0208,neck pain
+DIS063,Osteoporosis,SYM0025,joint pain
+DIS064,Gout,SYM0221,sudden joint pain
+DIS064,Gout,SYM0101,swelling
+DIS064,Gout,SYM0104,redness
+DIS064,Gout,SYM0105,warmth
+DIS064,Gout,SYM0222,tenderness
+DIS064,Gout,SYM0223,limited range of motion
+DIS064,Gout,SYM0224,recurrent attacks
+DIS065,Scoliosis,SYM0225,uneven shoulders
+DIS065,Scoliosis,SYM0226,uneven waist
+DIS065,Scoliosis,SYM0227,one hip higher
+DIS065,Scoliosis,SYM0052,back pain
+DIS065,Scoliosis,SYM0228,visible spine curve
+DIS065,Scoliosis,SYM0010,fatigue
+DIS065,Scoliosis,SYM0174,breathing difficulty
+DIS066,Herniated Disc,SYM0052,back pain
+DIS066,Herniated Disc,SYM0229,radiating leg pain
+DIS066,Herniated Disc,SYM0054,numbness
+DIS066,Herniated Disc,SYM0191,tingling
+DIS066,Herniated Disc,SYM0049,muscle weakness
+DIS066,Herniated Disc,SYM0230,pain on movement
+DIS066,Herniated Disc,SYM0154,bladder problems
+DIS067,Frozen Shoulder,SYM0097,shoulder pain
+DIS067,Frozen Shoulder,SYM0231,stiffness
+DIS067,Frozen Shoulder,SYM0223,limited range of motion
+DIS067,Frozen Shoulder,SYM0232,aching pain
+DIS067,Frozen Shoulder,SYM0233,pain at night
+DIS067,Frozen Shoulder,SYM0234,difficulty reaching
+DIS067,Frozen Shoulder,SYM0049,muscle weakness
+DIS068,Carpal Tunnel Syndrome,SYM0235,hand numbness
+DIS068,Carpal Tunnel Syndrome,SYM0236,tingling in fingers
+DIS068,Carpal Tunnel Syndrome,SYM0237,wrist pain
+DIS068,Carpal Tunnel Syndrome,SYM0238,grip weakness
+DIS068,Carpal Tunnel Syndrome,SYM0170,burning sensation
+DIS068,Carpal Tunnel Syndrome,SYM0239,hand weakness
+DIS068,Carpal Tunnel Syndrome,SYM0240,night symptoms
+DIS069,Tennis Elbow,SYM0241,outer elbow pain
+DIS069,Tennis Elbow,SYM0242,forearm pain
+DIS069,Tennis Elbow,SYM0238,grip weakness
+DIS069,Tennis Elbow,SYM0230,pain on movement
+DIS069,Tennis Elbow,SYM0222,tenderness
+DIS069,Tennis Elbow,SYM0231,stiffness
+DIS069,Tennis Elbow,SYM0243,arm pain
+DIS070,Plantar Fasciitis,SYM0244,heel pain
+DIS070,Plantar Fasciitis,SYM0245,foot pain
+DIS070,Plantar Fasciitis,SYM0246,morning pain
+DIS070,Plantar Fasciitis,SYM0247,arch pain
+DIS070,Plantar Fasciitis,SYM0101,swelling
+DIS070,Plantar Fasciitis,SYM0222,tenderness
+DIS070,Plantar Fasciitis,SYM0231,stiffness
+DIS071,Bone Fracture,SYM0248,pain
+DIS071,Bone Fracture,SYM0101,swelling
+DIS071,Bone Fracture,SYM0249,bruising
+DIS071,Bone Fracture,SYM0250,deformity
+DIS071,Bone Fracture,SYM0251,inability to move
+DIS071,Bone Fracture,SYM0054,numbness
+DIS071,Bone Fracture,SYM0222,tenderness
+DIS072,Ligament Sprain,SYM0248,pain
+DIS072,Ligament Sprain,SYM0101,swelling
+DIS072,Ligament Sprain,SYM0249,bruising
+DIS072,Ligament Sprain,SYM0252,limited movement
+DIS072,Ligament Sprain,SYM0253,instability
+DIS072,Ligament Sprain,SYM0254,popping sound
+DIS072,Ligament Sprain,SYM0222,tenderness
+DIS073,Muscle Strain,SYM0022,muscle pain
+DIS073,Muscle Strain,SYM0101,swelling
+DIS073,Muscle Strain,SYM0249,bruising
+DIS073,Muscle Strain,SYM0252,limited movement
+DIS073,Muscle Strain,SYM0049,muscle weakness
+DIS073,Muscle Strain,SYM0255,muscle spasm
+DIS073,Muscle Strain,SYM0231,stiffness
+DIS074,Bursitis,SYM0025,joint pain
+DIS074,Bursitis,SYM0101,swelling
+DIS074,Bursitis,SYM0105,warmth
+DIS074,Bursitis,SYM0222,tenderness
+DIS074,Bursitis,SYM0231,stiffness
+DIS074,Bursitis,SYM0104,redness
+DIS074,Bursitis,SYM0230,pain on movement
+DIS075,Osteomyelitis,SYM0048,bone pain
+DIS075,Osteomyelitis,SYM0101,swelling
+DIS075,Osteomyelitis,SYM0104,redness
+DIS075,Osteomyelitis,SYM0027,fever
+DIS075,Osteomyelitis,SYM0105,warmth
+DIS075,Osteomyelitis,SYM0010,fatigue
+DIS075,Osteomyelitis,SYM0256,irritability
+DIS076,Paget's Disease of Bone,SYM0048,bone pain
+DIS076,Paget's Disease of Bone,SYM0257,bone deformity
+DIS076,Paget's Disease of Bone,SYM0258,fractures
+DIS076,Paget's Disease of Bone,SYM0025,joint pain
+DIS076,Paget's Disease of Bone,SYM0259,hearing loss
+DIS076,Paget's Disease of Bone,SYM0007,headache
+DIS076,Paget's Disease of Bone,SYM0260,increased bone size
+DIS077,Ankylosing Spondylitis,SYM0261,lower back pain
+DIS077,Ankylosing Spondylitis,SYM0231,stiffness
+DIS077,Ankylosing Spondylitis,SYM0262,pain improves with exercise
+DIS077,Ankylosing Spondylitis,SYM0010,fatigue
+DIS077,Ankylosing Spondylitis,SYM0263,eye inflammation
+DIS077,Ankylosing Spondylitis,SYM0264,reduced flexibility
+DIS077,Ankylosing Spondylitis,SYM0265,hip pain
+DIS078,Tendinitis,SYM0248,pain
+DIS078,Tendinitis,SYM0101,swelling
+DIS078,Tendinitis,SYM0222,tenderness
+DIS078,Tendinitis,SYM0231,stiffness
+DIS078,Tendinitis,SYM0105,warmth
+DIS078,Tendinitis,SYM0266,mild swelling
+DIS078,Tendinitis,SYM0230,pain on movement
+DIS079,Knee Meniscus Tear,SYM0267,knee pain
+DIS079,Knee Meniscus Tear,SYM0101,swelling
+DIS079,Knee Meniscus Tear,SYM0231,stiffness
+DIS079,Knee Meniscus Tear,SYM0268,clicking sound
+DIS079,Knee Meniscus Tear,SYM0269,locking knee
+DIS079,Knee Meniscus Tear,SYM0270,inability to fully extend
+DIS079,Knee Meniscus Tear,SYM0271,feeling unstable
+DIS080,Rotator Cuff Tear,SYM0097,shoulder pain
+DIS080,Rotator Cuff Tear,SYM0138,arm weakness
+DIS080,Rotator Cuff Tear,SYM0272,night pain
+DIS080,Rotator Cuff Tear,SYM0273,crackling sensation
+DIS080,Rotator Cuff Tear,SYM0223,limited range of motion
+DIS080,Rotator Cuff Tear,SYM0274,difficulty lifting
+DIS080,Rotator Cuff Tear,SYM0275,shoulder stiffness
+DIS081,Acne Vulgaris,SYM0276,pimples
+DIS081,Acne Vulgaris,SYM0277,blackheads
+DIS081,Acne Vulgaris,SYM0278,whiteheads
+DIS081,Acne Vulgaris,SYM0279,oily skin
+DIS081,Acne Vulgaris,SYM0280,scarring
+DIS081,Acne Vulgaris,SYM0104,redness
+DIS081,Acne Vulgaris,SYM0281,pustules
+DIS082,Psoriasis,SYM0282,red patches
+DIS082,Psoriasis,SYM0283,silvery scales
+DIS082,Psoriasis,SYM0066,dry skin
+DIS082,Psoriasis,SYM0284,itching
+DIS082,Psoriasis,SYM0285,burning
+DIS082,Psoriasis,SYM0286,thickened nails
+DIS082,Psoriasis,SYM0025,joint pain
+DIS083,Eczema,SYM0284,itching
+DIS083,Eczema,SYM0287,red rash
+DIS083,Eczema,SYM0066,dry skin
+DIS083,Eczema,SYM0288,weeping skin
+DIS083,Eczema,SYM0289,thickened skin
+DIS083,Eczema,SYM0290,blistering
+DIS083,Eczema,SYM0291,scaly patches
+DIS084,Urticaria,SYM0292,raised welts
+DIS084,Urticaria,SYM0284,itching
+DIS084,Urticaria,SYM0101,swelling
+DIS084,Urticaria,SYM0104,redness
+DIS084,Urticaria,SYM0285,burning
+DIS084,Urticaria,SYM0293,hives
+DIS084,Urticaria,SYM0294,angioedema
+DIS085,Fungal Infection,SYM0284,itching
+DIS085,Fungal Infection,SYM0287,red rash
+DIS085,Fungal Infection,SYM0295,scaling
+DIS085,Fungal Infection,SYM0296,ring-shaped rash
+DIS085,Fungal Infection,SYM0285,burning
+DIS085,Fungal Infection,SYM0290,blistering
+DIS085,Fungal Infection,SYM0297,nail thickening
+DIS086,Scabies,SYM0298,intense itching
+DIS086,Scabies,SYM0299,pimple-like rash
+DIS086,Scabies,SYM0300,burrow tracks
+DIS086,Scabies,SYM0301,sores
+DIS086,Scabies,SYM0302,night itching
+DIS086,Scabies,SYM0303,rash in folds
+DIS086,Scabies,SYM0304,crusting
+DIS087,Chickenpox,SYM0305,itchy blisters
+DIS087,Chickenpox,SYM0027,fever
+DIS087,Chickenpox,SYM0007,headache
+DIS087,Chickenpox,SYM0010,fatigue
+DIS087,Chickenpox,SYM0016,loss of appetite
+DIS087,Chickenpox,SYM0017,rash
+DIS087,Chickenpox,SYM0306,malaise
+DIS088,Shingles,SYM0307,painful rash
+DIS088,Shingles,SYM0308,blisters
+DIS088,Shingles,SYM0285,burning
+DIS088,Shingles,SYM0054,numbness
+DIS088,Shingles,SYM0284,itching
+DIS088,Shingles,SYM0027,fever
+DIS088,Shingles,SYM0007,headache
+DIS089,Vitiligo,SYM0309,white patches
+DIS089,Vitiligo,SYM0310,loss of skin colour
+DIS089,Vitiligo,SYM0311,premature greying
+DIS089,Vitiligo,SYM0312,eye discolouration
+DIS089,Vitiligo,SYM0313,mucous membrane discolouration
+DIS089,Vitiligo,SYM0314,sunburn susceptibility
+DIS089,Vitiligo,SYM0315,hair whitening
+DIS090,Rosacea,SYM0316,facial redness
+DIS090,Rosacea,SYM0276,pimples
+DIS090,Rosacea,SYM0317,skin thickening
+DIS090,Rosacea,SYM0318,eye irritation
+DIS090,Rosacea,SYM0319,enlarged nose
+DIS090,Rosacea,SYM0285,burning
+DIS090,Rosacea,SYM0320,flushing
+DIS091,Seborrhoeic Dermatitis,SYM0321,flaky skin
+DIS091,Seborrhoeic Dermatitis,SYM0322,dandruff
+DIS091,Seborrhoeic Dermatitis,SYM0323,red skin
+DIS091,Seborrhoeic Dermatitis,SYM0324,greasy patches
+DIS091,Seborrhoeic Dermatitis,SYM0284,itching
+DIS091,Seborrhoeic Dermatitis,SYM0325,skin scales
+DIS091,Seborrhoeic Dermatitis,SYM0017,rash
+DIS092,Contact Dermatitis,SYM0287,red rash
+DIS092,Contact Dermatitis,SYM0284,itching
+DIS092,Contact Dermatitis,SYM0326,dry cracked skin
+DIS092,Contact Dermatitis,SYM0290,blistering
+DIS092,Contact Dermatitis,SYM0101,swelling
+DIS092,Contact Dermatitis,SYM0285,burning
+DIS092,Contact Dermatitis,SYM0222,tenderness
+DIS093,Alopecia Areata,SYM0327,patchy hair loss
+DIS093,Alopecia Areata,SYM0328,smooth bald patches
+DIS093,Alopecia Areata,SYM0329,nail pitting
+DIS093,Alopecia Areata,SYM0284,itching
+DIS093,Alopecia Areata,SYM0191,tingling
+DIS093,Alopecia Areata,SYM0330,hair thinning
+DIS093,Alopecia Areata,SYM0331,short broken hairs
+DIS094,Cellulitis,SYM0323,red skin
+DIS094,Cellulitis,SYM0101,swelling
+DIS094,Cellulitis,SYM0105,warmth
+DIS094,Cellulitis,SYM0248,pain
+DIS094,Cellulitis,SYM0222,tenderness
+DIS094,Cellulitis,SYM0027,fever
+DIS094,Cellulitis,SYM0332,skin tightness
+DIS095,Impetigo,SYM0301,sores
+DIS095,Impetigo,SYM0308,blisters
+DIS095,Impetigo,SYM0333,honey-coloured crust
+DIS095,Impetigo,SYM0104,redness
+DIS095,Impetigo,SYM0284,itching
+DIS095,Impetigo,SYM0077,swollen lymph nodes
+DIS095,Impetigo,SYM0334,fluid-filled lesions
+DIS096,Melasma,SYM0335,dark patches
+DIS096,Melasma,SYM0336,tan patches
+DIS096,Melasma,SYM0337,brown discolouration
+DIS096,Melasma,SYM0338,symmetrical patches
+DIS096,Melasma,SYM0339,facial patches
+DIS096,Melasma,SYM0340,skin darkening
+DIS096,Melasma,SYM0341,hormonal changes
+DIS097,Pemphigus Vulgaris,SYM0342,blisters on skin
+DIS097,Pemphigus Vulgaris,SYM0343,mouth sores
+DIS097,Pemphigus Vulgaris,SYM0344,painful erosions
+DIS097,Pemphigus Vulgaris,SYM0345,fragile blisters
+DIS097,Pemphigus Vulgaris,SYM0284,itching
+DIS097,Pemphigus Vulgaris,SYM0285,burning
+DIS097,Pemphigus Vulgaris,SYM0346,skin peeling
+DIS098,Epidermolysis Bullosa,SYM0347,fragile skin
+DIS098,Epidermolysis Bullosa,SYM0308,blisters
+DIS098,Epidermolysis Bullosa,SYM0301,sores
+DIS098,Epidermolysis Bullosa,SYM0280,scarring
+DIS098,Epidermolysis Bullosa,SYM0181,difficulty swallowing
+DIS098,Epidermolysis Bullosa,SYM0348,nail problems
+DIS098,Epidermolysis Bullosa,SYM0317,skin thickening
+DIS099,Tinea Versicolor,SYM0349,discoloured patches
+DIS099,Tinea Versicolor,SYM0284,itching
+DIS099,Tinea Versicolor,SYM0295,scaling
+DIS099,Tinea Versicolor,SYM0309,white patches
+DIS099,Tinea Versicolor,SYM0336,tan patches
+DIS099,Tinea Versicolor,SYM0350,patches on trunk
+DIS099,Tinea Versicolor,SYM0351,patches on neck
+DIS100,Folliculitis,SYM0352,red bumps
+DIS100,Folliculitis,SYM0353,pus-filled blisters
+DIS100,Folliculitis,SYM0284,itching
+DIS100,Folliculitis,SYM0222,tenderness
+DIS100,Folliculitis,SYM0285,burning
+DIS100,Folliculitis,SYM0354,crusty sores
+DIS100,Folliculitis,SYM0355,swollen skin
+DIS101,GERD,SYM0356,heartburn
+DIS101,GERD,SYM0357,acid reflux
+DIS101,GERD,SYM0059,chest pain
+DIS101,GERD,SYM0181,difficulty swallowing
+DIS101,GERD,SYM0358,regurgitation
+DIS101,GERD,SYM0359,bloating
+DIS101,GERD,SYM0021,nausea
+DIS102,Peptic Ulcer,SYM0360,burning stomach pain
+DIS102,Peptic Ulcer,SYM0021,nausea
+DIS102,Peptic Ulcer,SYM0030,vomiting
+DIS102,Peptic Ulcer,SYM0359,bloating
+DIS102,Peptic Ulcer,SYM0361,belching
+DIS102,Peptic Ulcer,SYM0362,intolerance to fatty foods
+DIS102,Peptic Ulcer,SYM0016,loss of appetite
+DIS103,Irritable Bowel Syndrome,SYM0014,abdominal pain
+DIS103,Irritable Bowel Syndrome,SYM0359,bloating
+DIS103,Irritable Bowel Syndrome,SYM0029,diarrhoea
+DIS103,Irritable Bowel Syndrome,SYM0018,constipation
+DIS103,Irritable Bowel Syndrome,SYM0363,mucus in stool
+DIS103,Irritable Bowel Syndrome,SYM0364,gas
+DIS103,Irritable Bowel Syndrome,SYM0365,incomplete bowel movement
+DIS104,Crohn's Disease,SYM0014,abdominal pain
+DIS104,Crohn's Disease,SYM0029,diarrhoea
+DIS104,Crohn's Disease,SYM0064,weight loss
+DIS104,Crohn's Disease,SYM0010,fatigue
+DIS104,Crohn's Disease,SYM0366,blood in stool
+DIS104,Crohn's Disease,SYM0343,mouth sores
+DIS104,Crohn's Disease,SYM0367,anal fissure
+DIS105,Ulcerative Colitis,SYM0368,bloody diarrhoea
+DIS105,Ulcerative Colitis,SYM0014,abdominal pain
+DIS105,Ulcerative Colitis,SYM0369,urgency
+DIS105,Ulcerative Colitis,SYM0064,weight loss
+DIS105,Ulcerative Colitis,SYM0010,fatigue
+DIS105,Ulcerative Colitis,SYM0370,rectal pain
+DIS105,Ulcerative Colitis,SYM0027,fever
+DIS106,Liver Cirrhosis,SYM0075,jaundice
+DIS106,Liver Cirrhosis,SYM0371,abdominal swelling
+DIS106,Liver Cirrhosis,SYM0015,weakness
+DIS106,Liver Cirrhosis,SYM0249,bruising
+DIS106,Liver Cirrhosis,SYM0089,leg swelling
+DIS106,Liver Cirrhosis,SYM0021,nausea
+DIS106,Liver Cirrhosis,SYM0045,confusion
+DIS107,Hepatitis B,SYM0075,jaundice
+DIS107,Hepatitis B,SYM0010,fatigue
+DIS107,Hepatitis B,SYM0014,abdominal pain
+DIS107,Hepatitis B,SYM0016,loss of appetite
+DIS107,Hepatitis B,SYM0021,nausea
+DIS107,Hepatitis B,SYM0040,dark urine
+DIS107,Hepatitis B,SYM0025,joint pain
+DIS108,Hepatitis C,SYM0010,fatigue
+DIS108,Hepatitis C,SYM0075,jaundice
+DIS108,Hepatitis C,SYM0021,nausea
+DIS108,Hepatitis C,SYM0016,loss of appetite
+DIS108,Hepatitis C,SYM0014,abdominal pain
+DIS108,Hepatitis C,SYM0040,dark urine
+DIS108,Hepatitis C,SYM0372,clay-coloured stools
+DIS109,Pancreatitis,SYM0373,severe abdominal pain
+DIS109,Pancreatitis,SYM0021,nausea
+DIS109,Pancreatitis,SYM0030,vomiting
+DIS109,Pancreatitis,SYM0027,fever
+DIS109,Pancreatitis,SYM0046,rapid pulse
+DIS109,Pancreatitis,SYM0222,tenderness
+DIS109,Pancreatitis,SYM0374,abdominal bloating
+DIS110,Gallstones,SYM0375,sudden abdominal pain
+DIS110,Gallstones,SYM0052,back pain
+DIS110,Gallstones,SYM0021,nausea
+DIS110,Gallstones,SYM0030,vomiting
+DIS110,Gallstones,SYM0075,jaundice
+DIS110,Gallstones,SYM0372,clay-coloured stools
+DIS110,Gallstones,SYM0097,shoulder pain
+DIS111,Appendicitis,SYM0014,abdominal pain
+DIS111,Appendicitis,SYM0021,nausea
+DIS111,Appendicitis,SYM0030,vomiting
+DIS111,Appendicitis,SYM0027,fever
+DIS111,Appendicitis,SYM0016,loss of appetite
+DIS111,Appendicitis,SYM0376,abdominal rigidity
+DIS111,Appendicitis,SYM0377,pain at navel
+DIS112,Coeliac Disease,SYM0029,diarrhoea
+DIS112,Coeliac Disease,SYM0014,abdominal pain
+DIS112,Coeliac Disease,SYM0359,bloating
+DIS112,Coeliac Disease,SYM0064,weight loss
+DIS112,Coeliac Disease,SYM0378,anaemia
+DIS112,Coeliac Disease,SYM0010,fatigue
+DIS112,Coeliac Disease,SYM0018,constipation
+DIS113,Diverticulitis,SYM0379,lower abdominal pain
+DIS113,Diverticulitis,SYM0027,fever
+DIS113,Diverticulitis,SYM0021,nausea
+DIS113,Diverticulitis,SYM0030,vomiting
+DIS113,Diverticulitis,SYM0018,constipation
+DIS113,Diverticulitis,SYM0029,diarrhoea
+DIS113,Diverticulitis,SYM0380,rectal bleeding
+DIS114,Haemorrhoids,SYM0380,rectal bleeding
+DIS114,Haemorrhoids,SYM0248,pain
+DIS114,Haemorrhoids,SYM0284,itching
+DIS114,Haemorrhoids,SYM0101,swelling
+DIS114,Haemorrhoids,SYM0381,discomfort
+DIS114,Haemorrhoids,SYM0382,mucus discharge
+DIS114,Haemorrhoids,SYM0383,difficulty sitting
+DIS115,Gastritis,SYM0384,stomach pain
+DIS115,Gastritis,SYM0021,nausea
+DIS115,Gastritis,SYM0030,vomiting
+DIS115,Gastritis,SYM0359,bloating
+DIS115,Gastritis,SYM0361,belching
+DIS115,Gastritis,SYM0016,loss of appetite
+DIS115,Gastritis,SYM0385,hiccups
+DIS116,Colorectal Cancer,SYM0366,blood in stool
+DIS116,Colorectal Cancer,SYM0386,bowel habit changes
+DIS116,Colorectal Cancer,SYM0014,abdominal pain
+DIS116,Colorectal Cancer,SYM0064,weight loss
+DIS116,Colorectal Cancer,SYM0010,fatigue
+DIS116,Colorectal Cancer,SYM0364,gas
+DIS116,Colorectal Cancer,SYM0387,feeling of incomplete emptying
+DIS117,Non-Alcoholic Fatty Liver,SYM0010,fatigue
+DIS117,Non-Alcoholic Fatty Liver,SYM0388,abdominal discomfort
+DIS117,Non-Alcoholic Fatty Liver,SYM0389,enlarged liver
+DIS117,Non-Alcoholic Fatty Liver,SYM0092,weight gain
+DIS117,Non-Alcoholic Fatty Liver,SYM0015,weakness
+DIS117,Non-Alcoholic Fatty Liver,SYM0075,jaundice
+DIS117,Non-Alcoholic Fatty Liver,SYM0390,spider veins
+DIS118,Cholangitis,SYM0027,fever
+DIS118,Cholangitis,SYM0075,jaundice
+DIS118,Cholangitis,SYM0391,right upper abdominal pain
+DIS118,Cholangitis,SYM0012,chills
+DIS118,Cholangitis,SYM0045,confusion
+DIS118,Cholangitis,SYM0070,low blood pressure
+DIS118,Cholangitis,SYM0021,nausea
+DIS119,Achalasia,SYM0181,difficulty swallowing
+DIS119,Achalasia,SYM0358,regurgitation
+DIS119,Achalasia,SYM0059,chest pain
+DIS119,Achalasia,SYM0064,weight loss
+DIS119,Achalasia,SYM0392,coughing
+DIS119,Achalasia,SYM0356,heartburn
+DIS119,Achalasia,SYM0385,hiccups
+DIS120,Intestinal Obstruction,SYM0014,abdominal pain
+DIS120,Intestinal Obstruction,SYM0359,bloating
+DIS120,Intestinal Obstruction,SYM0393,inability to pass gas
+DIS120,Intestinal Obstruction,SYM0030,vomiting
+DIS120,Intestinal Obstruction,SYM0018,constipation
+DIS120,Intestinal Obstruction,SYM0394,cramping
+DIS120,Intestinal Obstruction,SYM0395,abdominal distension
+DIS121,Asthma,SYM0396,wheezing
+DIS121,Asthma,SYM0034,shortness of breath
+DIS121,Asthma,SYM0095,chest tightness
+DIS121,Asthma,SYM0006,cough
+DIS121,Asthma,SYM0240,night symptoms
+DIS121,Asthma,SYM0397,exercise intolerance
+DIS121,Asthma,SYM0398,mucus production
+DIS122,COPD,SYM0034,shortness of breath
+DIS122,COPD,SYM0399,chronic cough
+DIS122,COPD,SYM0396,wheezing
+DIS122,COPD,SYM0095,chest tightness
+DIS122,COPD,SYM0398,mucus production
+DIS122,COPD,SYM0120,frequent respiratory infections
+DIS122,COPD,SYM0400,cyanosis
+DIS123,Pneumonia,SYM0401,cough with phlegm
+DIS123,Pneumonia,SYM0027,fever
+DIS123,Pneumonia,SYM0012,chills
+DIS123,Pneumonia,SYM0034,shortness of breath
+DIS123,Pneumonia,SYM0059,chest pain
+DIS123,Pneumonia,SYM0010,fatigue
+DIS123,Pneumonia,SYM0021,nausea
+DIS124,Tuberculosis,SYM0399,chronic cough
+DIS124,Tuberculosis,SYM0109,coughing blood
+DIS124,Tuberculosis,SYM0102,night sweats
+DIS124,Tuberculosis,SYM0064,weight loss
+DIS124,Tuberculosis,SYM0027,fever
+DIS124,Tuberculosis,SYM0059,chest pain
+DIS124,Tuberculosis,SYM0010,fatigue
+DIS125,Bronchitis,SYM0006,cough
+DIS125,Bronchitis,SYM0398,mucus production
+DIS125,Bronchitis,SYM0010,fatigue
+DIS125,Bronchitis,SYM0034,shortness of breath
+DIS125,Bronchitis,SYM0402,chest discomfort
+DIS125,Bronchitis,SYM0004,mild fever
+DIS125,Bronchitis,SYM0012,chills
+DIS126,Pulmonary Fibrosis,SYM0034,shortness of breath
+DIS126,Pulmonary Fibrosis,SYM0011,dry cough
+DIS126,Pulmonary Fibrosis,SYM0010,fatigue
+DIS126,Pulmonary Fibrosis,SYM0403,unexplained weight loss
+DIS126,Pulmonary Fibrosis,SYM0404,muscle and joint ache
+DIS126,Pulmonary Fibrosis,SYM0405,clubbing of fingers
+DIS126,Pulmonary Fibrosis,SYM0400,cyanosis
+DIS127,Sleep Apnoea,SYM0406,loud snoring
+DIS127,Sleep Apnoea,SYM0407,breathing pauses
+DIS127,Sleep Apnoea,SYM0408,gasping during sleep
+DIS127,Sleep Apnoea,SYM0409,morning headache
+DIS127,Sleep Apnoea,SYM0410,daytime sleepiness
+DIS127,Sleep Apnoea,SYM0411,difficulty concentrating
+DIS127,Sleep Apnoea,SYM0039,dry mouth
+DIS128,Pleural Effusion,SYM0034,shortness of breath
+DIS128,Pleural Effusion,SYM0059,chest pain
+DIS128,Pleural Effusion,SYM0011,dry cough
+DIS128,Pleural Effusion,SYM0027,fever
+DIS128,Pleural Effusion,SYM0385,hiccups
+DIS128,Pleural Effusion,SYM0412,difficulty breathing lying down
+DIS128,Pleural Effusion,SYM0064,weight loss
+DIS129,Lung Cancer,SYM0091,persistent cough
+DIS129,Lung Cancer,SYM0109,coughing blood
+DIS129,Lung Cancer,SYM0034,shortness of breath
+DIS129,Lung Cancer,SYM0059,chest pain
+DIS129,Lung Cancer,SYM0125,hoarseness
+DIS129,Lung Cancer,SYM0064,weight loss
+DIS129,Lung Cancer,SYM0048,bone pain
+DIS130,Pulmonary Hypertension,SYM0034,shortness of breath
+DIS130,Pulmonary Hypertension,SYM0010,fatigue
+DIS130,Pulmonary Hypertension,SYM0035,dizziness
+DIS130,Pulmonary Hypertension,SYM0096,chest pressure
+DIS130,Pulmonary Hypertension,SYM0413,swollen ankles
+DIS130,Pulmonary Hypertension,SYM0414,bluish lips
+DIS130,Pulmonary Hypertension,SYM0415,racing heartbeat
+DIS131,Bronchiectasis,SYM0416,daily cough
+DIS131,Bronchiectasis,SYM0417,large amounts of mucus
+DIS131,Bronchiectasis,SYM0034,shortness of breath
+DIS131,Bronchiectasis,SYM0396,wheezing
+DIS131,Bronchiectasis,SYM0059,chest pain
+DIS131,Bronchiectasis,SYM0109,coughing blood
+DIS131,Bronchiectasis,SYM0010,fatigue
+DIS132,Pleuritis,SYM0100,sharp chest pain
+DIS132,Pleuritis,SYM0034,shortness of breath
+DIS132,Pleuritis,SYM0006,cough
+DIS132,Pleuritis,SYM0027,fever
+DIS132,Pleuritis,SYM0418,pain with breathing
+DIS132,Pleuritis,SYM0419,pain with movement
+DIS132,Pleuritis,SYM0097,shoulder pain
+DIS133,Pneumothorax,SYM0420,sudden chest pain
+DIS133,Pneumothorax,SYM0034,shortness of breath
+DIS133,Pneumothorax,SYM0069,rapid heart rate
+DIS133,Pneumothorax,SYM0006,cough
+DIS133,Pneumothorax,SYM0010,fatigue
+DIS133,Pneumothorax,SYM0118,bluish skin
+DIS133,Pneumothorax,SYM0095,chest tightness
+DIS134,Emphysema,SYM0034,shortness of breath
+DIS134,Emphysema,SYM0421,barrel chest
+DIS134,Emphysema,SYM0399,chronic cough
+DIS134,Emphysema,SYM0396,wheezing
+DIS134,Emphysema,SYM0010,fatigue
+DIS134,Emphysema,SYM0422,reduced exercise tolerance
+DIS134,Emphysema,SYM0064,weight loss
+DIS135,Allergic Rhinitis,SYM0002,sneezing
+DIS135,Allergic Rhinitis,SYM0001,runny nose
+DIS135,Allergic Rhinitis,SYM0005,nasal congestion
+DIS135,Allergic Rhinitis,SYM0423,itchy eyes
+DIS135,Allergic Rhinitis,SYM0424,watery eyes
+DIS135,Allergic Rhinitis,SYM0425,itchy nose
+DIS135,Allergic Rhinitis,SYM0426,post-nasal drip
+DIS136,Occupational Asthma,SYM0396,wheezing
+DIS136,Occupational Asthma,SYM0006,cough
+DIS136,Occupational Asthma,SYM0095,chest tightness
+DIS136,Occupational Asthma,SYM0034,shortness of breath
+DIS136,Occupational Asthma,SYM0001,runny nose
+DIS136,Occupational Asthma,SYM0318,eye irritation
+DIS136,Occupational Asthma,SYM0427,symptoms at work
+DIS137,Sarcoidosis,SYM0006,cough
+DIS137,Sarcoidosis,SYM0034,shortness of breath
+DIS137,Sarcoidosis,SYM0059,chest pain
+DIS137,Sarcoidosis,SYM0010,fatigue
+DIS137,Sarcoidosis,SYM0428,skin lesions
+DIS137,Sarcoidosis,SYM0429,eye problems
+DIS137,Sarcoidosis,SYM0025,joint pain
+DIS138,COVID-19,SYM0027,fever
+DIS138,COVID-19,SYM0011,dry cough
+DIS138,COVID-19,SYM0010,fatigue
+DIS138,COVID-19,SYM0430,loss of taste
+DIS138,COVID-19,SYM0431,loss of smell
+DIS138,COVID-19,SYM0034,shortness of breath
+DIS138,COVID-19,SYM0009,body aches
+DIS139,Acute Respiratory Distress Syndrome,SYM0432,severe shortness of breath
+DIS139,Acute Respiratory Distress Syndrome,SYM0068,rapid breathing
+DIS139,Acute Respiratory Distress Syndrome,SYM0045,confusion
+DIS139,Acute Respiratory Distress Syndrome,SYM0433,extreme fatigue
+DIS139,Acute Respiratory Distress Syndrome,SYM0070,low blood pressure
+DIS139,Acute Respiratory Distress Syndrome,SYM0414,bluish lips
+DIS139,Acute Respiratory Distress Syndrome,SYM0434,laboured breathing
+DIS140,Respiratory Syncytial Virus,SYM0001,runny nose
+DIS140,Respiratory Syncytial Virus,SYM0006,cough
+DIS140,Respiratory Syncytial Virus,SYM0027,fever
+DIS140,Respiratory Syncytial Virus,SYM0396,wheezing
+DIS140,Respiratory Syncytial Virus,SYM0034,shortness of breath
+DIS140,Respiratory Syncytial Virus,SYM0068,rapid breathing
+DIS140,Respiratory Syncytial Virus,SYM0118,bluish skin
+DIS141,Type 1 Diabetes,SYM0435,excessive thirst
+DIS141,Type 1 Diabetes,SYM0436,frequent urination
+DIS141,Type 1 Diabetes,SYM0064,weight loss
+DIS141,Type 1 Diabetes,SYM0083,blurred vision
+DIS141,Type 1 Diabetes,SYM0010,fatigue
+DIS141,Type 1 Diabetes,SYM0437,fruity breath
+DIS141,Type 1 Diabetes,SYM0021,nausea
+DIS142,Type 2 Diabetes,SYM0436,frequent urination
+DIS142,Type 2 Diabetes,SYM0435,excessive thirst
+DIS142,Type 2 Diabetes,SYM0092,weight gain
+DIS142,Type 2 Diabetes,SYM0010,fatigue
+DIS142,Type 2 Diabetes,SYM0083,blurred vision
+DIS142,Type 2 Diabetes,SYM0114,slow healing wounds
+DIS142,Type 2 Diabetes,SYM0060,frequent infections
+DIS143,Hypothyroidism,SYM0010,fatigue
+DIS143,Hypothyroidism,SYM0092,weight gain
+DIS143,Hypothyroidism,SYM0438,cold intolerance
+DIS143,Hypothyroidism,SYM0018,constipation
+DIS143,Hypothyroidism,SYM0066,dry skin
+DIS143,Hypothyroidism,SYM0051,hair loss
+DIS143,Hypothyroidism,SYM0050,depression
+DIS144,Hyperthyroidism,SYM0064,weight loss
+DIS144,Hyperthyroidism,SYM0090,rapid heartbeat
+DIS144,Hyperthyroidism,SYM0439,heat intolerance
+DIS144,Hyperthyroidism,SYM0020,sweating
+DIS144,Hyperthyroidism,SYM0099,anxiety
+DIS144,Hyperthyroidism,SYM0142,tremors
+DIS144,Hyperthyroidism,SYM0440,bulging eyes
+DIS145,Cushing's Syndrome,SYM0092,weight gain
+DIS145,Cushing's Syndrome,SYM0441,moon face
+DIS145,Cushing's Syndrome,SYM0442,buffalo hump
+DIS145,Cushing's Syndrome,SYM0443,stretch marks
+DIS145,Cushing's Syndrome,SYM0444,thin skin
+DIS145,Cushing's Syndrome,SYM0445,easy bruising
+DIS145,Cushing's Syndrome,SYM0049,muscle weakness
+DIS146,Addison's Disease,SYM0010,fatigue
+DIS146,Addison's Disease,SYM0064,weight loss
+DIS146,Addison's Disease,SYM0446,darkening of skin
+DIS146,Addison's Disease,SYM0070,low blood pressure
+DIS146,Addison's Disease,SYM0447,salt craving
+DIS146,Addison's Disease,SYM0021,nausea
+DIS146,Addison's Disease,SYM0049,muscle weakness
+DIS147,Polycystic Ovary Syndrome,SYM0448,irregular periods
+DIS147,Polycystic Ovary Syndrome,SYM0092,weight gain
+DIS147,Polycystic Ovary Syndrome,SYM0449,acne
+DIS147,Polycystic Ovary Syndrome,SYM0450,excess hair growth
+DIS147,Polycystic Ovary Syndrome,SYM0330,hair thinning
+DIS147,Polycystic Ovary Syndrome,SYM0451,darkened skin
+DIS147,Polycystic Ovary Syndrome,SYM0452,infertility
+DIS148,Hypoparathyroidism,SYM0185,muscle cramps
+DIS148,Hypoparathyroidism,SYM0191,tingling
+DIS148,Hypoparathyroidism,SYM0131,seizures
+DIS148,Hypoparathyroidism,SYM0066,dry skin
+DIS148,Hypoparathyroidism,SYM0037,brittle nails
+DIS148,Hypoparathyroidism,SYM0051,hair loss
+DIS148,Hypoparathyroidism,SYM0453,cataracts
+DIS149,Hyperparathyroidism,SYM0048,bone pain
+DIS149,Hyperparathyroidism,SYM0454,kidney stones
+DIS149,Hyperparathyroidism,SYM0014,abdominal pain
+DIS149,Hyperparathyroidism,SYM0010,fatigue
+DIS149,Hyperparathyroidism,SYM0050,depression
+DIS149,Hyperparathyroidism,SYM0021,nausea
+DIS149,Hyperparathyroidism,SYM0455,increased thirst
+DIS150,Diabetes Insipidus,SYM0435,excessive thirst
+DIS150,Diabetes Insipidus,SYM0456,excessive urination
+DIS150,Diabetes Insipidus,SYM0457,dilute urine
+DIS150,Diabetes Insipidus,SYM0032,dehydration
+DIS150,Diabetes Insipidus,SYM0010,fatigue
+DIS150,Diabetes Insipidus,SYM0035,dizziness
+DIS150,Diabetes Insipidus,SYM0021,nausea
+DIS151,Acromegaly,SYM0458,enlarged hands
+DIS151,Acromegaly,SYM0459,enlarged feet
+DIS151,Acromegaly,SYM0460,facial changes
+DIS151,Acromegaly,SYM0025,joint pain
+DIS151,Acromegaly,SYM0007,headache
+DIS151,Acromegaly,SYM0152,vision problems
+DIS151,Acromegaly,SYM0461,excessive sweating
+DIS152,Gigantism,SYM0462,abnormal height
+DIS152,Gigantism,SYM0463,large hands
+DIS152,Gigantism,SYM0464,large feet
+DIS152,Gigantism,SYM0465,delayed puberty
+DIS152,Gigantism,SYM0007,headache
+DIS152,Gigantism,SYM0152,vision problems
+DIS152,Gigantism,SYM0015,weakness
+DIS153,Congenital Hypothyroidism,SYM0466,poor feeding
+DIS153,Congenital Hypothyroidism,SYM0075,jaundice
+DIS153,Congenital Hypothyroidism,SYM0018,constipation
+DIS153,Congenital Hypothyroidism,SYM0467,hoarse cry
+DIS153,Congenital Hypothyroidism,SYM0468,slow growth
+DIS153,Congenital Hypothyroidism,SYM0179,intellectual disability
+DIS153,Congenital Hypothyroidism,SYM0469,puffy face
+DIS154,Metabolic Syndrome,SYM0470,central obesity
+DIS154,Metabolic Syndrome,SYM0471,high blood pressure
+DIS154,Metabolic Syndrome,SYM0472,high blood sugar
+DIS154,Metabolic Syndrome,SYM0473,abnormal cholesterol
+DIS154,Metabolic Syndrome,SYM0010,fatigue
+DIS154,Metabolic Syndrome,SYM0455,increased thirst
+DIS154,Metabolic Syndrome,SYM0436,frequent urination
+DIS155,Adrenal Insufficiency,SYM0010,fatigue
+DIS155,Adrenal Insufficiency,SYM0049,muscle weakness
+DIS155,Adrenal Insufficiency,SYM0064,weight loss
+DIS155,Adrenal Insufficiency,SYM0021,nausea
+DIS155,Adrenal Insufficiency,SYM0030,vomiting
+DIS155,Adrenal Insufficiency,SYM0070,low blood pressure
+DIS155,Adrenal Insufficiency,SYM0446,darkening of skin
+DIS156,Pituitary Adenoma,SYM0007,headache
+DIS156,Pituitary Adenoma,SYM0152,vision problems
+DIS156,Pituitary Adenoma,SYM0474,hormonal imbalance
+DIS156,Pituitary Adenoma,SYM0010,fatigue
+DIS156,Pituitary Adenoma,SYM0475,weight changes
+DIS156,Pituitary Adenoma,SYM0452,infertility
+DIS156,Pituitary Adenoma,SYM0056,mood changes
+DIS157,Conn's Syndrome,SYM0471,high blood pressure
+DIS157,Conn's Syndrome,SYM0049,muscle weakness
+DIS157,Conn's Syndrome,SYM0456,excessive urination
+DIS157,Conn's Syndrome,SYM0007,headache
+DIS157,Conn's Syndrome,SYM0010,fatigue
+DIS157,Conn's Syndrome,SYM0054,numbness
+DIS157,Conn's Syndrome,SYM0476,vision changes
+DIS158,Phaeochromocytoma,SYM0471,high blood pressure
+DIS158,Phaeochromocytoma,SYM0007,headache
+DIS158,Phaeochromocytoma,SYM0020,sweating
+DIS158,Phaeochromocytoma,SYM0085,palpitations
+DIS158,Phaeochromocytoma,SYM0142,tremors
+DIS158,Phaeochromocytoma,SYM0099,anxiety
+DIS158,Phaeochromocytoma,SYM0014,abdominal pain
+DIS159,Thyroid Nodule,SYM0477,lump in throat
+DIS159,Thyroid Nodule,SYM0126,swallowing difficulty
+DIS159,Thyroid Nodule,SYM0125,hoarseness
+DIS159,Thyroid Nodule,SYM0208,neck pain
+DIS159,Thyroid Nodule,SYM0174,breathing difficulty
+DIS159,Thyroid Nodule,SYM0006,cough
+DIS159,Thyroid Nodule,SYM0478,hyperthyroid symptoms
+DIS160,Goitre,SYM0479,swollen neck
+DIS160,Goitre,SYM0006,cough
+DIS160,Goitre,SYM0126,swallowing difficulty
+DIS160,Goitre,SYM0125,hoarseness
+DIS160,Goitre,SYM0035,dizziness
+DIS160,Goitre,SYM0174,breathing difficulty
+DIS160,Goitre,SYM0480,tight feeling in throat
+DIS161,Chronic Kidney Disease,SYM0010,fatigue
+DIS161,Chronic Kidney Disease,SYM0101,swelling
+DIS161,Chronic Kidney Disease,SYM0034,shortness of breath
+DIS161,Chronic Kidney Disease,SYM0072,decreased urine
+DIS161,Chronic Kidney Disease,SYM0021,nausea
+DIS161,Chronic Kidney Disease,SYM0015,weakness
+DIS161,Chronic Kidney Disease,SYM0045,confusion
+DIS162,Acute Kidney Injury,SYM0072,decreased urine
+DIS162,Acute Kidney Injury,SYM0089,leg swelling
+DIS162,Acute Kidney Injury,SYM0062,breathlessness
+DIS162,Acute Kidney Injury,SYM0010,fatigue
+DIS162,Acute Kidney Injury,SYM0045,confusion
+DIS162,Acute Kidney Injury,SYM0021,nausea
+DIS162,Acute Kidney Injury,SYM0059,chest pain
+DIS163,Glomerulonephritis,SYM0481,blood in urine
+DIS163,Glomerulonephritis,SYM0482,foamy urine
+DIS163,Glomerulonephritis,SYM0471,high blood pressure
+DIS163,Glomerulonephritis,SYM0101,swelling
+DIS163,Glomerulonephritis,SYM0010,fatigue
+DIS163,Glomerulonephritis,SYM0021,nausea
+DIS163,Glomerulonephritis,SYM0042,decreased urination
+DIS164,Nephrotic Syndrome,SYM0482,foamy urine
+DIS164,Nephrotic Syndrome,SYM0101,swelling
+DIS164,Nephrotic Syndrome,SYM0092,weight gain
+DIS164,Nephrotic Syndrome,SYM0010,fatigue
+DIS164,Nephrotic Syndrome,SYM0016,loss of appetite
+DIS164,Nephrotic Syndrome,SYM0483,frothy urine
+DIS164,Nephrotic Syndrome,SYM0471,high blood pressure
+DIS165,Kidney Stones,SYM0484,severe flank pain
+DIS165,Kidney Stones,SYM0481,blood in urine
+DIS165,Kidney Stones,SYM0021,nausea
+DIS165,Kidney Stones,SYM0030,vomiting
+DIS165,Kidney Stones,SYM0436,frequent urination
+DIS165,Kidney Stones,SYM0485,burning urination
+DIS165,Kidney Stones,SYM0486,cloudy urine
+DIS166,Urinary Tract Infection,SYM0485,burning urination
+DIS166,Urinary Tract Infection,SYM0436,frequent urination
+DIS166,Urinary Tract Infection,SYM0486,cloudy urine
+DIS166,Urinary Tract Infection,SYM0487,foul-smelling urine
+DIS166,Urinary Tract Infection,SYM0488,pelvic pain
+DIS166,Urinary Tract Infection,SYM0027,fever
+DIS166,Urinary Tract Infection,SYM0481,blood in urine
+DIS167,Polycystic Kidney Disease,SYM0052,back pain
+DIS167,Polycystic Kidney Disease,SYM0014,abdominal pain
+DIS167,Polycystic Kidney Disease,SYM0471,high blood pressure
+DIS167,Polycystic Kidney Disease,SYM0481,blood in urine
+DIS167,Polycystic Kidney Disease,SYM0007,headache
+DIS167,Polycystic Kidney Disease,SYM0454,kidney stones
+DIS167,Polycystic Kidney Disease,SYM0436,frequent urination
+DIS168,Renal Artery Stenosis,SYM0471,high blood pressure
+DIS168,Renal Artery Stenosis,SYM0489,decreased kidney function
+DIS168,Renal Artery Stenosis,SYM0089,leg swelling
+DIS168,Renal Artery Stenosis,SYM0007,headache
+DIS168,Renal Artery Stenosis,SYM0034,shortness of breath
+DIS168,Renal Artery Stenosis,SYM0490,elevated creatinine
+DIS168,Renal Artery Stenosis,SYM0010,fatigue
+DIS169,Lupus Nephritis,SYM0481,blood in urine
+DIS169,Lupus Nephritis,SYM0482,foamy urine
+DIS169,Lupus Nephritis,SYM0089,leg swelling
+DIS169,Lupus Nephritis,SYM0471,high blood pressure
+DIS169,Lupus Nephritis,SYM0010,fatigue
+DIS169,Lupus Nephritis,SYM0025,joint pain
+DIS169,Lupus Nephritis,SYM0017,rash
+DIS170,Interstitial Nephritis,SYM0072,decreased urine
+DIS170,Interstitial Nephritis,SYM0027,fever
+DIS170,Interstitial Nephritis,SYM0017,rash
+DIS170,Interstitial Nephritis,SYM0481,blood in urine
+DIS170,Interstitial Nephritis,SYM0021,nausea
+DIS170,Interstitial Nephritis,SYM0010,fatigue
+DIS170,Interstitial Nephritis,SYM0045,confusion
+DIS171,Hydronephrosis,SYM0052,back pain
+DIS171,Hydronephrosis,SYM0491,side pain
+DIS171,Hydronephrosis,SYM0021,nausea
+DIS171,Hydronephrosis,SYM0030,vomiting
+DIS171,Hydronephrosis,SYM0436,frequent urination
+DIS171,Hydronephrosis,SYM0492,pain while urinating
+DIS171,Hydronephrosis,SYM0027,fever
+DIS172,Renal Tubular Acidosis,SYM0010,fatigue
+DIS172,Renal Tubular Acidosis,SYM0049,muscle weakness
+DIS172,Renal Tubular Acidosis,SYM0048,bone pain
+DIS172,Renal Tubular Acidosis,SYM0454,kidney stones
+DIS172,Renal Tubular Acidosis,SYM0493,growth retardation
+DIS172,Renal Tubular Acidosis,SYM0436,frequent urination
+DIS172,Renal Tubular Acidosis,SYM0038,thirst
+DIS173,Alport Syndrome,SYM0481,blood in urine
+DIS173,Alport Syndrome,SYM0259,hearing loss
+DIS173,Alport Syndrome,SYM0152,vision problems
+DIS173,Alport Syndrome,SYM0471,high blood pressure
+DIS173,Alport Syndrome,SYM0494,kidney failure
+DIS173,Alport Syndrome,SYM0482,foamy urine
+DIS173,Alport Syndrome,SYM0010,fatigue
+DIS174,Diabetic Nephropathy,SYM0482,foamy urine
+DIS174,Diabetic Nephropathy,SYM0101,swelling
+DIS174,Diabetic Nephropathy,SYM0471,high blood pressure
+DIS174,Diabetic Nephropathy,SYM0010,fatigue
+DIS174,Diabetic Nephropathy,SYM0021,nausea
+DIS174,Diabetic Nephropathy,SYM0072,decreased urine
+DIS174,Diabetic Nephropathy,SYM0045,confusion
+DIS175,Renal Cell Carcinoma,SYM0481,blood in urine
+DIS175,Renal Cell Carcinoma,SYM0052,back pain
+DIS175,Renal Cell Carcinoma,SYM0495,abdominal mass
+DIS175,Renal Cell Carcinoma,SYM0064,weight loss
+DIS175,Renal Cell Carcinoma,SYM0010,fatigue
+DIS175,Renal Cell Carcinoma,SYM0027,fever
+DIS175,Renal Cell Carcinoma,SYM0471,high blood pressure
+DIS176,Bladder Cancer,SYM0481,blood in urine
+DIS176,Bladder Cancer,SYM0436,frequent urination
+DIS176,Bladder Cancer,SYM0496,painful urination
+DIS176,Bladder Cancer,SYM0052,back pain
+DIS176,Bladder Cancer,SYM0488,pelvic pain
+DIS176,Bladder Cancer,SYM0064,weight loss
+DIS176,Bladder Cancer,SYM0010,fatigue
+DIS177,Pyelonephritis,SYM0052,back pain
+DIS177,Pyelonephritis,SYM0027,fever
+DIS177,Pyelonephritis,SYM0012,chills
+DIS177,Pyelonephritis,SYM0021,nausea
+DIS177,Pyelonephritis,SYM0030,vomiting
+DIS177,Pyelonephritis,SYM0496,painful urination
+DIS177,Pyelonephritis,SYM0436,frequent urination
+DIS178,Nephrolithiasis,SYM0497,severe pain
+DIS178,Nephrolithiasis,SYM0481,blood in urine
+DIS178,Nephrolithiasis,SYM0021,nausea
+DIS178,Nephrolithiasis,SYM0030,vomiting
+DIS178,Nephrolithiasis,SYM0027,fever
+DIS178,Nephrolithiasis,SYM0012,chills
+DIS178,Nephrolithiasis,SYM0486,cloudy urine
+DIS179,Minimal Change Disease,SYM0498,oedema
+DIS179,Minimal Change Disease,SYM0482,foamy urine
+DIS179,Minimal Change Disease,SYM0092,weight gain
+DIS179,Minimal Change Disease,SYM0010,fatigue
+DIS179,Minimal Change Disease,SYM0016,loss of appetite
+DIS179,Minimal Change Disease,SYM0471,high blood pressure
+DIS179,Minimal Change Disease,SYM0499,low urine output
+DIS180,IgA Nephropathy,SYM0481,blood in urine
+DIS180,IgA Nephropathy,SYM0482,foamy urine
+DIS180,IgA Nephropathy,SYM0471,high blood pressure
+DIS180,IgA Nephropathy,SYM0089,leg swelling
+DIS180,IgA Nephropathy,SYM0052,back pain
+DIS180,IgA Nephropathy,SYM0010,fatigue
+DIS180,IgA Nephropathy,SYM0042,decreased urination
+DIS181,Benign Prostatic Hyperplasia,SYM0436,frequent urination
+DIS181,Benign Prostatic Hyperplasia,SYM0500,weak urine stream
+DIS181,Benign Prostatic Hyperplasia,SYM0501,difficulty starting urination
+DIS181,Benign Prostatic Hyperplasia,SYM0502,dribbling
+DIS181,Benign Prostatic Hyperplasia,SYM0503,incomplete bladder emptying
+DIS181,Benign Prostatic Hyperplasia,SYM0504,night urination
+DIS181,Benign Prostatic Hyperplasia,SYM0505,urinary retention
+DIS182,Prostate Cancer,SYM0506,difficulty urinating
+DIS182,Prostate Cancer,SYM0481,blood in urine
+DIS182,Prostate Cancer,SYM0488,pelvic pain
+DIS182,Prostate Cancer,SYM0048,bone pain
+DIS182,Prostate Cancer,SYM0507,erectile dysfunction
+DIS182,Prostate Cancer,SYM0064,weight loss
+DIS182,Prostate Cancer,SYM0010,fatigue
+DIS183,Erectile Dysfunction,SYM0508,difficulty achieving erection
+DIS183,Erectile Dysfunction,SYM0509,difficulty maintaining erection
+DIS183,Erectile Dysfunction,SYM0510,reduced desire
+DIS183,Erectile Dysfunction,SYM0099,anxiety
+DIS183,Erectile Dysfunction,SYM0050,depression
+DIS183,Erectile Dysfunction,SYM0511,relationship problems
+DIS183,Erectile Dysfunction,SYM0512,stress
+DIS184,Testicular Cancer,SYM0513,testicular lump
+DIS184,Testicular Cancer,SYM0514,testicular swelling
+DIS184,Testicular Cancer,SYM0515,dull ache
+DIS184,Testicular Cancer,SYM0516,heaviness in scrotum
+DIS184,Testicular Cancer,SYM0052,back pain
+DIS184,Testicular Cancer,SYM0517,breast tenderness
+DIS184,Testicular Cancer,SYM0010,fatigue
+DIS185,Varicocele,SYM0518,scrotal pain
+DIS185,Varicocele,SYM0519,testicular atrophy
+DIS185,Varicocele,SYM0520,fertility problems
+DIS185,Varicocele,SYM0521,scrotal heaviness
+DIS185,Varicocele,SYM0515,dull ache
+DIS185,Varicocele,SYM0522,visible veins
+DIS185,Varicocele,SYM0523,dragging sensation
+DIS186,Hydrocele,SYM0524,scrotal swelling
+DIS186,Hydrocele,SYM0525,painless swelling
+DIS186,Hydrocele,SYM0526,heaviness
+DIS186,Hydrocele,SYM0381,discomfort
+DIS186,Hydrocele,SYM0527,pain on squeezing
+DIS186,Hydrocele,SYM0528,translucency on light
+DIS186,Hydrocele,SYM0529,smooth swelling
+DIS187,Epididymitis,SYM0518,scrotal pain
+DIS187,Epididymitis,SYM0101,swelling
+DIS187,Epididymitis,SYM0104,redness
+DIS187,Epididymitis,SYM0105,warmth
+DIS187,Epididymitis,SYM0027,fever
+DIS187,Epididymitis,SYM0530,discharge
+DIS187,Epididymitis,SYM0531,pain with urination
+DIS188,Peyronie's Disease,SYM0532,penile curvature
+DIS188,Peyronie's Disease,SYM0533,painful erection
+DIS188,Peyronie's Disease,SYM0534,reduced length
+DIS188,Peyronie's Disease,SYM0507,erectile dysfunction
+DIS188,Peyronie's Disease,SYM0535,scar tissue
+DIS188,Peyronie's Disease,SYM0536,plaque
+DIS188,Peyronie's Disease,SYM0248,pain
+DIS189,Urethral Stricture,SYM0500,weak urine stream
+DIS189,Urethral Stricture,SYM0537,straining
+DIS189,Urethral Stricture,SYM0502,dribbling
+DIS189,Urethral Stricture,SYM0538,incomplete emptying
+DIS189,Urethral Stricture,SYM0539,urinary tract infection
+DIS189,Urethral Stricture,SYM0481,blood in urine
+DIS189,Urethral Stricture,SYM0505,urinary retention
+DIS190,Interstitial Cystitis,SYM0488,pelvic pain
+DIS190,Interstitial Cystitis,SYM0436,frequent urination
+DIS190,Interstitial Cystitis,SYM0369,urgency
+DIS190,Interstitial Cystitis,SYM0540,pain during intercourse
+DIS190,Interstitial Cystitis,SYM0541,pain with bladder filling
+DIS190,Interstitial Cystitis,SYM0542,pressure
+DIS190,Interstitial Cystitis,SYM0285,burning
+DIS191,Overactive Bladder,SYM0543,sudden urge to urinate
+DIS191,Overactive Bladder,SYM0436,frequent urination
+DIS191,Overactive Bladder,SYM0544,incontinence
+DIS191,Overactive Bladder,SYM0504,night urination
+DIS191,Overactive Bladder,SYM0369,urgency
+DIS191,Overactive Bladder,SYM0545,pelvic discomfort
+DIS191,Overactive Bladder,SYM0099,anxiety
+DIS192,Urinary Incontinence,SYM0546,urine leakage
+DIS192,Urinary Incontinence,SYM0369,urgency
+DIS192,Urinary Incontinence,SYM0547,stress incontinence
+DIS192,Urinary Incontinence,SYM0548,overflow incontinence
+DIS192,Urinary Incontinence,SYM0436,frequent urination
+DIS192,Urinary Incontinence,SYM0504,night urination
+DIS192,Urinary Incontinence,SYM0549,weak pelvic floor
+DIS193,Cryptorchidism,SYM0550,absent testicle
+DIS193,Cryptorchidism,SYM0551,inguinal swelling
+DIS193,Cryptorchidism,SYM0452,infertility
+DIS193,Cryptorchidism,SYM0474,hormonal imbalance
+DIS193,Cryptorchidism,SYM0248,pain
+DIS193,Cryptorchidism,SYM0519,testicular atrophy
+DIS193,Cryptorchidism,SYM0552,increased cancer risk
+DIS194,Phimosis,SYM0553,tight foreskin
+DIS194,Phimosis,SYM0554,pain during erection
+DIS194,Phimosis,SYM0555,difficulty retracting foreskin
+DIS194,Phimosis,SYM0556,urinary problems
+DIS194,Phimosis,SYM0104,redness
+DIS194,Phimosis,SYM0101,swelling
+DIS194,Phimosis,SYM0557,recurrent infections
+DIS195,Priapism,SYM0558,prolonged erection
+DIS195,Priapism,SYM0533,painful erection
+DIS195,Priapism,SYM0559,penile rigidity
+DIS195,Priapism,SYM0099,anxiety
+DIS195,Priapism,SYM0021,nausea
+DIS195,Priapism,SYM0035,dizziness
+DIS195,Priapism,SYM0027,fever
+DIS196,Kidney Infection,SYM0052,back pain
+DIS196,Kidney Infection,SYM0027,fever
+DIS196,Kidney Infection,SYM0012,chills
+DIS196,Kidney Infection,SYM0021,nausea
+DIS196,Kidney Infection,SYM0030,vomiting
+DIS196,Kidney Infection,SYM0496,painful urination
+DIS196,Kidney Infection,SYM0481,blood in urine
+DIS197,Urinary Retention,SYM0560,inability to urinate
+DIS197,Urinary Retention,SYM0379,lower abdominal pain
+DIS197,Urinary Retention,SYM0537,straining
+DIS197,Urinary Retention,SYM0561,weak stream
+DIS197,Urinary Retention,SYM0436,frequent urination
+DIS197,Urinary Retention,SYM0548,overflow incontinence
+DIS197,Urinary Retention,SYM0381,discomfort
+DIS198,Ureteral Calculi,SYM0484,severe flank pain
+DIS198,Ureteral Calculi,SYM0481,blood in urine
+DIS198,Ureteral Calculi,SYM0021,nausea
+DIS198,Ureteral Calculi,SYM0030,vomiting
+DIS198,Ureteral Calculi,SYM0027,fever
+DIS198,Ureteral Calculi,SYM0562,urinary frequency
+DIS198,Ureteral Calculi,SYM0563,radiating pain
+DIS199,Bladder Prolapse,SYM0564,pelvic pressure
+DIS199,Bladder Prolapse,SYM0565,urinary incontinence
+DIS199,Bladder Prolapse,SYM0506,difficulty urinating
+DIS199,Bladder Prolapse,SYM0557,recurrent infections
+DIS199,Bladder Prolapse,SYM0488,pelvic pain
+DIS199,Bladder Prolapse,SYM0566,uncomfortable intercourse
+DIS199,Bladder Prolapse,SYM0261,lower back pain
+DIS200,Vesicoureteral Reflux,SYM0567,recurrent urinary infections
+DIS200,Vesicoureteral Reflux,SYM0568,bedwetting
+DIS200,Vesicoureteral Reflux,SYM0027,fever
+DIS200,Vesicoureteral Reflux,SYM0052,back pain
+DIS200,Vesicoureteral Reflux,SYM0436,frequent urination
+DIS200,Vesicoureteral Reflux,SYM0485,burning urination
+DIS200,Vesicoureteral Reflux,SYM0569,kidney damage
+DIS201,Endometriosis,SYM0488,pelvic pain
+DIS201,Endometriosis,SYM0570,painful periods
+DIS201,Endometriosis,SYM0540,pain during intercourse
+DIS201,Endometriosis,SYM0452,infertility
+DIS201,Endometriosis,SYM0571,heavy periods
+DIS201,Endometriosis,SYM0572,pain during bowel movements
+DIS201,Endometriosis,SYM0010,fatigue
+DIS202,Uterine Fibroids,SYM0571,heavy periods
+DIS202,Uterine Fibroids,SYM0564,pelvic pressure
+DIS202,Uterine Fibroids,SYM0436,frequent urination
+DIS202,Uterine Fibroids,SYM0018,constipation
+DIS202,Uterine Fibroids,SYM0573,backache
+DIS202,Uterine Fibroids,SYM0103,leg pain
+DIS202,Uterine Fibroids,SYM0574,prolonged periods
+DIS203,Ovarian Cyst,SYM0488,pelvic pain
+DIS203,Ovarian Cyst,SYM0359,bloating
+DIS203,Ovarian Cyst,SYM0448,irregular periods
+DIS203,Ovarian Cyst,SYM0575,painful intercourse
+DIS203,Ovarian Cyst,SYM0436,frequent urination
+DIS203,Ovarian Cyst,SYM0021,nausea
+DIS203,Ovarian Cyst,SYM0564,pelvic pressure
+DIS204,Cervical Cancer,SYM0576,vaginal bleeding
+DIS204,Cervical Cancer,SYM0577,unusual discharge
+DIS204,Cervical Cancer,SYM0488,pelvic pain
+DIS204,Cervical Cancer,SYM0540,pain during intercourse
+DIS204,Cervical Cancer,SYM0052,back pain
+DIS204,Cervical Cancer,SYM0089,leg swelling
+DIS204,Cervical Cancer,SYM0064,weight loss
+DIS205,Ovarian Cancer,SYM0374,abdominal bloating
+DIS205,Ovarian Cancer,SYM0488,pelvic pain
+DIS205,Ovarian Cancer,SYM0578,quick satiety
+DIS205,Ovarian Cancer,SYM0579,urinary urgency
+DIS205,Ovarian Cancer,SYM0064,weight loss
+DIS205,Ovarian Cancer,SYM0010,fatigue
+DIS205,Ovarian Cancer,SYM0018,constipation
+DIS206,Uterine Cancer,SYM0580,abnormal vaginal bleeding
+DIS206,Uterine Cancer,SYM0488,pelvic pain
+DIS206,Uterine Cancer,SYM0540,pain during intercourse
+DIS206,Uterine Cancer,SYM0506,difficulty urinating
+DIS206,Uterine Cancer,SYM0064,weight loss
+DIS206,Uterine Cancer,SYM0010,fatigue
+DIS206,Uterine Cancer,SYM0581,vaginal discharge
+DIS207,Polycystic Ovarian Syndrome,SYM0448,irregular periods
+DIS207,Polycystic Ovarian Syndrome,SYM0092,weight gain
+DIS207,Polycystic Ovarian Syndrome,SYM0582,excess hair
+DIS207,Polycystic Ovarian Syndrome,SYM0449,acne
+DIS207,Polycystic Ovarian Syndrome,SYM0583,thinning hair
+DIS207,Polycystic Ovarian Syndrome,SYM0584,darkening skin
+DIS207,Polycystic Ovarian Syndrome,SYM0452,infertility
+DIS208,Pelvic Inflammatory Disease,SYM0379,lower abdominal pain
+DIS208,Pelvic Inflammatory Disease,SYM0027,fever
+DIS208,Pelvic Inflammatory Disease,SYM0577,unusual discharge
+DIS208,Pelvic Inflammatory Disease,SYM0575,painful intercourse
+DIS208,Pelvic Inflammatory Disease,SYM0585,irregular bleeding
+DIS208,Pelvic Inflammatory Disease,SYM0496,painful urination
+DIS208,Pelvic Inflammatory Disease,SYM0052,back pain
+DIS209,Vaginitis,SYM0581,vaginal discharge
+DIS209,Vaginitis,SYM0284,itching
+DIS209,Vaginitis,SYM0586,odour
+DIS209,Vaginitis,SYM0285,burning
+DIS209,Vaginitis,SYM0104,redness
+DIS209,Vaginitis,SYM0101,swelling
+DIS209,Vaginitis,SYM0496,painful urination
+DIS210,Menorrhagia,SYM0587,heavy bleeding
+DIS210,Menorrhagia,SYM0574,prolonged periods
+DIS210,Menorrhagia,SYM0378,anaemia
+DIS210,Menorrhagia,SYM0010,fatigue
+DIS210,Menorrhagia,SYM0394,cramping
+DIS210,Menorrhagia,SYM0588,passing large clots
+DIS210,Menorrhagia,SYM0589,soaking pads hourly
+DIS211,Dysmenorrhoea,SYM0570,painful periods
+DIS211,Dysmenorrhoea,SYM0394,cramping
+DIS211,Dysmenorrhoea,SYM0261,lower back pain
+DIS211,Dysmenorrhoea,SYM0021,nausea
+DIS211,Dysmenorrhoea,SYM0030,vomiting
+DIS211,Dysmenorrhoea,SYM0029,diarrhoea
+DIS211,Dysmenorrhoea,SYM0007,headache
+DIS212,Premature Ovarian Insufficiency,SYM0448,irregular periods
+DIS212,Premature Ovarian Insufficiency,SYM0590,hot flashes
+DIS212,Premature Ovarian Insufficiency,SYM0102,night sweats
+DIS212,Premature Ovarian Insufficiency,SYM0591,vaginal dryness
+DIS212,Premature Ovarian Insufficiency,SYM0056,mood changes
+DIS212,Premature Ovarian Insufficiency,SYM0411,difficulty concentrating
+DIS212,Premature Ovarian Insufficiency,SYM0452,infertility
+DIS213,Ectopic Pregnancy,SYM0592,sharp pelvic pain
+DIS213,Ectopic Pregnancy,SYM0576,vaginal bleeding
+DIS213,Ectopic Pregnancy,SYM0097,shoulder pain
+DIS213,Ectopic Pregnancy,SYM0035,dizziness
+DIS213,Ectopic Pregnancy,SYM0021,nausea
+DIS213,Ectopic Pregnancy,SYM0015,weakness
+DIS213,Ectopic Pregnancy,SYM0094,fainting
+DIS214,Preeclampsia,SYM0471,high blood pressure
+DIS214,Preeclampsia,SYM0593,protein in urine
+DIS214,Preeclampsia,SYM0007,headache
+DIS214,Preeclampsia,SYM0476,vision changes
+DIS214,Preeclampsia,SYM0014,abdominal pain
+DIS214,Preeclampsia,SYM0101,swelling
+DIS214,Preeclampsia,SYM0021,nausea
+DIS215,Gestational Diabetes,SYM0455,increased thirst
+DIS215,Gestational Diabetes,SYM0436,frequent urination
+DIS215,Gestational Diabetes,SYM0010,fatigue
+DIS215,Gestational Diabetes,SYM0021,nausea
+DIS215,Gestational Diabetes,SYM0083,blurred vision
+DIS215,Gestational Diabetes,SYM0007,headache
+DIS215,Gestational Diabetes,SYM0557,recurrent infections
+DIS216,Vulvodynia,SYM0594,chronic vulvar pain
+DIS216,Vulvodynia,SYM0285,burning
+DIS216,Vulvodynia,SYM0595,stinging
+DIS216,Vulvodynia,SYM0596,rawness
+DIS216,Vulvodynia,SYM0284,itching
+DIS216,Vulvodynia,SYM0597,throbbing
+DIS216,Vulvodynia,SYM0575,painful intercourse
+DIS217,Bartholin Cyst,SYM0598,vulvar lump
+DIS217,Bartholin Cyst,SYM0248,pain
+DIS217,Bartholin Cyst,SYM0101,swelling
+DIS217,Bartholin Cyst,SYM0599,discomfort when walking
+DIS217,Bartholin Cyst,SYM0540,pain during intercourse
+DIS217,Bartholin Cyst,SYM0027,fever
+DIS217,Bartholin Cyst,SYM0222,tenderness
+DIS218,Amenorrhoea,SYM0600,absent periods
+DIS218,Amenorrhoea,SYM0475,weight changes
+DIS218,Amenorrhoea,SYM0582,excess hair
+DIS218,Amenorrhoea,SYM0449,acne
+DIS218,Amenorrhoea,SYM0601,nipple discharge
+DIS218,Amenorrhoea,SYM0007,headache
+DIS218,Amenorrhoea,SYM0476,vision changes
+DIS219,Menopausal Syndrome,SYM0590,hot flashes
+DIS219,Menopausal Syndrome,SYM0102,night sweats
+DIS219,Menopausal Syndrome,SYM0448,irregular periods
+DIS219,Menopausal Syndrome,SYM0591,vaginal dryness
+DIS219,Menopausal Syndrome,SYM0056,mood changes
+DIS219,Menopausal Syndrome,SYM0602,sleep problems
+DIS219,Menopausal Syndrome,SYM0092,weight gain
+DIS220,Gestational Hypertension,SYM0471,high blood pressure
+DIS220,Gestational Hypertension,SYM0007,headache
+DIS220,Gestational Hypertension,SYM0101,swelling
+DIS220,Gestational Hypertension,SYM0476,vision changes
+DIS220,Gestational Hypertension,SYM0014,abdominal pain
+DIS220,Gestational Hypertension,SYM0042,decreased urination
+DIS220,Gestational Hypertension,SYM0021,nausea
+DIS221,Childhood Asthma,SYM0396,wheezing
+DIS221,Childhood Asthma,SYM0034,shortness of breath
+DIS221,Childhood Asthma,SYM0006,cough
+DIS221,Childhood Asthma,SYM0095,chest tightness
+DIS221,Childhood Asthma,SYM0240,night symptoms
+DIS221,Childhood Asthma,SYM0397,exercise intolerance
+DIS221,Childhood Asthma,SYM0068,rapid breathing
+DIS222,Febrile Seizures,SYM0008,high fever
+DIS222,Febrile Seizures,SYM0603,seizure
+DIS222,Febrile Seizures,SYM0132,loss of consciousness
+DIS222,Febrile Seizures,SYM0604,muscle jerking
+DIS222,Febrile Seizures,SYM0045,confusion
+DIS222,Febrile Seizures,SYM0605,drowsiness
+DIS222,Febrile Seizures,SYM0606,temporary paralysis
+DIS223,Kawasaki Disease,SYM0013,prolonged fever
+DIS223,Kawasaki Disease,SYM0017,rash
+DIS223,Kawasaki Disease,SYM0074,red eyes
+DIS223,Kawasaki Disease,SYM0607,red lips
+DIS223,Kawasaki Disease,SYM0077,swollen lymph nodes
+DIS223,Kawasaki Disease,SYM0608,swollen hands
+DIS223,Kawasaki Disease,SYM0609,swollen feet
+DIS224,Croup,SYM0610,barking cough
+DIS224,Croup,SYM0611,hoarse voice
+DIS224,Croup,SYM0612,stridor
+DIS224,Croup,SYM0027,fever
+DIS224,Croup,SYM0613,difficulty breathing
+DIS224,Croup,SYM0001,runny nose
+DIS224,Croup,SYM0003,sore throat
+DIS225,RSV Infection,SYM0001,runny nose
+DIS225,RSV Infection,SYM0006,cough
+DIS225,RSV Infection,SYM0027,fever
+DIS225,RSV Infection,SYM0396,wheezing
+DIS225,RSV Infection,SYM0614,decreased appetite
+DIS225,RSV Infection,SYM0174,breathing difficulty
+DIS225,RSV Infection,SYM0118,bluish skin
+DIS226,Hand Foot Mouth Disease,SYM0027,fever
+DIS226,Hand Foot Mouth Disease,SYM0615,sores in mouth
+DIS226,Hand Foot Mouth Disease,SYM0616,rash on hands
+DIS226,Hand Foot Mouth Disease,SYM0617,rash on feet
+DIS226,Hand Foot Mouth Disease,SYM0618,rash on buttocks
+DIS226,Hand Foot Mouth Disease,SYM0256,irritability
+DIS226,Hand Foot Mouth Disease,SYM0003,sore throat
+DIS227,Whooping Cough,SYM0619,severe cough
+DIS227,Whooping Cough,SYM0620,whooping sound
+DIS227,Whooping Cough,SYM0621,vomiting after cough
+DIS227,Whooping Cough,SYM0001,runny nose
+DIS227,Whooping Cough,SYM0027,fever
+DIS227,Whooping Cough,SYM0010,fatigue
+DIS227,Whooping Cough,SYM0613,difficulty breathing
+DIS228,Measles,SYM0008,high fever
+DIS228,Measles,SYM0006,cough
+DIS228,Measles,SYM0001,runny nose
+DIS228,Measles,SYM0074,red eyes
+DIS228,Measles,SYM0622,koplik spots
+DIS228,Measles,SYM0017,rash
+DIS228,Measles,SYM0158,sensitivity to light
+DIS229,Mumps,SYM0623,swollen salivary glands
+DIS229,Mumps,SYM0027,fever
+DIS229,Mumps,SYM0007,headache
+DIS229,Mumps,SYM0073,muscle aches
+DIS229,Mumps,SYM0010,fatigue
+DIS229,Mumps,SYM0016,loss of appetite
+DIS229,Mumps,SYM0167,pain on chewing
+DIS230,Rubella,SYM0017,rash
+DIS230,Rubella,SYM0004,mild fever
+DIS230,Rubella,SYM0077,swollen lymph nodes
+DIS230,Rubella,SYM0003,sore throat
+DIS230,Rubella,SYM0001,runny nose
+DIS230,Rubella,SYM0074,red eyes
+DIS230,Rubella,SYM0025,joint pain
+DIS231,Roseola,SYM0008,high fever
+DIS231,Roseola,SYM0624,rash after fever breaks
+DIS231,Roseola,SYM0256,irritability
+DIS231,Roseola,SYM0077,swollen lymph nodes
+DIS231,Roseola,SYM0001,runny nose
+DIS231,Roseola,SYM0625,puffy eyes
+DIS231,Roseola,SYM0626,mild cough
+DIS232,Otitis Media,SYM0163,ear pain
+DIS232,Otitis Media,SYM0027,fever
+DIS232,Otitis Media,SYM0259,hearing loss
+DIS232,Otitis Media,SYM0256,irritability
+DIS232,Otitis Media,SYM0627,tugging at ear
+DIS232,Otitis Media,SYM0628,difficulty sleeping
+DIS232,Otitis Media,SYM0530,discharge
+DIS233,Intussusception,SYM0014,abdominal pain
+DIS233,Intussusception,SYM0629,currant jelly stools
+DIS233,Intussusception,SYM0030,vomiting
+DIS233,Intussusception,SYM0495,abdominal mass
+DIS233,Intussusception,SYM0033,pallor
+DIS233,Intussusception,SYM0605,drowsiness
+DIS233,Intussusception,SYM0027,fever
+DIS234,Tonsillitis,SYM0003,sore throat
+DIS234,Tonsillitis,SYM0630,swollen tonsils
+DIS234,Tonsillitis,SYM0027,fever
+DIS234,Tonsillitis,SYM0181,difficulty swallowing
+DIS234,Tonsillitis,SYM0631,bad breath
+DIS234,Tonsillitis,SYM0007,headache
+DIS234,Tonsillitis,SYM0611,hoarse voice
+DIS235,Childhood Obesity,SYM0061,excess weight
+DIS235,Childhood Obesity,SYM0010,fatigue
+DIS235,Childhood Obesity,SYM0062,breathlessness
+DIS235,Childhood Obesity,SYM0025,joint pain
+DIS235,Childhood Obesity,SYM0063,snoring
+DIS235,Childhood Obesity,SYM0461,excessive sweating
+DIS235,Childhood Obesity,SYM0050,depression
+DIS236,Attention Deficit Hyperactivity Disorder,SYM0632,inattention
+DIS236,Attention Deficit Hyperactivity Disorder,SYM0633,hyperactivity
+DIS236,Attention Deficit Hyperactivity Disorder,SYM0634,impulsivity
+DIS236,Attention Deficit Hyperactivity Disorder,SYM0411,difficulty concentrating
+DIS236,Attention Deficit Hyperactivity Disorder,SYM0635,restlessness
+DIS236,Attention Deficit Hyperactivity Disorder,SYM0636,forgetfulness
+DIS236,Attention Deficit Hyperactivity Disorder,SYM0637,interrupting others
+DIS237,Autism Spectrum Disorder,SYM0638,speech delay
+DIS237,Autism Spectrum Disorder,SYM0639,social difficulties
+DIS237,Autism Spectrum Disorder,SYM0640,repetitive behaviour
+DIS237,Autism Spectrum Disorder,SYM0641,sensory sensitivities
+DIS237,Autism Spectrum Disorder,SYM0642,avoids eye contact
+DIS237,Autism Spectrum Disorder,SYM0643,rigid routines
+DIS237,Autism Spectrum Disorder,SYM0644,intellectual challenges
+DIS238,Neonatal Jaundice,SYM0645,yellow skin
+DIS238,Neonatal Jaundice,SYM0646,yellow eyes
+DIS238,Neonatal Jaundice,SYM0466,poor feeding
+DIS238,Neonatal Jaundice,SYM0647,high-pitched cry
+DIS238,Neonatal Jaundice,SYM0648,lethargy
+DIS238,Neonatal Jaundice,SYM0040,dark urine
+DIS238,Neonatal Jaundice,SYM0649,pale stools
+DIS239,Failure to Thrive,SYM0119,poor weight gain
+DIS239,Failure to Thrive,SYM0650,short stature
+DIS239,Failure to Thrive,SYM0651,delayed development
+DIS239,Failure to Thrive,SYM0256,irritability
+DIS239,Failure to Thrive,SYM0466,poor feeding
+DIS239,Failure to Thrive,SYM0010,fatigue
+DIS239,Failure to Thrive,SYM0033,pallor
+DIS240,Cerebral Malaria,SYM0008,high fever
+DIS240,Cerebral Malaria,SYM0131,seizures
+DIS240,Cerebral Malaria,SYM0652,coma
+DIS240,Cerebral Malaria,SYM0653,impaired consciousness
+DIS240,Cerebral Malaria,SYM0378,anaemia
+DIS240,Cerebral Malaria,SYM0654,respiratory distress
+DIS240,Cerebral Malaria,SYM0655,hypoglycaemia
+DIS241,Cataract,SYM0656,cloudy vision
+DIS241,Cataract,SYM0083,blurred vision
+DIS241,Cataract,SYM0657,poor night vision
+DIS241,Cataract,SYM0658,colour fading
+DIS241,Cataract,SYM0659,glare sensitivity
+DIS241,Cataract,SYM0210,double vision
+DIS241,Cataract,SYM0660,frequent prescription changes
+DIS242,Glaucoma,SYM0661,gradual vision loss
+DIS242,Glaucoma,SYM0662,halos around lights
+DIS242,Glaucoma,SYM0024,eye pain
+DIS242,Glaucoma,SYM0021,nausea
+DIS242,Glaucoma,SYM0083,blurred vision
+DIS242,Glaucoma,SYM0663,tunnel vision
+DIS242,Glaucoma,SYM0007,headache
+DIS243,Age-Related Macular Degeneration,SYM0664,central vision loss
+DIS243,Age-Related Macular Degeneration,SYM0665,blurry vision
+DIS243,Age-Related Macular Degeneration,SYM0666,straight lines appear wavy
+DIS243,Age-Related Macular Degeneration,SYM0667,difficulty recognising faces
+DIS243,Age-Related Macular Degeneration,SYM0668,dark or empty areas
+DIS243,Age-Related Macular Degeneration,SYM0669,colour dullness
+DIS243,Age-Related Macular Degeneration,SYM0670,need for bright light
+DIS244,Diabetic Retinopathy,SYM0083,blurred vision
+DIS244,Diabetic Retinopathy,SYM0671,floaters
+DIS244,Diabetic Retinopathy,SYM0672,dark areas
+DIS244,Diabetic Retinopathy,SYM0673,vision fluctuation
+DIS244,Diabetic Retinopathy,SYM0674,colour changes
+DIS244,Diabetic Retinopathy,SYM0140,vision loss
+DIS244,Diabetic Retinopathy,SYM0675,impaired contrast
+DIS245,Conjunctivitis,SYM0074,red eyes
+DIS245,Conjunctivitis,SYM0530,discharge
+DIS245,Conjunctivitis,SYM0284,itching
+DIS245,Conjunctivitis,SYM0285,burning
+DIS245,Conjunctivitis,SYM0424,watery eyes
+DIS245,Conjunctivitis,SYM0676,swollen eyelids
+DIS245,Conjunctivitis,SYM0158,sensitivity to light
+DIS246,Dry Eye Syndrome,SYM0677,burning eyes
+DIS246,Dry Eye Syndrome,SYM0595,stinging
+DIS246,Dry Eye Syndrome,SYM0104,redness
+DIS246,Dry Eye Syndrome,SYM0083,blurred vision
+DIS246,Dry Eye Syndrome,SYM0158,sensitivity to light
+DIS246,Dry Eye Syndrome,SYM0424,watery eyes
+DIS246,Dry Eye Syndrome,SYM0678,eye fatigue
+DIS247,Retinal Detachment,SYM0679,sudden floaters
+DIS247,Retinal Detachment,SYM0680,flashes of light
+DIS247,Retinal Detachment,SYM0681,shadow in vision
+DIS247,Retinal Detachment,SYM0083,blurred vision
+DIS247,Retinal Detachment,SYM0682,reduced peripheral vision
+DIS247,Retinal Detachment,SYM0683,curtain over vision
+DIS247,Retinal Detachment,SYM0140,vision loss
+DIS248,Strabismus,SYM0684,misaligned eyes
+DIS248,Strabismus,SYM0210,double vision
+DIS248,Strabismus,SYM0685,uncoordinated eye movements
+DIS248,Strabismus,SYM0686,tilting head
+DIS248,Strabismus,SYM0687,squinting
+DIS248,Strabismus,SYM0688,poor depth perception
+DIS248,Strabismus,SYM0689,amblyopia
+DIS249,Amblyopia,SYM0690,poor vision one eye
+DIS249,Amblyopia,SYM0687,squinting
+DIS249,Amblyopia,SYM0691,head tilting
+DIS249,Amblyopia,SYM0692,eye turn
+DIS249,Amblyopia,SYM0688,poor depth perception
+DIS249,Amblyopia,SYM0693,difficulty reading
+DIS249,Amblyopia,SYM0694,eyestrain
+DIS250,Keratoconus,SYM0083,blurred vision
+DIS250,Keratoconus,SYM0695,multiple images
+DIS250,Keratoconus,SYM0696,halos
+DIS250,Keratoconus,SYM0697,streaking
+DIS250,Keratoconus,SYM0698,ghost images
+DIS250,Keratoconus,SYM0660,frequent prescription changes
+DIS250,Keratoconus,SYM0127,light sensitivity
+DIS251,Uveitis,SYM0024,eye pain
+DIS251,Uveitis,SYM0104,redness
+DIS251,Uveitis,SYM0083,blurred vision
+DIS251,Uveitis,SYM0127,light sensitivity
+DIS251,Uveitis,SYM0671,floaters
+DIS251,Uveitis,SYM0699,eye pressure
+DIS251,Uveitis,SYM0700,dark spots
+DIS252,Blepharitis,SYM0701,eyelid redness
+DIS252,Blepharitis,SYM0702,itchy eyelids
+DIS252,Blepharitis,SYM0677,burning eyes
+DIS252,Blepharitis,SYM0703,crusty eyelashes
+DIS252,Blepharitis,SYM0424,watery eyes
+DIS252,Blepharitis,SYM0158,sensitivity to light
+DIS252,Blepharitis,SYM0676,swollen eyelids
+DIS253,Pterygium,SYM0704,visible growth on eye
+DIS253,Pterygium,SYM0104,redness
+DIS253,Pterygium,SYM0705,irritation
+DIS253,Pterygium,SYM0083,blurred vision
+DIS253,Pterygium,SYM0284,itching
+DIS253,Pterygium,SYM0706,tearing
+DIS253,Pterygium,SYM0707,foreign body sensation
+DIS254,Corneal Ulcer,SYM0024,eye pain
+DIS254,Corneal Ulcer,SYM0104,redness
+DIS254,Corneal Ulcer,SYM0530,discharge
+DIS254,Corneal Ulcer,SYM0083,blurred vision
+DIS254,Corneal Ulcer,SYM0127,light sensitivity
+DIS254,Corneal Ulcer,SYM0706,tearing
+DIS254,Corneal Ulcer,SYM0707,foreign body sensation
+DIS255,Optic Neuritis,SYM0140,vision loss
+DIS255,Optic Neuritis,SYM0708,pain on eye movement
+DIS255,Optic Neuritis,SYM0709,colour vision changes
+DIS255,Optic Neuritis,SYM0680,flashes of light
+DIS255,Optic Neuritis,SYM0083,blurred vision
+DIS255,Optic Neuritis,SYM0710,reduced contrast
+DIS255,Optic Neuritis,SYM0007,headache
+DIS256,Chalazion,SYM0711,eyelid lump
+DIS256,Chalazion,SYM0712,eyelid swelling
+DIS256,Chalazion,SYM0083,blurred vision
+DIS256,Chalazion,SYM0706,tearing
+DIS256,Chalazion,SYM0713,eyelid tenderness
+DIS256,Chalazion,SYM0104,redness
+DIS256,Chalazion,SYM0714,heavy eyelid
+DIS257,Night Blindness,SYM0715,poor vision in low light
+DIS257,Night Blindness,SYM0716,difficulty driving at night
+DIS257,Night Blindness,SYM0717,delayed adaptation to dark
+DIS257,Night Blindness,SYM0687,squinting
+DIS257,Night Blindness,SYM0659,glare sensitivity
+DIS257,Night Blindness,SYM0718,stumbling in dark
+DIS257,Night Blindness,SYM0719,poor contrast
+DIS258,Orbital Cellulitis,SYM0024,eye pain
+DIS258,Orbital Cellulitis,SYM0720,swollen eyelid
+DIS258,Orbital Cellulitis,SYM0027,fever
+DIS258,Orbital Cellulitis,SYM0721,eye bulging
+DIS258,Orbital Cellulitis,SYM0722,restricted eye movement
+DIS258,Orbital Cellulitis,SYM0104,redness
+DIS258,Orbital Cellulitis,SYM0476,vision changes
+DIS259,Central Retinal Artery Occlusion,SYM0723,sudden vision loss
+DIS259,Central Retinal Artery Occlusion,SYM0724,painless loss of vision
+DIS259,Central Retinal Artery Occlusion,SYM0725,afferent pupillary defect
+DIS259,Central Retinal Artery Occlusion,SYM0726,visual field defect
+DIS259,Central Retinal Artery Occlusion,SYM0727,pale retina
+DIS259,Central Retinal Artery Occlusion,SYM0728,cherry red spot
+DIS259,Central Retinal Artery Occlusion,SYM0729,reduced visual acuity
+DIS260,Hypertensive Retinopathy,SYM0083,blurred vision
+DIS260,Hypertensive Retinopathy,SYM0007,headache
+DIS260,Hypertensive Retinopathy,SYM0661,gradual vision loss
+DIS260,Hypertensive Retinopathy,SYM0730,visual field defects
+DIS260,Hypertensive Retinopathy,SYM0210,double vision
+DIS260,Hypertensive Retinopathy,SYM0671,floaters
+DIS260,Hypertensive Retinopathy,SYM0476,vision changes
+DIS261,Sinusitis,SYM0731,facial pain
+DIS261,Sinusitis,SYM0005,nasal congestion
+DIS261,Sinusitis,SYM0007,headache
+DIS261,Sinusitis,SYM0426,post-nasal drip
+DIS261,Sinusitis,SYM0001,runny nose
+DIS261,Sinusitis,SYM0027,fever
+DIS261,Sinusitis,SYM0006,cough
+DIS262,Otitis Externa,SYM0163,ear pain
+DIS262,Otitis Externa,SYM0284,itching
+DIS262,Otitis Externa,SYM0530,discharge
+DIS262,Otitis Externa,SYM0104,redness
+DIS262,Otitis Externa,SYM0101,swelling
+DIS262,Otitis Externa,SYM0732,muffled hearing
+DIS262,Otitis Externa,SYM0086,jaw pain
+DIS263,Tonsillitis,SYM0003,sore throat
+DIS263,Tonsillitis,SYM0630,swollen tonsils
+DIS263,Tonsillitis,SYM0027,fever
+DIS263,Tonsillitis,SYM0631,bad breath
+DIS263,Tonsillitis,SYM0181,difficulty swallowing
+DIS263,Tonsillitis,SYM0007,headache
+DIS263,Tonsillitis,SYM0163,ear pain
+DIS264,Adenoid Hypertrophy,SYM0733,nasal obstruction
+DIS264,Adenoid Hypertrophy,SYM0734,mouth breathing
+DIS264,Adenoid Hypertrophy,SYM0063,snoring
+DIS264,Adenoid Hypertrophy,SYM0735,sleep apnoea
+DIS264,Adenoid Hypertrophy,SYM0736,nasal voice
+DIS264,Adenoid Hypertrophy,SYM0737,frequent ear infections
+DIS264,Adenoid Hypertrophy,SYM0460,facial changes
+DIS265,Hearing Loss,SYM0738,muffled sounds
+DIS265,Hearing Loss,SYM0739,asking repetition
+DIS265,Hearing Loss,SYM0740,turning up volume
+DIS265,Hearing Loss,SYM0741,difficulty hearing consonants
+DIS265,Hearing Loss,SYM0742,withdrawal from conversation
+DIS265,Hearing Loss,SYM0743,tinnitus
+DIS265,Hearing Loss,SYM0058,balance problems
+DIS266,Tinnitus,SYM0744,ringing in ears
+DIS266,Tinnitus,SYM0745,buzzing
+DIS266,Tinnitus,SYM0746,hissing
+DIS266,Tinnitus,SYM0747,clicking
+DIS266,Tinnitus,SYM0748,roaring
+DIS266,Tinnitus,SYM0411,difficulty concentrating
+DIS266,Tinnitus,SYM0202,sleep disturbance
+DIS267,Vertigo,SYM0749,spinning sensation
+DIS267,Vertigo,SYM0035,dizziness
+DIS267,Vertigo,SYM0021,nausea
+DIS267,Vertigo,SYM0030,vomiting
+DIS267,Vertigo,SYM0058,balance problems
+DIS267,Vertigo,SYM0259,hearing loss
+DIS267,Vertigo,SYM0020,sweating
+DIS268,Epistaxis,SYM0750,nose bleeding
+DIS268,Epistaxis,SYM0751,anterior bleed
+DIS268,Epistaxis,SYM0752,posterior bleed
+DIS268,Epistaxis,SYM0753,blood in throat
+DIS268,Epistaxis,SYM0754,swallowing blood
+DIS268,Epistaxis,SYM0005,nasal congestion
+DIS268,Epistaxis,SYM0755,history of hypertension
+DIS269,Laryngitis,SYM0611,hoarse voice
+DIS269,Laryngitis,SYM0003,sore throat
+DIS269,Laryngitis,SYM0756,dry throat
+DIS269,Laryngitis,SYM0006,cough
+DIS269,Laryngitis,SYM0027,fever
+DIS269,Laryngitis,SYM0077,swollen lymph nodes
+DIS269,Laryngitis,SYM0757,difficulty speaking
+DIS270,Otosclerosis,SYM0758,progressive hearing loss
+DIS270,Otosclerosis,SYM0743,tinnitus
+DIS270,Otosclerosis,SYM0035,dizziness
+DIS270,Otosclerosis,SYM0759,soft spoken voice
+DIS270,Otosclerosis,SYM0760,paracusis
+DIS270,Otosclerosis,SYM0761,low frequency hearing loss
+DIS270,Otosclerosis,SYM0762,family history
+DIS271,Nasal Polyps,SYM0005,nasal congestion
+DIS271,Nasal Polyps,SYM0001,runny nose
+DIS271,Nasal Polyps,SYM0431,loss of smell
+DIS271,Nasal Polyps,SYM0731,facial pain
+DIS271,Nasal Polyps,SYM0063,snoring
+DIS271,Nasal Polyps,SYM0060,frequent infections
+DIS271,Nasal Polyps,SYM0007,headache
+DIS272,Epiglottitis,SYM0763,severe sore throat
+DIS272,Epiglottitis,SYM0027,fever
+DIS272,Epiglottitis,SYM0161,drooling
+DIS272,Epiglottitis,SYM0181,difficulty swallowing
+DIS272,Epiglottitis,SYM0764,muffled voice
+DIS272,Epiglottitis,SYM0612,stridor
+DIS272,Epiglottitis,SYM0613,difficulty breathing
+DIS273,Vocal Cord Nodules,SYM0125,hoarseness
+DIS273,Vocal Cord Nodules,SYM0765,voice fatigue
+DIS273,Vocal Cord Nodules,SYM0766,breathy voice
+DIS273,Vocal Cord Nodules,SYM0767,loss of range
+DIS273,Vocal Cord Nodules,SYM0768,throat clearing
+DIS273,Vocal Cord Nodules,SYM0003,sore throat
+DIS273,Vocal Cord Nodules,SYM0769,pain when speaking
+DIS274,Cholesteatoma,SYM0770,ear discharge
+DIS274,Cholesteatoma,SYM0259,hearing loss
+DIS274,Cholesteatoma,SYM0163,ear pain
+DIS274,Cholesteatoma,SYM0035,dizziness
+DIS274,Cholesteatoma,SYM0175,facial weakness
+DIS274,Cholesteatoma,SYM0007,headache
+DIS274,Cholesteatoma,SYM0743,tinnitus
+DIS275,Acoustic Neuroma,SYM0259,hearing loss
+DIS275,Acoustic Neuroma,SYM0743,tinnitus
+DIS275,Acoustic Neuroma,SYM0058,balance problems
+DIS275,Acoustic Neuroma,SYM0771,facial numbness
+DIS275,Acoustic Neuroma,SYM0035,dizziness
+DIS275,Acoustic Neuroma,SYM0181,difficulty swallowing
+DIS275,Acoustic Neuroma,SYM0007,headache
+DIS276,Deviated Nasal Septum,SYM0733,nasal obstruction
+DIS276,Deviated Nasal Septum,SYM0731,facial pain
+DIS276,Deviated Nasal Septum,SYM0084,nosebleeds
+DIS276,Deviated Nasal Septum,SYM0772,noisy breathing
+DIS276,Deviated Nasal Septum,SYM0007,headache
+DIS276,Deviated Nasal Septum,SYM0063,snoring
+DIS276,Deviated Nasal Septum,SYM0613,difficulty breathing
+DIS277,Pharyngitis,SYM0003,sore throat
+DIS277,Pharyngitis,SYM0773,swallowing pain
+DIS277,Pharyngitis,SYM0027,fever
+DIS277,Pharyngitis,SYM0001,runny nose
+DIS277,Pharyngitis,SYM0006,cough
+DIS277,Pharyngitis,SYM0125,hoarseness
+DIS277,Pharyngitis,SYM0007,headache
+DIS278,Mastoiditis,SYM0163,ear pain
+DIS278,Mastoiditis,SYM0774,swelling behind ear
+DIS278,Mastoiditis,SYM0104,redness
+DIS278,Mastoiditis,SYM0027,fever
+DIS278,Mastoiditis,SYM0259,hearing loss
+DIS278,Mastoiditis,SYM0007,headache
+DIS278,Mastoiditis,SYM0530,discharge
+DIS279,Meniere's Disease,SYM0775,vertigo attacks
+DIS279,Meniere's Disease,SYM0259,hearing loss
+DIS279,Meniere's Disease,SYM0743,tinnitus
+DIS279,Meniere's Disease,SYM0776,ear fullness
+DIS279,Meniere's Disease,SYM0021,nausea
+DIS279,Meniere's Disease,SYM0030,vomiting
+DIS279,Meniere's Disease,SYM0777,unsteadiness
+DIS280,Foreign Body Ear,SYM0163,ear pain
+DIS280,Foreign Body Ear,SYM0259,hearing loss
+DIS280,Foreign Body Ear,SYM0284,itching
+DIS280,Foreign Body Ear,SYM0530,discharge
+DIS280,Foreign Body Ear,SYM0743,tinnitus
+DIS280,Foreign Body Ear,SYM0778,feeling of fullness
+DIS280,Foreign Body Ear,SYM0779,reflex cough
+DIS281,Major Depressive Disorder,SYM0780,persistent sadness
+DIS281,Major Depressive Disorder,SYM0781,loss of interest
+DIS281,Major Depressive Disorder,SYM0602,sleep problems
+DIS281,Major Depressive Disorder,SYM0010,fatigue
+DIS281,Major Depressive Disorder,SYM0782,concentration difficulty
+DIS281,Major Depressive Disorder,SYM0783,appetite changes
+DIS281,Major Depressive Disorder,SYM0784,thoughts of death
+DIS282,Generalised Anxiety Disorder,SYM0785,excessive worry
+DIS282,Generalised Anxiety Disorder,SYM0635,restlessness
+DIS282,Generalised Anxiety Disorder,SYM0010,fatigue
+DIS282,Generalised Anxiety Disorder,SYM0782,concentration difficulty
+DIS282,Generalised Anxiety Disorder,SYM0256,irritability
+DIS282,Generalised Anxiety Disorder,SYM0786,muscle tension
+DIS282,Generalised Anxiety Disorder,SYM0602,sleep problems
+DIS283,Schizophrenia,SYM0079,hallucinations
+DIS283,Schizophrenia,SYM0787,delusions
+DIS283,Schizophrenia,SYM0788,disorganised speech
+DIS283,Schizophrenia,SYM0789,flat affect
+DIS283,Schizophrenia,SYM0790,social withdrawal
+DIS283,Schizophrenia,SYM0791,cognitive impairment
+DIS283,Schizophrenia,SYM0792,lack of motivation
+DIS284,Bipolar Disorder,SYM0793,mood swings
+DIS284,Bipolar Disorder,SYM0794,mania
+DIS284,Bipolar Disorder,SYM0050,depression
+DIS284,Bipolar Disorder,SYM0795,elevated mood
+DIS284,Bipolar Disorder,SYM0796,decreased sleep
+DIS284,Bipolar Disorder,SYM0797,grandiosity
+DIS284,Bipolar Disorder,SYM0798,reckless behaviour
+DIS285,Post-Traumatic Stress Disorder,SYM0799,flashbacks
+DIS285,Post-Traumatic Stress Disorder,SYM0800,nightmares
+DIS285,Post-Traumatic Stress Disorder,SYM0801,avoidance
+DIS285,Post-Traumatic Stress Disorder,SYM0802,hypervigilance
+DIS285,Post-Traumatic Stress Disorder,SYM0803,emotional numbness
+DIS285,Post-Traumatic Stress Disorder,SYM0602,sleep problems
+DIS285,Post-Traumatic Stress Disorder,SYM0256,irritability
+DIS286,Obsessive Compulsive Disorder,SYM0804,obsessive thoughts
+DIS286,Obsessive Compulsive Disorder,SYM0805,compulsive behaviours
+DIS286,Obsessive Compulsive Disorder,SYM0099,anxiety
+DIS286,Obsessive Compulsive Disorder,SYM0806,repetitive actions
+DIS286,Obsessive Compulsive Disorder,SYM0807,fear of contamination
+DIS286,Obsessive Compulsive Disorder,SYM0808,checking behaviour
+DIS286,Obsessive Compulsive Disorder,SYM0809,counting rituals
+DIS287,Panic Disorder,SYM0810,panic attacks
+DIS287,Panic Disorder,SYM0085,palpitations
+DIS287,Panic Disorder,SYM0034,shortness of breath
+DIS287,Panic Disorder,SYM0020,sweating
+DIS287,Panic Disorder,SYM0811,trembling
+DIS287,Panic Disorder,SYM0059,chest pain
+DIS287,Panic Disorder,SYM0812,fear of dying
+DIS288,Social Anxiety Disorder,SYM0813,fear of social situations
+DIS288,Social Anxiety Disorder,SYM0814,excessive self-consciousness
+DIS288,Social Anxiety Disorder,SYM0815,avoiding social events
+DIS288,Social Anxiety Disorder,SYM0816,physical symptoms
+DIS288,Social Anxiety Disorder,SYM0817,blushing
+DIS288,Social Anxiety Disorder,SYM0020,sweating
+DIS288,Social Anxiety Disorder,SYM0811,trembling
+DIS289,Eating Disorder,SYM0818,distorted body image
+DIS289,Eating Disorder,SYM0819,restrictive eating
+DIS289,Eating Disorder,SYM0820,binge eating
+DIS289,Eating Disorder,SYM0821,purging
+DIS289,Eating Disorder,SYM0822,obsession with weight
+DIS289,Eating Disorder,SYM0823,food rituals
+DIS289,Eating Disorder,SYM0824,excessive exercise
+DIS290,Borderline Personality Disorder,SYM0825,emotional instability
+DIS290,Borderline Personality Disorder,SYM0634,impulsivity
+DIS290,Borderline Personality Disorder,SYM0826,unstable relationships
+DIS290,Borderline Personality Disorder,SYM0827,self-harm
+DIS290,Borderline Personality Disorder,SYM0828,fear of abandonment
+DIS290,Borderline Personality Disorder,SYM0829,identity disturbance
+DIS290,Borderline Personality Disorder,SYM0830,suicidal behaviour
+DIS291,Substance Use Disorder,SYM0831,craving
+DIS291,Substance Use Disorder,SYM0832,loss of control
+DIS291,Substance Use Disorder,SYM0833,withdrawal symptoms
+DIS291,Substance Use Disorder,SYM0834,tolerance
+DIS291,Substance Use Disorder,SYM0835,continued use despite problems
+DIS291,Substance Use Disorder,SYM0836,neglecting responsibilities
+DIS291,Substance Use Disorder,SYM0790,social withdrawal
+DIS292,Insomnia,SYM0837,difficulty falling asleep
+DIS292,Insomnia,SYM0838,staying awake at night
+DIS292,Insomnia,SYM0839,early morning waking
+DIS292,Insomnia,SYM0205,daytime fatigue
+DIS292,Insomnia,SYM0256,irritability
+DIS292,Insomnia,SYM0411,difficulty concentrating
+DIS292,Insomnia,SYM0840,mood disturbances
+DIS293,Attention Deficit Disorder,SYM0632,inattention
+DIS293,Attention Deficit Disorder,SYM0636,forgetfulness
+DIS293,Attention Deficit Disorder,SYM0841,losing items
+DIS293,Attention Deficit Disorder,SYM0842,difficulty completing tasks
+DIS293,Attention Deficit Disorder,SYM0843,easily distracted
+DIS293,Attention Deficit Disorder,SYM0844,daydreaming
+DIS293,Attention Deficit Disorder,SYM0845,poor time management
+DIS294,Conduct Disorder,SYM0846,aggression
+DIS294,Conduct Disorder,SYM0847,destruction of property
+DIS294,Conduct Disorder,SYM0848,deceitfulness
+DIS294,Conduct Disorder,SYM0849,rule violations
+DIS294,Conduct Disorder,SYM0850,bullying
+DIS294,Conduct Disorder,SYM0851,cruelty to animals
+DIS294,Conduct Disorder,SYM0852,truancy
+DIS295,Somatisation Disorder,SYM0853,multiple physical complaints
+DIS295,Somatisation Disorder,SYM0248,pain
+DIS295,Somatisation Disorder,SYM0854,gastrointestinal symptoms
+DIS295,Somatisation Disorder,SYM0855,neurological symptoms
+DIS295,Somatisation Disorder,SYM0856,sexual symptoms
+DIS295,Somatisation Disorder,SYM0857,medical unexplained symptoms
+DIS295,Somatisation Disorder,SYM0858,frequent medical visits
+DIS296,Delusional Disorder,SYM0859,false beliefs
+DIS296,Delusional Disorder,SYM0860,paranoia
+DIS296,Delusional Disorder,SYM0861,jealousy delusions
+DIS296,Delusional Disorder,SYM0862,persecutory beliefs
+DIS296,Delusional Disorder,SYM0863,grandiose delusions
+DIS296,Delusional Disorder,SYM0864,somatic delusions
+DIS296,Delusional Disorder,SYM0865,erotomania
+DIS297,Agoraphobia,SYM0866,fear of open spaces
+DIS297,Agoraphobia,SYM0801,avoidance
+DIS297,Agoraphobia,SYM0810,panic attacks
+DIS297,Agoraphobia,SYM0099,anxiety
+DIS297,Agoraphobia,SYM0867,fear of public transport
+DIS297,Agoraphobia,SYM0868,housebound
+DIS297,Agoraphobia,SYM0869,fear of crowds
+DIS298,Hypochondria,SYM0870,health anxiety
+DIS298,Hypochondria,SYM0871,fear of serious illness
+DIS298,Hypochondria,SYM0858,frequent medical visits
+DIS298,Hypochondria,SYM0872,preoccupation with symptoms
+DIS298,Hypochondria,SYM0873,reassurance seeking
+DIS298,Hypochondria,SYM0874,excessive checking
+DIS298,Hypochondria,SYM0875,catastrophising
+DIS299,Dissociative Identity Disorder,SYM0876,multiple personalities
+DIS299,Dissociative Identity Disorder,SYM0877,memory gaps
+DIS299,Dissociative Identity Disorder,SYM0878,depersonalisation
+DIS299,Dissociative Identity Disorder,SYM0879,derealisation
+DIS299,Dissociative Identity Disorder,SYM0793,mood swings
+DIS299,Dissociative Identity Disorder,SYM0827,self-harm
+DIS299,Dissociative Identity Disorder,SYM0880,hearing internal voices
+DIS300,Intermittent Explosive Disorder,SYM0881,explosive outbursts
+DIS300,Intermittent Explosive Disorder,SYM0846,aggression
+DIS300,Intermittent Explosive Disorder,SYM0882,disproportionate anger
+DIS300,Intermittent Explosive Disorder,SYM0883,road rage
+DIS300,Intermittent Explosive Disorder,SYM0884,domestic violence
+DIS300,Intermittent Explosive Disorder,SYM0885,guilt after outburst
+DIS300,Intermittent Explosive Disorder,SYM0886,physical aggression
+DIS301,Breast Cancer,SYM0887,breast lump
+DIS301,Breast Cancer,SYM0601,nipple discharge
+DIS301,Breast Cancer,SYM0888,breast pain
+DIS301,Breast Cancer,SYM0889,skin changes
+DIS301,Breast Cancer,SYM0890,nipple changes
+DIS301,Breast Cancer,SYM0891,armpit lump
+DIS301,Breast Cancer,SYM0892,breast shape change
+DIS302,Lung Cancer,SYM0091,persistent cough
+DIS302,Lung Cancer,SYM0893,blood in sputum
+DIS302,Lung Cancer,SYM0059,chest pain
+DIS302,Lung Cancer,SYM0034,shortness of breath
+DIS302,Lung Cancer,SYM0125,hoarseness
+DIS302,Lung Cancer,SYM0064,weight loss
+DIS302,Lung Cancer,SYM0048,bone pain
+DIS303,Prostate Cancer,SYM0506,difficulty urinating
+DIS303,Prostate Cancer,SYM0481,blood in urine
+DIS303,Prostate Cancer,SYM0488,pelvic pain
+DIS303,Prostate Cancer,SYM0048,bone pain
+DIS303,Prostate Cancer,SYM0507,erectile dysfunction
+DIS303,Prostate Cancer,SYM0064,weight loss
+DIS303,Prostate Cancer,SYM0010,fatigue
+DIS304,Stomach Cancer,SYM0384,stomach pain
+DIS304,Stomach Cancer,SYM0021,nausea
+DIS304,Stomach Cancer,SYM0030,vomiting
+DIS304,Stomach Cancer,SYM0064,weight loss
+DIS304,Stomach Cancer,SYM0016,loss of appetite
+DIS304,Stomach Cancer,SYM0894,bloody stools
+DIS304,Stomach Cancer,SYM0356,heartburn
+DIS305,Liver Cancer,SYM0014,abdominal pain
+DIS305,Liver Cancer,SYM0064,weight loss
+DIS305,Liver Cancer,SYM0075,jaundice
+DIS305,Liver Cancer,SYM0371,abdominal swelling
+DIS305,Liver Cancer,SYM0021,nausea
+DIS305,Liver Cancer,SYM0015,weakness
+DIS305,Liver Cancer,SYM0016,loss of appetite
+DIS306,Pancreatic Cancer,SYM0014,abdominal pain
+DIS306,Pancreatic Cancer,SYM0075,jaundice
+DIS306,Pancreatic Cancer,SYM0064,weight loss
+DIS306,Pancreatic Cancer,SYM0021,nausea
+DIS306,Pancreatic Cancer,SYM0016,loss of appetite
+DIS306,Pancreatic Cancer,SYM0895,new-onset diabetes
+DIS306,Pancreatic Cancer,SYM0896,fatty stools
+DIS307,Colorectal Cancer,SYM0386,bowel habit changes
+DIS307,Colorectal Cancer,SYM0366,blood in stool
+DIS307,Colorectal Cancer,SYM0014,abdominal pain
+DIS307,Colorectal Cancer,SYM0064,weight loss
+DIS307,Colorectal Cancer,SYM0010,fatigue
+DIS307,Colorectal Cancer,SYM0359,bloating
+DIS307,Colorectal Cancer,SYM0387,feeling of incomplete emptying
+DIS308,Lymphoma,SYM0077,swollen lymph nodes
+DIS308,Lymphoma,SYM0027,fever
+DIS308,Lymphoma,SYM0102,night sweats
+DIS308,Lymphoma,SYM0064,weight loss
+DIS308,Lymphoma,SYM0010,fatigue
+DIS308,Lymphoma,SYM0284,itching
+DIS308,Lymphoma,SYM0034,shortness of breath
+DIS309,Leukaemia,SYM0010,fatigue
+DIS309,Leukaemia,SYM0060,frequent infections
+DIS309,Leukaemia,SYM0445,easy bruising
+DIS309,Leukaemia,SYM0064,weight loss
+DIS309,Leukaemia,SYM0077,swollen lymph nodes
+DIS309,Leukaemia,SYM0048,bone pain
+DIS309,Leukaemia,SYM0102,night sweats
+DIS310,Thyroid Cancer,SYM0897,neck lump
+DIS310,Thyroid Cancer,SYM0126,swallowing difficulty
+DIS310,Thyroid Cancer,SYM0125,hoarseness
+DIS310,Thyroid Cancer,SYM0208,neck pain
+DIS310,Thyroid Cancer,SYM0077,swollen lymph nodes
+DIS310,Thyroid Cancer,SYM0174,breathing difficulty
+DIS310,Thyroid Cancer,SYM0006,cough
+DIS311,Kidney Cancer,SYM0481,blood in urine
+DIS311,Kidney Cancer,SYM0052,back pain
+DIS311,Kidney Cancer,SYM0495,abdominal mass
+DIS311,Kidney Cancer,SYM0064,weight loss
+DIS311,Kidney Cancer,SYM0010,fatigue
+DIS311,Kidney Cancer,SYM0027,fever
+DIS311,Kidney Cancer,SYM0378,anaemia
+DIS312,Bladder Cancer,SYM0481,blood in urine
+DIS312,Bladder Cancer,SYM0436,frequent urination
+DIS312,Bladder Cancer,SYM0496,painful urination
+DIS312,Bladder Cancer,SYM0052,back pain
+DIS312,Bladder Cancer,SYM0488,pelvic pain
+DIS312,Bladder Cancer,SYM0064,weight loss
+DIS312,Bladder Cancer,SYM0010,fatigue
+DIS313,Cervical Cancer,SYM0576,vaginal bleeding
+DIS313,Cervical Cancer,SYM0577,unusual discharge
+DIS313,Cervical Cancer,SYM0488,pelvic pain
+DIS313,Cervical Cancer,SYM0052,back pain
+DIS313,Cervical Cancer,SYM0089,leg swelling
+DIS313,Cervical Cancer,SYM0064,weight loss
+DIS313,Cervical Cancer,SYM0540,pain during intercourse
+DIS314,Ovarian Cancer,SYM0374,abdominal bloating
+DIS314,Ovarian Cancer,SYM0488,pelvic pain
+DIS314,Ovarian Cancer,SYM0578,quick satiety
+DIS314,Ovarian Cancer,SYM0579,urinary urgency
+DIS314,Ovarian Cancer,SYM0064,weight loss
+DIS314,Ovarian Cancer,SYM0010,fatigue
+DIS314,Ovarian Cancer,SYM0898,bowel changes
+DIS315,Melanoma,SYM0899,changing mole
+DIS315,Melanoma,SYM0900,irregular borders
+DIS315,Melanoma,SYM0901,multiple colours
+DIS315,Melanoma,SYM0902,large diameter
+DIS315,Melanoma,SYM0903,asymmetric mole
+DIS315,Melanoma,SYM0904,itching mole
+DIS315,Melanoma,SYM0905,bleeding mole
+DIS316,Brain Tumour,SYM0007,headache
+DIS316,Brain Tumour,SYM0131,seizures
+DIS316,Brain Tumour,SYM0152,vision problems
+DIS316,Brain Tumour,SYM0906,speech difficulties
+DIS316,Brain Tumour,SYM0907,memory problems
+DIS316,Brain Tumour,SYM0182,personality changes
+DIS316,Brain Tumour,SYM0015,weakness
+DIS317,Bone Cancer,SYM0048,bone pain
+DIS317,Bone Cancer,SYM0101,swelling
+DIS317,Bone Cancer,SYM0258,fractures
+DIS317,Bone Cancer,SYM0010,fatigue
+DIS317,Bone Cancer,SYM0064,weight loss
+DIS317,Bone Cancer,SYM0027,fever
+DIS317,Bone Cancer,SYM0212,reduced range of motion
+DIS318,Multiple Myeloma,SYM0048,bone pain
+DIS318,Multiple Myeloma,SYM0010,fatigue
+DIS318,Multiple Myeloma,SYM0060,frequent infections
+DIS318,Multiple Myeloma,SYM0378,anaemia
+DIS318,Multiple Myeloma,SYM0908,kidney problems
+DIS318,Multiple Myeloma,SYM0909,elevated calcium
+DIS318,Multiple Myeloma,SYM0064,weight loss
+DIS319,Oral Cancer,SYM0910,mouth sore
+DIS319,Oral Cancer,SYM0911,lump in mouth
+DIS319,Oral Cancer,SYM0248,pain
+DIS319,Oral Cancer,SYM0181,difficulty swallowing
+DIS319,Oral Cancer,SYM0125,hoarseness
+DIS319,Oral Cancer,SYM0912,red patch
+DIS319,Oral Cancer,SYM0913,white patch
+DIS320,Skin Cancer,SYM0914,changing skin lesion
+DIS320,Skin Cancer,SYM0915,non-healing sore
+DIS320,Skin Cancer,SYM0916,pearly bump
+DIS320,Skin Cancer,SYM0917,flat flesh-coloured lesion
+DIS320,Skin Cancer,SYM0918,bleeding sore
+DIS320,Skin Cancer,SYM0919,scar-like lesion
+DIS320,Skin Cancer,SYM0284,itching
+DIS321,Iron Deficiency Anaemia,SYM0010,fatigue
+DIS321,Iron Deficiency Anaemia,SYM0057,pale skin
+DIS321,Iron Deficiency Anaemia,SYM0015,weakness
+DIS321,Iron Deficiency Anaemia,SYM0034,shortness of breath
+DIS321,Iron Deficiency Anaemia,SYM0035,dizziness
+DIS321,Iron Deficiency Anaemia,SYM0037,brittle nails
+DIS321,Iron Deficiency Anaemia,SYM0036,cold hands
+DIS322,Sickle Cell Disease,SYM0920,pain crises
+DIS322,Sickle Cell Disease,SYM0378,anaemia
+DIS322,Sickle Cell Disease,SYM0608,swollen hands
+DIS322,Sickle Cell Disease,SYM0060,frequent infections
+DIS322,Sickle Cell Disease,SYM0075,jaundice
+DIS322,Sickle Cell Disease,SYM0921,delayed growth
+DIS322,Sickle Cell Disease,SYM0922,stroke
+DIS323,Thalassaemia,SYM0010,fatigue
+DIS323,Thalassaemia,SYM0015,weakness
+DIS323,Thalassaemia,SYM0057,pale skin
+DIS323,Thalassaemia,SYM0923,facial bone deformities
+DIS323,Thalassaemia,SYM0468,slow growth
+DIS323,Thalassaemia,SYM0371,abdominal swelling
+DIS323,Thalassaemia,SYM0040,dark urine
+DIS324,Haemophilia,SYM0924,excessive bleeding
+DIS324,Haemophilia,SYM0925,prolonged bleeding
+DIS324,Haemophilia,SYM0445,easy bruising
+DIS324,Haemophilia,SYM0926,joint bleeding
+DIS324,Haemophilia,SYM0927,skin bruising
+DIS324,Haemophilia,SYM0481,blood in urine
+DIS324,Haemophilia,SYM0084,nosebleeds
+DIS325,Polycythaemia Vera,SYM0007,headache
+DIS325,Polycythaemia Vera,SYM0035,dizziness
+DIS325,Polycythaemia Vera,SYM0284,itching
+DIS325,Polycythaemia Vera,SYM0010,fatigue
+DIS325,Polycythaemia Vera,SYM0020,sweating
+DIS325,Polycythaemia Vera,SYM0083,blurred vision
+DIS325,Polycythaemia Vera,SYM0928,redness of skin
+DIS326,Thrombocytopenia,SYM0445,easy bruising
+DIS326,Thrombocytopenia,SYM0925,prolonged bleeding
+DIS326,Thrombocytopenia,SYM0929,petechiae
+DIS326,Thrombocytopenia,SYM0481,blood in urine
+DIS326,Thrombocytopenia,SYM0366,blood in stool
+DIS326,Thrombocytopenia,SYM0571,heavy periods
+DIS326,Thrombocytopenia,SYM0026,bleeding gums
+DIS327,Deep Vein Thrombosis,SYM0103,leg pain
+DIS327,Deep Vein Thrombosis,SYM0089,leg swelling
+DIS327,Deep Vein Thrombosis,SYM0104,redness
+DIS327,Deep Vein Thrombosis,SYM0105,warmth
+DIS327,Deep Vein Thrombosis,SYM0522,visible veins
+DIS327,Deep Vein Thrombosis,SYM0394,cramping
+DIS327,Deep Vein Thrombosis,SYM0930,leg heaviness
+DIS328,Haemolytic Anaemia,SYM0010,fatigue
+DIS328,Haemolytic Anaemia,SYM0075,jaundice
+DIS328,Haemolytic Anaemia,SYM0040,dark urine
+DIS328,Haemolytic Anaemia,SYM0931,enlarged spleen
+DIS328,Haemolytic Anaemia,SYM0033,pallor
+DIS328,Haemolytic Anaemia,SYM0034,shortness of breath
+DIS328,Haemolytic Anaemia,SYM0090,rapid heartbeat
+DIS329,Aplastic Anaemia,SYM0010,fatigue
+DIS329,Aplastic Anaemia,SYM0060,frequent infections
+DIS329,Aplastic Anaemia,SYM0445,easy bruising
+DIS329,Aplastic Anaemia,SYM0057,pale skin
+DIS329,Aplastic Anaemia,SYM0090,rapid heartbeat
+DIS329,Aplastic Anaemia,SYM0034,shortness of breath
+DIS329,Aplastic Anaemia,SYM0932,bleeding
+DIS330,Myelodysplastic Syndrome,SYM0010,fatigue
+DIS330,Myelodysplastic Syndrome,SYM0034,shortness of breath
+DIS330,Myelodysplastic Syndrome,SYM0445,easy bruising
+DIS330,Myelodysplastic Syndrome,SYM0060,frequent infections
+DIS330,Myelodysplastic Syndrome,SYM0057,pale skin
+DIS330,Myelodysplastic Syndrome,SYM0929,petechiae
+DIS330,Myelodysplastic Syndrome,SYM0932,bleeding
+DIS331,Von Willebrand Disease,SYM0084,nosebleeds
+DIS331,Von Willebrand Disease,SYM0933,heavy menstrual bleeding
+DIS331,Von Willebrand Disease,SYM0445,easy bruising
+DIS331,Von Willebrand Disease,SYM0925,prolonged bleeding
+DIS331,Von Willebrand Disease,SYM0934,bleeding after surgery
+DIS331,Von Willebrand Disease,SYM0935,gum bleeding
+DIS331,Von Willebrand Disease,SYM0366,blood in stool
+DIS332,Lymphoedema,SYM0936,limb swelling
+DIS332,Lymphoedema,SYM0937,aching
+DIS332,Lymphoedema,SYM0526,heaviness
+DIS332,Lymphoedema,SYM0938,restricted range of motion
+DIS332,Lymphoedema,SYM0289,thickened skin
+DIS332,Lymphoedema,SYM0939,recurring infections
+DIS332,Lymphoedema,SYM0940,hardening of skin
+DIS333,Hypercoagulable State,SYM0941,blood clots
+DIS333,Hypercoagulable State,SYM0942,deep vein thrombosis
+DIS333,Hypercoagulable State,SYM0943,pulmonary embolism
+DIS333,Hypercoagulable State,SYM0944,miscarriage
+DIS333,Hypercoagulable State,SYM0922,stroke
+DIS333,Hypercoagulable State,SYM0104,redness
+DIS333,Hypercoagulable State,SYM0101,swelling
+DIS334,Haemochromatosis,SYM0010,fatigue
+DIS334,Haemochromatosis,SYM0025,joint pain
+DIS334,Haemochromatosis,SYM0014,abdominal pain
+DIS334,Haemochromatosis,SYM0945,diabetes
+DIS334,Haemochromatosis,SYM0946,liver disease
+DIS334,Haemochromatosis,SYM0947,heart problems
+DIS334,Haemochromatosis,SYM0948,skin bronzing
+DIS335,Porphyria,SYM0014,abdominal pain
+DIS335,Porphyria,SYM0021,nausea
+DIS335,Porphyria,SYM0030,vomiting
+DIS335,Porphyria,SYM0018,constipation
+DIS335,Porphyria,SYM0049,muscle weakness
+DIS335,Porphyria,SYM0949,red urine
+DIS335,Porphyria,SYM0158,sensitivity to light
+DIS336,Antiphospholipid Syndrome,SYM0941,blood clots
+DIS336,Antiphospholipid Syndrome,SYM0944,miscarriage
+DIS336,Antiphospholipid Syndrome,SYM0950,low platelet count
+DIS336,Antiphospholipid Syndrome,SYM0951,strokes
+DIS336,Antiphospholipid Syndrome,SYM0952,skin mottling
+DIS336,Antiphospholipid Syndrome,SYM0007,headache
+DIS336,Antiphospholipid Syndrome,SYM0953,leg ulcers
+DIS337,Waldenstrom Macroglobulinaemia,SYM0010,fatigue
+DIS337,Waldenstrom Macroglobulinaemia,SYM0378,anaemia
+DIS337,Waldenstrom Macroglobulinaemia,SYM0064,weight loss
+DIS337,Waldenstrom Macroglobulinaemia,SYM0954,lymph node swelling
+DIS337,Waldenstrom Macroglobulinaemia,SYM0084,nosebleeds
+DIS337,Waldenstrom Macroglobulinaemia,SYM0955,visual disturbances
+DIS337,Waldenstrom Macroglobulinaemia,SYM0956,peripheral neuropathy
+DIS338,Myeloma,SYM0048,bone pain
+DIS338,Myeloma,SYM0258,fractures
+DIS338,Myeloma,SYM0010,fatigue
+DIS338,Myeloma,SYM0957,infections
+DIS338,Myeloma,SYM0908,kidney problems
+DIS338,Myeloma,SYM0958,hypercalcaemia
+DIS338,Myeloma,SYM0064,weight loss
+DIS339,Idiopathic Thrombocytopenic Purpura,SYM0249,bruising
+DIS339,Idiopathic Thrombocytopenic Purpura,SYM0929,petechiae
+DIS339,Idiopathic Thrombocytopenic Purpura,SYM0925,prolonged bleeding
+DIS339,Idiopathic Thrombocytopenic Purpura,SYM0084,nosebleeds
+DIS339,Idiopathic Thrombocytopenic Purpura,SYM0571,heavy periods
+DIS339,Idiopathic Thrombocytopenic Purpura,SYM0481,blood in urine
+DIS339,Idiopathic Thrombocytopenic Purpura,SYM0010,fatigue
+DIS340,Megaloblastic Anaemia,SYM0010,fatigue
+DIS340,Megaloblastic Anaemia,SYM0015,weakness
+DIS340,Megaloblastic Anaemia,SYM0034,shortness of breath
+DIS340,Megaloblastic Anaemia,SYM0057,pale skin
+DIS340,Megaloblastic Anaemia,SYM0090,rapid heartbeat
+DIS340,Megaloblastic Anaemia,SYM0959,smooth tongue
+DIS340,Megaloblastic Anaemia,SYM0855,neurological symptoms
+DIS341,Systemic Lupus Erythematosus,SYM0960,butterfly rash
+DIS341,Systemic Lupus Erythematosus,SYM0025,joint pain
+DIS341,Systemic Lupus Erythematosus,SYM0010,fatigue
+DIS341,Systemic Lupus Erythematosus,SYM0027,fever
+DIS341,Systemic Lupus Erythematosus,SYM0961,photosensitivity
+DIS341,Systemic Lupus Erythematosus,SYM0051,hair loss
+DIS341,Systemic Lupus Erythematosus,SYM0908,kidney problems
+DIS342,Rheumatoid Arthritis,SYM0962,joint inflammation
+DIS342,Rheumatoid Arthritis,SYM0963,morning stiffness
+DIS342,Rheumatoid Arthritis,SYM0964,symmetrical joint involvement
+DIS342,Rheumatoid Arthritis,SYM0010,fatigue
+DIS342,Rheumatoid Arthritis,SYM0027,fever
+DIS342,Rheumatoid Arthritis,SYM0216,joint deformity
+DIS342,Rheumatoid Arthritis,SYM0965,rheumatoid nodules
+DIS343,Ankylosing Spondylitis,SYM0966,low back pain
+DIS343,Ankylosing Spondylitis,SYM0963,morning stiffness
+DIS343,Ankylosing Spondylitis,SYM0967,improved with exercise
+DIS343,Ankylosing Spondylitis,SYM0263,eye inflammation
+DIS343,Ankylosing Spondylitis,SYM0010,fatigue
+DIS343,Ankylosing Spondylitis,SYM0265,hip pain
+DIS343,Ankylosing Spondylitis,SYM0968,reduced spinal flexibility
+DIS344,Psoriatic Arthritis,SYM0025,joint pain
+DIS344,Psoriatic Arthritis,SYM0028,joint swelling
+DIS344,Psoriatic Arthritis,SYM0969,psoriasis
+DIS344,Psoriatic Arthritis,SYM0970,nail changes
+DIS344,Psoriatic Arthritis,SYM0971,enthesitis
+DIS344,Psoriatic Arthritis,SYM0972,dactylitis
+DIS344,Psoriatic Arthritis,SYM0010,fatigue
+DIS345,Sjogren's Syndrome,SYM0973,dry eyes
+DIS345,Sjogren's Syndrome,SYM0039,dry mouth
+DIS345,Sjogren's Syndrome,SYM0010,fatigue
+DIS345,Sjogren's Syndrome,SYM0025,joint pain
+DIS345,Sjogren's Syndrome,SYM0974,skin rashes
+DIS345,Sjogren's Syndrome,SYM0591,vaginal dryness
+DIS345,Sjogren's Syndrome,SYM0623,swollen salivary glands
+DIS346,Vasculitis,SYM0027,fever
+DIS346,Vasculitis,SYM0010,fatigue
+DIS346,Vasculitis,SYM0064,weight loss
+DIS346,Vasculitis,SYM0975,nerve problems
+DIS346,Vasculitis,SYM0974,skin rashes
+DIS346,Vasculitis,SYM0025,joint pain
+DIS346,Vasculitis,SYM0022,muscle pain
+DIS347,Polymyalgia Rheumatica,SYM0097,shoulder pain
+DIS347,Polymyalgia Rheumatica,SYM0265,hip pain
+DIS347,Polymyalgia Rheumatica,SYM0963,morning stiffness
+DIS347,Polymyalgia Rheumatica,SYM0010,fatigue
+DIS347,Polymyalgia Rheumatica,SYM0027,fever
+DIS347,Polymyalgia Rheumatica,SYM0064,weight loss
+DIS347,Polymyalgia Rheumatica,SYM0223,limited range of motion
+DIS348,Gout,SYM0221,sudden joint pain
+DIS348,Gout,SYM0976,big toe pain
+DIS348,Gout,SYM0104,redness
+DIS348,Gout,SYM0101,swelling
+DIS348,Gout,SYM0105,warmth
+DIS348,Gout,SYM0223,limited range of motion
+DIS348,Gout,SYM0977,recurring attacks
+DIS349,Reactive Arthritis,SYM0025,joint pain
+DIS349,Reactive Arthritis,SYM0978,urethritis
+DIS349,Reactive Arthritis,SYM0263,eye inflammation
+DIS349,Reactive Arthritis,SYM0428,skin lesions
+DIS349,Reactive Arthritis,SYM0979,oral ulcers
+DIS349,Reactive Arthritis,SYM0244,heel pain
+DIS349,Reactive Arthritis,SYM0010,fatigue
+DIS350,Dermatomyositis,SYM0049,muscle weakness
+DIS350,Dermatomyositis,SYM0980,skin rash
+DIS350,Dermatomyositis,SYM0981,purple eyelids
+DIS350,Dermatomyositis,SYM0022,muscle pain
+DIS350,Dermatomyositis,SYM0181,difficulty swallowing
+DIS350,Dermatomyositis,SYM0034,shortness of breath
+DIS350,Dermatomyositis,SYM0010,fatigue
+DIS351,Polymyositis,SYM0049,muscle weakness
+DIS351,Polymyositis,SYM0982,difficulty climbing stairs
+DIS351,Polymyositis,SYM0126,swallowing difficulty
+DIS351,Polymyositis,SYM0010,fatigue
+DIS351,Polymyositis,SYM0034,shortness of breath
+DIS351,Polymyositis,SYM0022,muscle pain
+DIS351,Polymyositis,SYM0025,joint pain
+DIS352,Osteoarthritis,SYM0025,joint pain
+DIS352,Osteoarthritis,SYM0963,morning stiffness
+DIS352,Osteoarthritis,SYM0214,bone spurs
+DIS352,Osteoarthritis,SYM0215,joint tenderness
+DIS352,Osteoarthritis,SYM0264,reduced flexibility
+DIS352,Osteoarthritis,SYM0213,grating sensation
+DIS352,Osteoarthritis,SYM0028,joint swelling
+DIS353,Fibromyalgia,SYM0983,widespread pain
+DIS353,Fibromyalgia,SYM0010,fatigue
+DIS353,Fibromyalgia,SYM0602,sleep problems
+DIS353,Fibromyalgia,SYM0984,cognitive difficulties
+DIS353,Fibromyalgia,SYM0007,headache
+DIS353,Fibromyalgia,SYM0840,mood disturbances
+DIS353,Fibromyalgia,SYM0985,irritable bowel
+DIS354,Scleroderma,SYM0317,skin thickening
+DIS354,Scleroderma,SYM0986,raynaud's phenomenon
+DIS354,Scleroderma,SYM0987,digestive problems
+DIS354,Scleroderma,SYM0034,shortness of breath
+DIS354,Scleroderma,SYM0025,joint pain
+DIS354,Scleroderma,SYM0356,heartburn
+DIS354,Scleroderma,SYM0988,finger ulcers
+DIS355,Mixed Connective Tissue Disease,SYM0025,joint pain
+DIS355,Mixed Connective Tissue Disease,SYM0608,swollen hands
+DIS355,Mixed Connective Tissue Disease,SYM0049,muscle weakness
+DIS355,Mixed Connective Tissue Disease,SYM0986,raynaud's phenomenon
+DIS355,Mixed Connective Tissue Disease,SYM0034,shortness of breath
+DIS355,Mixed Connective Tissue Disease,SYM0010,fatigue
+DIS355,Mixed Connective Tissue Disease,SYM0974,skin rashes
+DIS356,Antiphospholipid Syndrome,SYM0941,blood clots
+DIS356,Antiphospholipid Syndrome,SYM0989,recurrent miscarriage
+DIS356,Antiphospholipid Syndrome,SYM0990,thrombocytopenia
+DIS356,Antiphospholipid Syndrome,SYM0007,headache
+DIS356,Antiphospholipid Syndrome,SYM0952,skin mottling
+DIS356,Antiphospholipid Syndrome,SYM0922,stroke
+DIS356,Antiphospholipid Syndrome,SYM0953,leg ulcers
+DIS357,Relapsing Polychondritis,SYM0991,ear inflammation
+DIS357,Relapsing Polychondritis,SYM0992,nose deformity
+DIS357,Relapsing Polychondritis,SYM0025,joint pain
+DIS357,Relapsing Polychondritis,SYM0263,eye inflammation
+DIS357,Relapsing Polychondritis,SYM0125,hoarseness
+DIS357,Relapsing Polychondritis,SYM0174,breathing difficulty
+DIS357,Relapsing Polychondritis,SYM0980,skin rash
+DIS358,Behcet's Disease,SYM0979,oral ulcers
+DIS358,Behcet's Disease,SYM0993,genital ulcers
+DIS358,Behcet's Disease,SYM0263,eye inflammation
+DIS358,Behcet's Disease,SYM0428,skin lesions
+DIS358,Behcet's Disease,SYM0025,joint pain
+DIS358,Behcet's Disease,SYM0994,vascular inflammation
+DIS358,Behcet's Disease,SYM0855,neurological symptoms
+DIS359,Myositis,SYM0049,muscle weakness
+DIS359,Myositis,SYM0022,muscle pain
+DIS359,Myositis,SYM0010,fatigue
+DIS359,Myositis,SYM0173,difficulty walking
+DIS359,Myositis,SYM0017,rash
+DIS359,Myositis,SYM0126,swallowing difficulty
+DIS359,Myositis,SYM0034,shortness of breath
+DIS360,Juvenile Idiopathic Arthritis,SYM0028,joint swelling
+DIS360,Juvenile Idiopathic Arthritis,SYM0248,pain
+DIS360,Juvenile Idiopathic Arthritis,SYM0231,stiffness
+DIS360,Juvenile Idiopathic Arthritis,SYM0027,fever
+DIS360,Juvenile Idiopathic Arthritis,SYM0017,rash
+DIS360,Juvenile Idiopathic Arthritis,SYM0263,eye inflammation
+DIS360,Juvenile Idiopathic Arthritis,SYM0995,growth problems
+DIS361,HIV/AIDS,SYM0010,fatigue
+DIS361,HIV/AIDS,SYM0064,weight loss
+DIS361,HIV/AIDS,SYM0027,fever
+DIS361,HIV/AIDS,SYM0102,night sweats
+DIS361,HIV/AIDS,SYM0557,recurrent infections
+DIS361,HIV/AIDS,SYM0996,oral thrush
+DIS361,HIV/AIDS,SYM0077,swollen lymph nodes
+DIS362,Hepatitis A,SYM0075,jaundice
+DIS362,Hepatitis A,SYM0010,fatigue
+DIS362,Hepatitis A,SYM0021,nausea
+DIS362,Hepatitis A,SYM0014,abdominal pain
+DIS362,Hepatitis A,SYM0016,loss of appetite
+DIS362,Hepatitis A,SYM0040,dark urine
+DIS362,Hepatitis A,SYM0372,clay-coloured stools
+DIS363,Hepatitis E,SYM0075,jaundice
+DIS363,Hepatitis E,SYM0010,fatigue
+DIS363,Hepatitis E,SYM0021,nausea
+DIS363,Hepatitis E,SYM0014,abdominal pain
+DIS363,Hepatitis E,SYM0016,loss of appetite
+DIS363,Hepatitis E,SYM0027,fever
+DIS363,Hepatitis E,SYM0025,joint pain
+DIS364,Enteric Fever,SYM0013,prolonged fever
+DIS364,Enteric Fever,SYM0007,headache
+DIS364,Enteric Fever,SYM0014,abdominal pain
+DIS364,Enteric Fever,SYM0018,constipation
+DIS364,Enteric Fever,SYM0997,rose spots
+DIS364,Enteric Fever,SYM0015,weakness
+DIS364,Enteric Fever,SYM0998,hepatosplenomegaly
+DIS365,Cholera,SYM0999,watery diarrhoea
+DIS365,Cholera,SYM0030,vomiting
+DIS365,Cholera,SYM0032,dehydration
+DIS365,Cholera,SYM0185,muscle cramps
+DIS365,Cholera,SYM0021,nausea
+DIS365,Cholera,SYM0070,low blood pressure
+DIS365,Cholera,SYM0069,rapid heart rate
+DIS366,Meningococcal Disease,SYM1000,sudden fever
+DIS366,Meningococcal Disease,SYM0023,severe headache
+DIS366,Meningococcal Disease,SYM0155,neck stiffness
+DIS366,Meningococcal Disease,SYM0017,rash
+DIS366,Meningococcal Disease,SYM0158,sensitivity to light
+DIS366,Meningococcal Disease,SYM0021,nausea
+DIS366,Meningococcal Disease,SYM0045,confusion
+DIS367,Tetanus,SYM1001,jaw stiffness
+DIS367,Tetanus,SYM1002,muscle spasms
+DIS367,Tetanus,SYM0181,difficulty swallowing
+DIS367,Tetanus,SYM0027,fever
+DIS367,Tetanus,SYM0020,sweating
+DIS367,Tetanus,SYM0090,rapid heartbeat
+DIS367,Tetanus,SYM0471,high blood pressure
+DIS368,Diphtheria,SYM0003,sore throat
+DIS368,Diphtheria,SYM1003,grey membrane
+DIS368,Diphtheria,SYM0027,fever
+DIS368,Diphtheria,SYM0611,hoarse voice
+DIS368,Diphtheria,SYM0613,difficulty breathing
+DIS368,Diphtheria,SYM0479,swollen neck
+DIS368,Diphtheria,SYM0015,weakness
+DIS369,Pertussis,SYM0619,severe cough
+DIS369,Pertussis,SYM1004,whooping
+DIS369,Pertussis,SYM0030,vomiting
+DIS369,Pertussis,SYM0001,runny nose
+DIS369,Pertussis,SYM0004,mild fever
+DIS369,Pertussis,SYM0400,cyanosis
+DIS369,Pertussis,SYM1005,exhaustion
+DIS370,Zika Virus,SYM0027,fever
+DIS370,Zika Virus,SYM0017,rash
+DIS370,Zika Virus,SYM0025,joint pain
+DIS370,Zika Virus,SYM1006,conjunctivitis
+DIS370,Zika Virus,SYM0007,headache
+DIS370,Zika Virus,SYM0022,muscle pain
+DIS370,Zika Virus,SYM0010,fatigue
+DIS371,Ebola Virus Disease,SYM0027,fever
+DIS371,Ebola Virus Disease,SYM0023,severe headache
+DIS371,Ebola Virus Disease,SYM0022,muscle pain
+DIS371,Ebola Virus Disease,SYM0015,weakness
+DIS371,Ebola Virus Disease,SYM0010,fatigue
+DIS371,Ebola Virus Disease,SYM0029,diarrhoea
+DIS371,Ebola Virus Disease,SYM0030,vomiting
+DIS372,West Nile Fever,SYM0027,fever
+DIS372,West Nile Fever,SYM0007,headache
+DIS372,West Nile Fever,SYM0009,body aches
+DIS372,West Nile Fever,SYM0980,skin rash
+DIS372,West Nile Fever,SYM0077,swollen lymph nodes
+DIS372,West Nile Fever,SYM0010,fatigue
+DIS372,West Nile Fever,SYM0024,eye pain
+DIS373,Japanese Encephalitis,SYM0027,fever
+DIS373,Japanese Encephalitis,SYM0007,headache
+DIS373,Japanese Encephalitis,SYM0021,nausea
+DIS373,Japanese Encephalitis,SYM0131,seizures
+DIS373,Japanese Encephalitis,SYM0045,confusion
+DIS373,Japanese Encephalitis,SYM1007,neurological changes
+DIS373,Japanese Encephalitis,SYM0157,stiff neck
+DIS374,Filariasis,SYM1008,lymphoedema
+DIS374,Filariasis,SYM0027,fever
+DIS374,Filariasis,SYM1009,swollen limbs
+DIS374,Filariasis,SYM0317,skin thickening
+DIS374,Filariasis,SYM0524,scrotal swelling
+DIS374,Filariasis,SYM0557,recurrent infections
+DIS374,Filariasis,SYM1010,elephantiasis
+DIS375,Leishmaniasis,SYM0027,fever
+DIS375,Leishmaniasis,SYM0064,weight loss
+DIS375,Leishmaniasis,SYM0931,enlarged spleen
+DIS375,Leishmaniasis,SYM0389,enlarged liver
+DIS375,Leishmaniasis,SYM0378,anaemia
+DIS375,Leishmaniasis,SYM0010,fatigue
+DIS375,Leishmaniasis,SYM1011,skin sores
+DIS376,Kala-azar,SYM0013,prolonged fever
+DIS376,Kala-azar,SYM0064,weight loss
+DIS376,Kala-azar,SYM1012,splenomegaly
+DIS376,Kala-azar,SYM1013,hepatomegaly
+DIS376,Kala-azar,SYM0378,anaemia
+DIS376,Kala-azar,SYM0015,weakness
+DIS376,Kala-azar,SYM0446,darkening of skin
+DIS377,SARS,SYM0008,high fever
+DIS377,SARS,SYM0011,dry cough
+DIS377,SARS,SYM0034,shortness of breath
+DIS377,SARS,SYM0010,fatigue
+DIS377,SARS,SYM0073,muscle aches
+DIS377,SARS,SYM0029,diarrhoea
+DIS377,SARS,SYM0007,headache
+DIS378,MERS,SYM0027,fever
+DIS378,MERS,SYM0006,cough
+DIS378,MERS,SYM0034,shortness of breath
+DIS378,MERS,SYM1014,pneumonia
+DIS378,MERS,SYM0029,diarrhoea
+DIS378,MERS,SYM1015,renal failure
+DIS378,MERS,SYM0010,fatigue
+DIS379,Anthrax,SYM1016,skin lesion
+DIS379,Anthrax,SYM0027,fever
+DIS379,Anthrax,SYM0077,swollen lymph nodes
+DIS379,Anthrax,SYM0613,difficulty breathing
+DIS379,Anthrax,SYM0021,nausea
+DIS379,Anthrax,SYM0030,vomiting
+DIS379,Anthrax,SYM0059,chest pain
+DIS380,Plague,SYM0027,fever
+DIS380,Plague,SYM0012,chills
+DIS380,Plague,SYM0015,weakness
+DIS380,Plague,SYM0077,swollen lymph nodes
+DIS380,Plague,SYM0007,headache
+DIS380,Plague,SYM0034,shortness of breath
+DIS380,Plague,SYM0109,coughing blood
+DIS381,Anaphylaxis,SYM0293,hives
+DIS381,Anaphylaxis,SYM0284,itching
+DIS381,Anaphylaxis,SYM0101,swelling
+DIS381,Anaphylaxis,SYM0034,shortness of breath
+DIS381,Anaphylaxis,SYM1017,hypotension
+DIS381,Anaphylaxis,SYM0090,rapid heartbeat
+DIS381,Anaphylaxis,SYM0132,loss of consciousness
+DIS382,Acute Poisoning,SYM0021,nausea
+DIS382,Acute Poisoning,SYM0030,vomiting
+DIS382,Acute Poisoning,SYM0045,confusion
+DIS382,Acute Poisoning,SYM0131,seizures
+DIS382,Acute Poisoning,SYM0156,altered consciousness
+DIS382,Acute Poisoning,SYM1018,respiratory depression
+DIS382,Acute Poisoning,SYM1019,miosis
+DIS383,Near Drowning,SYM0392,coughing
+DIS383,Near Drowning,SYM0030,vomiting
+DIS383,Near Drowning,SYM0156,altered consciousness
+DIS383,Near Drowning,SYM0034,shortness of breath
+DIS383,Near Drowning,SYM0400,cyanosis
+DIS383,Near Drowning,SYM1020,hypothermia
+DIS383,Near Drowning,SYM0059,chest pain
+DIS384,Severe Burns,SYM1021,burn injury
+DIS384,Severe Burns,SYM0248,pain
+DIS384,Severe Burns,SYM0290,blistering
+DIS384,Severe Burns,SYM1022,charred skin
+DIS384,Severe Burns,SYM1023,shock
+DIS384,Severe Burns,SYM0174,breathing difficulty
+DIS384,Severe Burns,SYM1024,fluid loss
+DIS385,Major Trauma,SYM0248,pain
+DIS385,Major Trauma,SYM0932,bleeding
+DIS385,Major Trauma,SYM0101,swelling
+DIS385,Major Trauma,SYM0250,deformity
+DIS385,Major Trauma,SYM0156,altered consciousness
+DIS385,Major Trauma,SYM1017,hypotension
+DIS385,Major Trauma,SYM1025,tachycardia
+DIS386,Overdose,SYM0156,altered consciousness
+DIS386,Overdose,SYM1018,respiratory depression
+DIS386,Overdose,SYM0131,seizures
+DIS386,Overdose,SYM0030,vomiting
+DIS386,Overdose,SYM1017,hypotension
+DIS386,Overdose,SYM0400,cyanosis
+DIS386,Overdose,SYM1026,bradycardia
+DIS387,Electric Shock,SYM1027,burns
+DIS387,Electric Shock,SYM0022,muscle pain
+DIS387,Electric Shock,SYM1028,cardiac arrhythmia
+DIS387,Electric Shock,SYM0131,seizures
+DIS387,Electric Shock,SYM0132,loss of consciousness
+DIS387,Electric Shock,SYM1029,respiratory arrest
+DIS387,Electric Shock,SYM0045,confusion
+DIS388,Smoke Inhalation,SYM0392,coughing
+DIS388,Smoke Inhalation,SYM0125,hoarseness
+DIS388,Smoke Inhalation,SYM0034,shortness of breath
+DIS388,Smoke Inhalation,SYM1030,soot in mouth
+DIS388,Smoke Inhalation,SYM1031,facial burns
+DIS388,Smoke Inhalation,SYM0045,confusion
+DIS388,Smoke Inhalation,SYM0400,cyanosis
+DIS389,Hypertensive Emergency,SYM0023,severe headache
+DIS389,Hypertensive Emergency,SYM0083,blurred vision
+DIS389,Hypertensive Emergency,SYM0059,chest pain
+DIS389,Hypertensive Emergency,SYM0034,shortness of breath
+DIS389,Hypertensive Emergency,SYM0045,confusion
+DIS389,Hypertensive Emergency,SYM0021,nausea
+DIS389,Hypertensive Emergency,SYM0052,back pain
+DIS390,Diabetic Ketoacidosis,SYM0435,excessive thirst
+DIS390,Diabetic Ketoacidosis,SYM0436,frequent urination
+DIS390,Diabetic Ketoacidosis,SYM0021,nausea
+DIS390,Diabetic Ketoacidosis,SYM0030,vomiting
+DIS390,Diabetic Ketoacidosis,SYM0014,abdominal pain
+DIS390,Diabetic Ketoacidosis,SYM0437,fruity breath
+DIS390,Diabetic Ketoacidosis,SYM0045,confusion
+DIS391,Hypoglycaemic Crisis,SYM0020,sweating
+DIS391,Hypoglycaemic Crisis,SYM0811,trembling
+DIS391,Hypoglycaemic Crisis,SYM0085,palpitations
+DIS391,Hypoglycaemic Crisis,SYM0045,confusion
+DIS391,Hypoglycaemic Crisis,SYM1032,hunger
+DIS391,Hypoglycaemic Crisis,SYM0057,pale skin
+DIS391,Hypoglycaemic Crisis,SYM0132,loss of consciousness
+DIS392,Status Epilepticus,SYM1033,prolonged seizures
+DIS392,Status Epilepticus,SYM0132,loss of consciousness
+DIS392,Status Epilepticus,SYM0604,muscle jerking
+DIS392,Status Epilepticus,SYM1034,tongue biting
+DIS392,Status Epilepticus,SYM0544,incontinence
+DIS392,Status Epilepticus,SYM1035,post-ictal confusion
+DIS392,Status Epilepticus,SYM0654,respiratory distress
+DIS393,Acute Abdomen,SYM0373,severe abdominal pain
+DIS393,Acute Abdomen,SYM1036,rigidity
+DIS393,Acute Abdomen,SYM1037,rebound tenderness
+DIS393,Acute Abdomen,SYM0027,fever
+DIS393,Acute Abdomen,SYM0030,vomiting
+DIS393,Acute Abdomen,SYM0021,nausea
+DIS393,Acute Abdomen,SYM1038,distension
+DIS394,Acute Coronary Syndrome,SYM0059,chest pain
+DIS394,Acute Coronary Syndrome,SYM0034,shortness of breath
+DIS394,Acute Coronary Syndrome,SYM0020,sweating
+DIS394,Acute Coronary Syndrome,SYM0021,nausea
+DIS394,Acute Coronary Syndrome,SYM0086,jaw pain
+DIS394,Acute Coronary Syndrome,SYM0243,arm pain
+DIS394,Acute Coronary Syndrome,SYM0085,palpitations
+DIS395,Septic Shock,SYM0008,high fever
+DIS395,Septic Shock,SYM1017,hypotension
+DIS395,Septic Shock,SYM0068,rapid breathing
+DIS395,Septic Shock,SYM0045,confusion
+DIS395,Septic Shock,SYM1039,reduced urine
+DIS395,Septic Shock,SYM0071,cold clammy skin
+DIS395,Septic Shock,SYM1025,tachycardia
+DIS396,Respiratory Failure,SYM0432,severe shortness of breath
+DIS396,Respiratory Failure,SYM0400,cyanosis
+DIS396,Respiratory Failure,SYM0045,confusion
+DIS396,Respiratory Failure,SYM0068,rapid breathing
+DIS396,Respiratory Failure,SYM1040,low oxygen
+DIS396,Respiratory Failure,SYM0434,laboured breathing
+DIS396,Respiratory Failure,SYM0010,fatigue
+DIS397,Heat Exhaustion,SYM1041,heavy sweating
+DIS397,Heat Exhaustion,SYM1042,cool pale skin
+DIS397,Heat Exhaustion,SYM0035,dizziness
+DIS397,Heat Exhaustion,SYM0021,nausea
+DIS397,Heat Exhaustion,SYM0007,headache
+DIS397,Heat Exhaustion,SYM0185,muscle cramps
+DIS397,Heat Exhaustion,SYM0010,fatigue
+DIS398,Hypothermia,SYM1043,shivering
+DIS398,Hypothermia,SYM1044,cold skin
+DIS398,Hypothermia,SYM0045,confusion
+DIS398,Hypothermia,SYM0183,slurred speech
+DIS398,Hypothermia,SYM1045,slow breathing
+DIS398,Hypothermia,SYM0010,fatigue
+DIS398,Hypothermia,SYM1046,loss of coordination
+DIS399,Eclampsia,SYM0131,seizures
+DIS399,Eclampsia,SYM0471,high blood pressure
+DIS399,Eclampsia,SYM0023,severe headache
+DIS399,Eclampsia,SYM0083,blurred vision
+DIS399,Eclampsia,SYM0014,abdominal pain
+DIS399,Eclampsia,SYM0045,confusion
+DIS399,Eclampsia,SYM0101,swelling
+DIS400,Haemorrhagic Shock,SYM1047,massive bleeding
+DIS400,Haemorrhagic Shock,SYM1017,hypotension
+DIS400,Haemorrhagic Shock,SYM1025,tachycardia
+DIS400,Haemorrhagic Shock,SYM0057,pale skin
+DIS400,Haemorrhagic Shock,SYM0045,confusion
+DIS400,Haemorrhagic Shock,SYM1039,reduced urine
+DIS400,Haemorrhagic Shock,SYM1048,cold extremities
+DIS401,Food Poisoning,SYM0021,nausea
+DIS401,Food Poisoning,SYM0030,vomiting
+DIS401,Food Poisoning,SYM0029,diarrhoea
+DIS401,Food Poisoning,SYM0031,stomach cramps
+DIS401,Food Poisoning,SYM0027,fever
+DIS401,Food Poisoning,SYM0015,weakness
+DIS401,Food Poisoning,SYM0032,dehydration
+DIS402,Altitude Sickness,SYM0007,headache
+DIS402,Altitude Sickness,SYM0021,nausea
+DIS402,Altitude Sickness,SYM0035,dizziness
+DIS402,Altitude Sickness,SYM0010,fatigue
+DIS402,Altitude Sickness,SYM0034,shortness of breath
+DIS402,Altitude Sickness,SYM0030,vomiting
+DIS402,Altitude Sickness,SYM1049,insomnia
+DIS403,Jet Lag,SYM0010,fatigue
+DIS403,Jet Lag,SYM1049,insomnia
+DIS403,Jet Lag,SYM0411,difficulty concentrating
+DIS403,Jet Lag,SYM0056,mood changes
+DIS403,Jet Lag,SYM0007,headache
+DIS403,Jet Lag,SYM1050,stomach upset
+DIS403,Jet Lag,SYM1051,general malaise
+DIS404,Chronic Fatigue Syndrome,SYM0433,extreme fatigue
+DIS404,Chronic Fatigue Syndrome,SYM1052,post-exertional malaise
+DIS404,Chronic Fatigue Syndrome,SYM0602,sleep problems
+DIS404,Chronic Fatigue Syndrome,SYM0791,cognitive impairment
+DIS404,Chronic Fatigue Syndrome,SYM0022,muscle pain
+DIS404,Chronic Fatigue Syndrome,SYM1053,headaches
+DIS404,Chronic Fatigue Syndrome,SYM0003,sore throat
+DIS405,Fibromyalgia,SYM0983,widespread pain
+DIS405,Fibromyalgia,SYM0010,fatigue
+DIS405,Fibromyalgia,SYM0202,sleep disturbance
+DIS405,Fibromyalgia,SYM0153,cognitive issues
+DIS405,Fibromyalgia,SYM1053,headaches
+DIS405,Fibromyalgia,SYM0050,depression
+DIS405,Fibromyalgia,SYM1054,bowel problems
+DIS406,Systemic Sclerosis,SYM0317,skin thickening
+DIS406,Systemic Sclerosis,SYM0986,raynaud's phenomenon
+DIS406,Systemic Sclerosis,SYM0356,heartburn
+DIS406,Systemic Sclerosis,SYM0034,shortness of breath
+DIS406,Systemic Sclerosis,SYM0025,joint pain
+DIS406,Systemic Sclerosis,SYM0973,dry eyes
+DIS406,Systemic Sclerosis,SYM0039,dry mouth
+DIS407,Sarcoidosis,SYM0010,fatigue
+DIS407,Sarcoidosis,SYM0034,shortness of breath
+DIS407,Sarcoidosis,SYM0006,cough
+DIS407,Sarcoidosis,SYM1055,skin nodules
+DIS407,Sarcoidosis,SYM0429,eye problems
+DIS407,Sarcoidosis,SYM0025,joint pain
+DIS407,Sarcoidosis,SYM0027,fever
+DIS408,Amyloidosis,SYM0010,fatigue
+DIS408,Amyloidosis,SYM0064,weight loss
+DIS408,Amyloidosis,SYM0101,swelling
+DIS408,Amyloidosis,SYM0034,shortness of breath
+DIS408,Amyloidosis,SYM0093,irregular heartbeat
+DIS408,Amyloidosis,SYM0054,numbness
+DIS408,Amyloidosis,SYM1056,enlarged tongue
+DIS409,Wilson's Disease,SYM0946,liver disease
+DIS409,Wilson's Disease,SYM0855,neurological symptoms
+DIS409,Wilson's Disease,SYM1057,psychiatric symptoms
+DIS409,Wilson's Disease,SYM1058,kayser-fleischer rings
+DIS409,Wilson's Disease,SYM0142,tremors
+DIS409,Wilson's Disease,SYM0757,difficulty speaking
+DIS409,Wilson's Disease,SYM0075,jaundice
+DIS410,Hereditary Haemochromatosis,SYM0010,fatigue
+DIS410,Hereditary Haemochromatosis,SYM0025,joint pain
+DIS410,Hereditary Haemochromatosis,SYM0014,abdominal pain
+DIS410,Hereditary Haemochromatosis,SYM0945,diabetes
+DIS410,Hereditary Haemochromatosis,SYM0947,heart problems
+DIS410,Hereditary Haemochromatosis,SYM1059,bronze skin
+DIS410,Hereditary Haemochromatosis,SYM0946,liver disease
+DIS411,Sick Sinus Syndrome,SYM0035,dizziness
+DIS411,Sick Sinus Syndrome,SYM0094,fainting
+DIS411,Sick Sinus Syndrome,SYM0085,palpitations
+DIS411,Sick Sinus Syndrome,SYM0059,chest pain
+DIS411,Sick Sinus Syndrome,SYM0034,shortness of breath
+DIS411,Sick Sinus Syndrome,SYM0010,fatigue
+DIS411,Sick Sinus Syndrome,SYM1060,slow heartbeat
+DIS412,Long QT Syndrome,SYM0085,palpitations
+DIS412,Long QT Syndrome,SYM0094,fainting
+DIS412,Long QT Syndrome,SYM0131,seizures
+DIS412,Long QT Syndrome,SYM1061,sudden cardiac arrest
+DIS412,Long QT Syndrome,SYM0035,dizziness
+DIS412,Long QT Syndrome,SYM0034,shortness of breath
+DIS412,Long QT Syndrome,SYM0090,rapid heartbeat
+DIS413,Wolff-Parkinson-White Syndrome,SYM0085,palpitations
+DIS413,Wolff-Parkinson-White Syndrome,SYM0035,dizziness
+DIS413,Wolff-Parkinson-White Syndrome,SYM0034,shortness of breath
+DIS413,Wolff-Parkinson-White Syndrome,SYM0094,fainting
+DIS413,Wolff-Parkinson-White Syndrome,SYM0059,chest pain
+DIS413,Wolff-Parkinson-White Syndrome,SYM0099,anxiety
+DIS413,Wolff-Parkinson-White Syndrome,SYM0090,rapid heartbeat
+DIS414,Cardiac Tamponade,SYM0059,chest pain
+DIS414,Cardiac Tamponade,SYM0034,shortness of breath
+DIS414,Cardiac Tamponade,SYM0090,rapid heartbeat
+DIS414,Cardiac Tamponade,SYM0070,low blood pressure
+DIS414,Cardiac Tamponade,SYM0035,dizziness
+DIS414,Cardiac Tamponade,SYM0094,fainting
+DIS414,Cardiac Tamponade,SYM1062,muffled heart sounds
+DIS415,Vasovagal Syncope,SYM0094,fainting
+DIS415,Vasovagal Syncope,SYM0035,dizziness
+DIS415,Vasovagal Syncope,SYM0021,nausea
+DIS415,Vasovagal Syncope,SYM0057,pale skin
+DIS415,Vasovagal Syncope,SYM0020,sweating
+DIS415,Vasovagal Syncope,SYM0663,tunnel vision
+DIS415,Vasovagal Syncope,SYM0015,weakness
+DIS416,Transverse Myelitis,SYM0015,weakness
+DIS416,Transverse Myelitis,SYM1063,sensory disturbance
+DIS416,Transverse Myelitis,SYM1064,bladder dysfunction
+DIS416,Transverse Myelitis,SYM0248,pain
+DIS416,Transverse Myelitis,SYM0081,paralysis
+DIS416,Transverse Myelitis,SYM0174,breathing difficulty
+DIS416,Transverse Myelitis,SYM0010,fatigue
+DIS417,Normal Pressure Hydrocephalus,SYM1065,gait disturbance
+DIS417,Normal Pressure Hydrocephalus,SYM0180,cognitive decline
+DIS417,Normal Pressure Hydrocephalus,SYM0565,urinary incontinence
+DIS417,Normal Pressure Hydrocephalus,SYM0058,balance problems
+DIS417,Normal Pressure Hydrocephalus,SYM1066,dementia
+DIS417,Normal Pressure Hydrocephalus,SYM1067,falls
+DIS417,Normal Pressure Hydrocephalus,SYM1068,slow movements
+DIS418,Cerebral Venous Thrombosis,SYM0007,headache
+DIS418,Cerebral Venous Thrombosis,SYM0476,vision changes
+DIS418,Cerebral Venous Thrombosis,SYM0131,seizures
+DIS418,Cerebral Venous Thrombosis,SYM0015,weakness
+DIS418,Cerebral Venous Thrombosis,SYM0178,speech problems
+DIS418,Cerebral Venous Thrombosis,SYM0156,altered consciousness
+DIS418,Cerebral Venous Thrombosis,SYM0730,visual field defects
+DIS419,Brachial Neuritis,SYM1069,sudden shoulder pain
+DIS419,Brachial Neuritis,SYM0138,arm weakness
+DIS419,Brachial Neuritis,SYM0054,numbness
+DIS419,Brachial Neuritis,SYM1070,muscle wasting
+DIS419,Brachial Neuritis,SYM1071,pain radiating to arm
+DIS419,Brachial Neuritis,SYM1072,loss of reflexes
+DIS419,Brachial Neuritis,SYM1073,limited shoulder movement
+DIS420,Syringomyelia,SYM1074,loss of pain sensation
+DIS420,Syringomyelia,SYM1075,loss of temperature sensation
+DIS420,Syringomyelia,SYM0015,weakness
+DIS420,Syringomyelia,SYM0231,stiffness
+DIS420,Syringomyelia,SYM0007,headache
+DIS420,Syringomyelia,SYM1076,scoliosis
+DIS420,Syringomyelia,SYM1077,muscle atrophy
+DIS421,Compartment Syndrome,SYM0497,severe pain
+DIS421,Compartment Syndrome,SYM1078,tightness
+DIS421,Compartment Syndrome,SYM0054,numbness
+DIS421,Compartment Syndrome,SYM0015,weakness
+DIS421,Compartment Syndrome,SYM0033,pallor
+DIS421,Compartment Syndrome,SYM1079,pulse absence
+DIS421,Compartment Syndrome,SYM1080,pain with passive stretch
+DIS422,Osteochondritis Dissecans,SYM0025,joint pain
+DIS422,Osteochondritis Dissecans,SYM0101,swelling
+DIS422,Osteochondritis Dissecans,SYM0747,clicking
+DIS422,Osteochondritis Dissecans,SYM1081,locking joint
+DIS422,Osteochondritis Dissecans,SYM0231,stiffness
+DIS422,Osteochondritis Dissecans,SYM1082,catching sensation
+DIS422,Osteochondritis Dissecans,SYM0222,tenderness
+DIS423,Pes Planus,SYM1083,flat foot
+DIS423,Pes Planus,SYM0245,foot pain
+DIS423,Pes Planus,SYM1084,ankle pain
+DIS423,Pes Planus,SYM0267,knee pain
+DIS423,Pes Planus,SYM0261,lower back pain
+DIS423,Pes Planus,SYM0010,fatigue
+DIS423,Pes Planus,SYM1085,shin splints
+DIS424,Hallux Valgus,SYM1086,bunion
+DIS424,Hallux Valgus,SYM1087,toe pain
+DIS424,Hallux Valgus,SYM0104,redness
+DIS424,Hallux Valgus,SYM0101,swelling
+DIS424,Hallux Valgus,SYM1088,difficulty wearing shoes
+DIS424,Hallux Valgus,SYM0317,skin thickening
+DIS424,Hallux Valgus,SYM1089,restricted movement
+DIS425,Patellofemoral Syndrome,SYM0267,knee pain
+DIS425,Patellofemoral Syndrome,SYM1090,pain on stairs
+DIS425,Patellofemoral Syndrome,SYM1091,pain on squatting
+DIS425,Patellofemoral Syndrome,SYM1092,knee grinding
+DIS425,Patellofemoral Syndrome,SYM0231,stiffness
+DIS425,Patellofemoral Syndrome,SYM0101,swelling
+DIS425,Patellofemoral Syndrome,SYM0015,weakness
+DIS426,Lichen Planus,SYM1093,itchy purple bumps
+DIS426,Lichen Planus,SYM1094,lacy white patches in mouth
+DIS426,Lichen Planus,SYM0970,nail changes
+DIS426,Lichen Planus,SYM0051,hair loss
+DIS426,Lichen Planus,SYM1095,flat-topped bumps
+DIS426,Lichen Planus,SYM0285,burning
+DIS426,Lichen Planus,SYM0107,skin discolouration
+DIS427,Erythema Multiforme,SYM1096,target lesions
+DIS427,Erythema Multiforme,SYM0017,rash
+DIS427,Erythema Multiforme,SYM0308,blisters
+DIS427,Erythema Multiforme,SYM0284,itching
+DIS427,Erythema Multiforme,SYM0027,fever
+DIS427,Erythema Multiforme,SYM0025,joint pain
+DIS427,Erythema Multiforme,SYM0343,mouth sores
+DIS428,Pityriasis Rosea,SYM1097,herald patch
+DIS428,Pityriasis Rosea,SYM0017,rash
+DIS428,Pityriasis Rosea,SYM0284,itching
+DIS428,Pityriasis Rosea,SYM1098,christmas tree pattern
+DIS428,Pityriasis Rosea,SYM0295,scaling
+DIS428,Pityriasis Rosea,SYM0004,mild fever
+DIS428,Pityriasis Rosea,SYM0010,fatigue
+DIS429,Granuloma Annulare,SYM0296,ring-shaped rash
+DIS429,Granuloma Annulare,SYM1099,skin-coloured bumps
+DIS429,Granuloma Annulare,SYM1100,mild itching
+DIS429,Granuloma Annulare,SYM0104,redness
+DIS429,Granuloma Annulare,SYM1101,no scales
+DIS429,Granuloma Annulare,SYM1102,knuckle rash
+DIS429,Granuloma Annulare,SYM1103,wrist rash
+DIS430,Hidradenitis Suppurativa,SYM1104,painful lumps
+DIS430,Hidradenitis Suppurativa,SYM1105,abscesses
+DIS430,Hidradenitis Suppurativa,SYM0280,scarring
+DIS430,Hidradenitis Suppurativa,SYM1106,tunnels in skin
+DIS430,Hidradenitis Suppurativa,SYM1107,sweat gland areas
+DIS430,Hidradenitis Suppurativa,SYM1108,recurrent boils
+DIS430,Hidradenitis Suppurativa,SYM0530,discharge
+DIS431,Eosinophilic Oesophagitis,SYM0181,difficulty swallowing
+DIS431,Eosinophilic Oesophagitis,SYM1109,food impaction
+DIS431,Eosinophilic Oesophagitis,SYM0059,chest pain
+DIS431,Eosinophilic Oesophagitis,SYM0358,regurgitation
+DIS431,Eosinophilic Oesophagitis,SYM0356,heartburn
+DIS431,Eosinophilic Oesophagitis,SYM0014,abdominal pain
+DIS431,Eosinophilic Oesophagitis,SYM0021,nausea
+DIS432,Microscopic Colitis,SYM0999,watery diarrhoea
+DIS432,Microscopic Colitis,SYM0014,abdominal pain
+DIS432,Microscopic Colitis,SYM0064,weight loss
+DIS432,Microscopic Colitis,SYM0021,nausea
+DIS432,Microscopic Colitis,SYM1110,faecal incontinence
+DIS432,Microscopic Colitis,SYM0032,dehydration
+DIS432,Microscopic Colitis,SYM0010,fatigue
+DIS433,Primary Sclerosing Cholangitis,SYM0075,jaundice
+DIS433,Primary Sclerosing Cholangitis,SYM0284,itching
+DIS433,Primary Sclerosing Cholangitis,SYM0010,fatigue
+DIS433,Primary Sclerosing Cholangitis,SYM0014,abdominal pain
+DIS433,Primary Sclerosing Cholangitis,SYM0027,fever
+DIS433,Primary Sclerosing Cholangitis,SYM0064,weight loss
+DIS433,Primary Sclerosing Cholangitis,SYM1111,abnormal liver tests
+DIS434,Autoimmune Hepatitis,SYM0075,jaundice
+DIS434,Autoimmune Hepatitis,SYM0010,fatigue
+DIS434,Autoimmune Hepatitis,SYM0014,abdominal pain
+DIS434,Autoimmune Hepatitis,SYM0021,nausea
+DIS434,Autoimmune Hepatitis,SYM0016,loss of appetite
+DIS434,Autoimmune Hepatitis,SYM0389,enlarged liver
+DIS434,Autoimmune Hepatitis,SYM0025,joint pain
+DIS435,Zenker's Diverticulum,SYM0181,difficulty swallowing
+DIS435,Zenker's Diverticulum,SYM0358,regurgitation
+DIS435,Zenker's Diverticulum,SYM0631,bad breath
+DIS435,Zenker's Diverticulum,SYM1112,aspiration
+DIS435,Zenker's Diverticulum,SYM0064,weight loss
+DIS435,Zenker's Diverticulum,SYM1113,neck swelling
+DIS435,Zenker's Diverticulum,SYM1114,noisy swallowing
+DIS436,Alpha-1 Antitrypsin Deficiency,SYM0034,shortness of breath
+DIS436,Alpha-1 Antitrypsin Deficiency,SYM0396,wheezing
+DIS436,Alpha-1 Antitrypsin Deficiency,SYM0399,chronic cough
+DIS436,Alpha-1 Antitrypsin Deficiency,SYM1115,frequent lung infections
+DIS436,Alpha-1 Antitrypsin Deficiency,SYM0075,jaundice
+DIS436,Alpha-1 Antitrypsin Deficiency,SYM1116,liver problems
+DIS436,Alpha-1 Antitrypsin Deficiency,SYM0421,barrel chest
+DIS437,Hypersensitivity Pneumonitis,SYM0034,shortness of breath
+DIS437,Hypersensitivity Pneumonitis,SYM0006,cough
+DIS437,Hypersensitivity Pneumonitis,SYM0027,fever
+DIS437,Hypersensitivity Pneumonitis,SYM0012,chills
+DIS437,Hypersensitivity Pneumonitis,SYM0073,muscle aches
+DIS437,Hypersensitivity Pneumonitis,SYM0010,fatigue
+DIS437,Hypersensitivity Pneumonitis,SYM0064,weight loss
+DIS438,Lymphangioleiomyomatosis,SYM0034,shortness of breath
+DIS438,Lymphangioleiomyomatosis,SYM0006,cough
+DIS438,Lymphangioleiomyomatosis,SYM0059,chest pain
+DIS438,Lymphangioleiomyomatosis,SYM1117,collapsed lung
+DIS438,Lymphangioleiomyomatosis,SYM1118,chylous pleural effusion
+DIS438,Lymphangioleiomyomatosis,SYM1119,kidney tumours
+DIS438,Lymphangioleiomyomatosis,SYM0010,fatigue
+DIS439,Pulmonary Arteriovenous Malformation,SYM0034,shortness of breath
+DIS439,Pulmonary Arteriovenous Malformation,SYM0400,cyanosis
+DIS439,Pulmonary Arteriovenous Malformation,SYM1120,clubbing
+DIS439,Pulmonary Arteriovenous Malformation,SYM1121,polycythaemia
+DIS439,Pulmonary Arteriovenous Malformation,SYM0922,stroke
+DIS439,Pulmonary Arteriovenous Malformation,SYM1122,brain abscess
+DIS439,Pulmonary Arteriovenous Malformation,SYM0109,coughing blood
+DIS440,Bronchiolitis,SYM0001,runny nose
+DIS440,Bronchiolitis,SYM0006,cough
+DIS440,Bronchiolitis,SYM0027,fever
+DIS440,Bronchiolitis,SYM0396,wheezing
+DIS440,Bronchiolitis,SYM0613,difficulty breathing
+DIS440,Bronchiolitis,SYM0466,poor feeding
+DIS440,Bronchiolitis,SYM0256,irritability
+DIS441,Autoimmune Thyroiditis,SYM0010,fatigue
+DIS441,Autoimmune Thyroiditis,SYM0092,weight gain
+DIS441,Autoimmune Thyroiditis,SYM0438,cold intolerance
+DIS441,Autoimmune Thyroiditis,SYM0066,dry skin
+DIS441,Autoimmune Thyroiditis,SYM0051,hair loss
+DIS441,Autoimmune Thyroiditis,SYM0018,constipation
+DIS441,Autoimmune Thyroiditis,SYM0050,depression
+DIS442,De Quervain Thyroiditis,SYM0208,neck pain
+DIS442,De Quervain Thyroiditis,SYM0027,fever
+DIS442,De Quervain Thyroiditis,SYM0010,fatigue
+DIS442,De Quervain Thyroiditis,SYM1123,hyperthyroid symptoms followed by hypothyroid
+DIS442,De Quervain Thyroiditis,SYM1124,swollen thyroid
+DIS442,De Quervain Thyroiditis,SYM0181,difficulty swallowing
+DIS442,De Quervain Thyroiditis,SYM0086,jaw pain
+DIS443,Thyroid Storm,SYM0008,high fever
+DIS443,Thyroid Storm,SYM0090,rapid heartbeat
+DIS443,Thyroid Storm,SYM0078,agitation
+DIS443,Thyroid Storm,SYM0045,confusion
+DIS443,Thyroid Storm,SYM0030,vomiting
+DIS443,Thyroid Storm,SYM0029,diarrhoea
+DIS443,Thyroid Storm,SYM0075,jaundice
+DIS444,Hypogonadism,SYM1125,low libido
+DIS444,Hypogonadism,SYM0507,erectile dysfunction
+DIS444,Hypogonadism,SYM0452,infertility
+DIS444,Hypogonadism,SYM1126,small testicles
+DIS444,Hypogonadism,SYM1127,decreased muscle mass
+DIS444,Hypogonadism,SYM0010,fatigue
+DIS444,Hypogonadism,SYM0050,depression
+DIS445,Androgen Insensitivity Syndrome,SYM1128,absence of menstruation
+DIS445,Androgen Insensitivity Syndrome,SYM0452,infertility
+DIS445,Androgen Insensitivity Syndrome,SYM1129,absent or sparse pubic hair
+DIS445,Androgen Insensitivity Syndrome,SYM1130,undescended testes
+DIS445,Androgen Insensitivity Syndrome,SYM1131,breast development in males
+DIS445,Androgen Insensitivity Syndrome,SYM1132,inguinal hernia
+DIS446,Renal Amyloidosis,SYM1133,nephrotic syndrome
+DIS446,Renal Amyloidosis,SYM1134,proteinuria
+DIS446,Renal Amyloidosis,SYM0498,oedema
+DIS446,Renal Amyloidosis,SYM0010,fatigue
+DIS446,Renal Amyloidosis,SYM0064,weight loss
+DIS446,Renal Amyloidosis,SYM1135,enlarged kidneys
+DIS446,Renal Amyloidosis,SYM0494,kidney failure
+DIS447,Thin Basement Membrane Disease,SYM0481,blood in urine
+DIS447,Thin Basement Membrane Disease,SYM1136,no other symptoms
+DIS447,Thin Basement Membrane Disease,SYM0762,family history
+DIS447,Thin Basement Membrane Disease,SYM1137,normal blood pressure
+DIS447,Thin Basement Membrane Disease,SYM1138,normal kidney function
+DIS447,Thin Basement Membrane Disease,SYM1139,microscopic haematuria
+DIS447,Thin Basement Membrane Disease,SYM1134,proteinuria
+DIS448,Oxalate Nephropathy,SYM0454,kidney stones
+DIS448,Oxalate Nephropathy,SYM0494,kidney failure
+DIS448,Oxalate Nephropathy,SYM0248,pain
+DIS448,Oxalate Nephropathy,SYM0481,blood in urine
+DIS448,Oxalate Nephropathy,SYM0072,decreased urine
+DIS448,Oxalate Nephropathy,SYM0010,fatigue
+DIS448,Oxalate Nephropathy,SYM0021,nausea
+DIS449,Medullary Sponge Kidney,SYM0454,kidney stones
+DIS449,Medullary Sponge Kidney,SYM0481,blood in urine
+DIS449,Medullary Sponge Kidney,SYM1140,frequent urinary infections
+DIS449,Medullary Sponge Kidney,SYM0052,back pain
+DIS449,Medullary Sponge Kidney,SYM0485,burning urination
+DIS449,Medullary Sponge Kidney,SYM0021,nausea
+DIS449,Medullary Sponge Kidney,SYM0030,vomiting
+DIS450,Renal Tubular Acidosis Type 2,SYM1141,failure to thrive
+DIS450,Renal Tubular Acidosis Type 2,SYM0015,weakness
+DIS450,Renal Tubular Acidosis Type 2,SYM1142,polyuria
+DIS450,Renal Tubular Acidosis Type 2,SYM1143,bone disease
+DIS450,Renal Tubular Acidosis Type 2,SYM0454,kidney stones
+DIS450,Renal Tubular Acidosis Type 2,SYM0493,growth retardation
+DIS450,Renal Tubular Acidosis Type 2,SYM0049,muscle weakness
+DIS451,Penile Cancer,SYM1144,penile lesion
+DIS451,Penile Cancer,SYM1145,sore
+DIS451,Penile Cancer,SYM0530,discharge
+DIS451,Penile Cancer,SYM0932,bleeding
+DIS451,Penile Cancer,SYM0017,rash
+DIS451,Penile Cancer,SYM0586,odour
+DIS451,Penile Cancer,SYM0954,lymph node swelling
+DIS452,Fournier's Gangrene,SYM0518,scrotal pain
+DIS452,Fournier's Gangrene,SYM0101,swelling
+DIS452,Fournier's Gangrene,SYM0027,fever
+DIS452,Fournier's Gangrene,SYM1146,crepitus
+DIS452,Fournier's Gangrene,SYM0104,redness
+DIS452,Fournier's Gangrene,SYM1147,necrosis
+DIS452,Fournier's Gangrene,SYM1148,foul odour
+DIS453,Urethral Cancer,SYM0481,blood in urine
+DIS453,Urethral Cancer,SYM0561,weak stream
+DIS453,Urethral Cancer,SYM0436,frequent urination
+DIS453,Urethral Cancer,SYM1149,urethral discharge
+DIS453,Urethral Cancer,SYM0488,pelvic pain
+DIS453,Urethral Cancer,SYM0064,weight loss
+DIS453,Urethral Cancer,SYM0010,fatigue
+DIS454,Retroperitoneal Fibrosis,SYM0052,back pain
+DIS454,Retroperitoneal Fibrosis,SYM0014,abdominal pain
+DIS454,Retroperitoneal Fibrosis,SYM0089,leg swelling
+DIS454,Retroperitoneal Fibrosis,SYM0072,decreased urine
+DIS454,Retroperitoneal Fibrosis,SYM0010,fatigue
+DIS454,Retroperitoneal Fibrosis,SYM0064,weight loss
+DIS454,Retroperitoneal Fibrosis,SYM0021,nausea
+DIS455,Vesicovaginal Fistula,SYM1150,continuous urine leakage
+DIS455,Vesicovaginal Fistula,SYM0557,recurrent infections
+DIS455,Vesicovaginal Fistula,SYM0581,vaginal discharge
+DIS455,Vesicovaginal Fistula,SYM1151,skin irritation
+DIS455,Vesicovaginal Fistula,SYM0586,odour
+DIS455,Vesicovaginal Fistula,SYM0050,depression
+DIS455,Vesicovaginal Fistula,SYM1152,social isolation
+DIS456,Adenomyosis,SYM0587,heavy bleeding
+DIS456,Adenomyosis,SYM1153,severe cramping
+DIS456,Adenomyosis,SYM1154,enlarged uterus
+DIS456,Adenomyosis,SYM1155,chronic pelvic pain
+DIS456,Adenomyosis,SYM0359,bloating
+DIS456,Adenomyosis,SYM0540,pain during intercourse
+DIS456,Adenomyosis,SYM0052,back pain
+DIS457,Asherman's Syndrome,SYM1156,light or absent periods
+DIS457,Asherman's Syndrome,SYM0452,infertility
+DIS457,Asherman's Syndrome,SYM0989,recurrent miscarriage
+DIS457,Asherman's Syndrome,SYM0488,pelvic pain
+DIS457,Asherman's Syndrome,SYM1157,amenorrhoea
+DIS457,Asherman's Syndrome,SYM1158,difficulty conceiving
+DIS457,Asherman's Syndrome,SYM1159,abdominal cramps
+DIS458,Mullerian Anomalies,SYM1160,menstrual problems
+DIS458,Mullerian Anomalies,SYM0989,recurrent miscarriage
+DIS458,Mullerian Anomalies,SYM0452,infertility
+DIS458,Mullerian Anomalies,SYM0488,pelvic pain
+DIS458,Mullerian Anomalies,SYM1161,abnormal uterus
+DIS458,Mullerian Anomalies,SYM1162,kidney abnormalities
+DIS458,Mullerian Anomalies,SYM0052,back pain
+DIS459,Placenta Praevia,SYM1163,painless vaginal bleeding
+DIS459,Placenta Praevia,SYM0587,heavy bleeding
+DIS459,Placenta Praevia,SYM1164,preterm labour
+DIS459,Placenta Praevia,SYM1165,low lying placenta
+DIS459,Placenta Praevia,SYM1166,abnormal presentation
+DIS459,Placenta Praevia,SYM0378,anaemia
+DIS459,Placenta Praevia,SYM1023,shock
+DIS460,Placental Abruption,SYM0375,sudden abdominal pain
+DIS460,Placental Abruption,SYM0576,vaginal bleeding
+DIS460,Placental Abruption,SYM1167,uterine tenderness
+DIS460,Placental Abruption,SYM1168,fetal distress
+DIS460,Placental Abruption,SYM0052,back pain
+DIS460,Placental Abruption,SYM1169,uterine rigidity
+DIS460,Placental Abruption,SYM1023,shock
+DIS461,Congenital Rubella Syndrome,SYM0453,cataracts
+DIS461,Congenital Rubella Syndrome,SYM1170,heart defects
+DIS461,Congenital Rubella Syndrome,SYM0259,hearing loss
+DIS461,Congenital Rubella Syndrome,SYM0179,intellectual disability
+DIS461,Congenital Rubella Syndrome,SYM1171,small head
+DIS461,Congenital Rubella Syndrome,SYM1172,purple skin patches
+DIS461,Congenital Rubella Syndrome,SYM0389,enlarged liver
+DIS462,Phenylketonuria,SYM0179,intellectual disability
+DIS462,Phenylketonuria,SYM1173,behavioural problems
+DIS462,Phenylketonuria,SYM0131,seizures
+DIS462,Phenylketonuria,SYM0980,skin rash
+DIS462,Phenylketonuria,SYM1174,musty odour
+DIS462,Phenylketonuria,SYM1175,fair skin
+DIS462,Phenylketonuria,SYM1176,light hair
+DIS463,Down Syndrome,SYM1177,flat facial profile
+DIS463,Down Syndrome,SYM1178,upward slanting eyes
+DIS463,Down Syndrome,SYM0650,short stature
+DIS463,Down Syndrome,SYM0179,intellectual disability
+DIS463,Down Syndrome,SYM1179,single palmar crease
+DIS463,Down Syndrome,SYM1180,poor muscle tone
+DIS463,Down Syndrome,SYM1181,congenital heart defects
+DIS464,Neonatal Sepsis,SYM1182,temperature instability
+DIS464,Neonatal Sepsis,SYM1183,feeding difficulty
+DIS464,Neonatal Sepsis,SYM0648,lethargy
+DIS464,Neonatal Sepsis,SYM0654,respiratory distress
+DIS464,Neonatal Sepsis,SYM0131,seizures
+DIS464,Neonatal Sepsis,SYM0075,jaundice
+DIS464,Neonatal Sepsis,SYM1184,apnoea
+DIS465,Hirschsprung Disease,SYM1185,absent bowel movements
+DIS465,Hirschsprung Disease,SYM0395,abdominal distension
+DIS465,Hirschsprung Disease,SYM0030,vomiting
+DIS465,Hirschsprung Disease,SYM1141,failure to thrive
+DIS465,Hirschsprung Disease,SYM0018,constipation
+DIS465,Hirschsprung Disease,SYM1186,ribbon-like stools
+DIS465,Hirschsprung Disease,SYM1187,malnutrition
+DIS466,Eyelid Tumour,SYM0711,eyelid lump
+DIS466,Eyelid Tumour,SYM1188,lash loss
+DIS466,Eyelid Tumour,SYM1189,eyelid thickening
+DIS466,Eyelid Tumour,SYM1190,chronic blepharitis
+DIS466,Eyelid Tumour,SYM1191,ulcerated eyelid
+DIS466,Eyelid Tumour,SYM1192,chronic conjunctivitis
+DIS466,Eyelid Tumour,SYM0476,vision changes
+DIS467,Central Serous Chorioretinopathy,SYM1193,blurred central vision
+DIS467,Central Serous Chorioretinopathy,SYM1194,straight lines appear curved
+DIS467,Central Serous Chorioretinopathy,SYM1195,colours seem faded
+DIS467,Central Serous Chorioretinopathy,SYM1196,central scotoma
+DIS467,Central Serous Chorioretinopathy,SYM1197,metamorphopsia
+DIS467,Central Serous Chorioretinopathy,SYM1198,micropsia
+DIS467,Central Serous Chorioretinopathy,SYM0710,reduced contrast
+DIS468,Branch Retinal Vein Occlusion,SYM0723,sudden vision loss
+DIS468,Branch Retinal Vein Occlusion,SYM0726,visual field defect
+DIS468,Branch Retinal Vein Occlusion,SYM0671,floaters
+DIS468,Branch Retinal Vein Occlusion,SYM0083,blurred vision
+DIS468,Branch Retinal Vein Occlusion,SYM1199,macular oedema
+DIS468,Branch Retinal Vein Occlusion,SYM1200,neovascularisation
+DIS468,Branch Retinal Vein Occlusion,SYM1201,haemorrhages
+DIS469,Ocular Hypertension,SYM1202,no symptoms
+DIS469,Ocular Hypertension,SYM1203,increased eye pressure
+DIS469,Ocular Hypertension,SYM0007,headache
+DIS469,Ocular Hypertension,SYM0024,eye pain
+DIS469,Ocular Hypertension,SYM1204,visual field changes
+DIS469,Ocular Hypertension,SYM1205,optic nerve changes
+DIS469,Ocular Hypertension,SYM1206,glaucoma risk
+DIS470,Lacrimal Duct Obstruction,SYM0424,watery eyes
+DIS470,Lacrimal Duct Obstruction,SYM0530,discharge
+DIS470,Lacrimal Duct Obstruction,SYM0304,crusting
+DIS470,Lacrimal Duct Obstruction,SYM1207,swollen lacrimal sac
+DIS470,Lacrimal Duct Obstruction,SYM1208,recurrent conjunctivitis
+DIS470,Lacrimal Duct Obstruction,SYM0382,mucus discharge
+DIS470,Lacrimal Duct Obstruction,SYM1209,pain near inner eye corner
+DIS471,Otitic Barotrauma,SYM0163,ear pain
+DIS471,Otitic Barotrauma,SYM0259,hearing loss
+DIS471,Otitic Barotrauma,SYM0776,ear fullness
+DIS471,Otitic Barotrauma,SYM1210,ringing
+DIS471,Otitic Barotrauma,SYM1211,vertigo
+DIS471,Otitic Barotrauma,SYM1212,feeling of congestion
+DIS471,Otitic Barotrauma,SYM1213,perforation
+DIS472,Vocal Cord Paralysis,SYM0125,hoarseness
+DIS472,Vocal Cord Paralysis,SYM0766,breathy voice
+DIS472,Vocal Cord Paralysis,SYM0126,swallowing difficulty
+DIS472,Vocal Cord Paralysis,SYM1214,coughing while eating
+DIS472,Vocal Cord Paralysis,SYM1112,aspiration
+DIS472,Vocal Cord Paralysis,SYM0034,shortness of breath
+DIS472,Vocal Cord Paralysis,SYM1215,reduced voice volume
+DIS473,Parotid Gland Tumour,SYM1216,parotid swelling
+DIS473,Parotid Gland Tumour,SYM1217,facial nerve weakness
+DIS473,Parotid Gland Tumour,SYM0248,pain
+DIS473,Parotid Gland Tumour,SYM0771,facial numbness
+DIS473,Parotid Gland Tumour,SYM1218,difficulty opening mouth
+DIS473,Parotid Gland Tumour,SYM0889,skin changes
+DIS473,Parotid Gland Tumour,SYM1219,neck lymph node
+DIS474,Nasopharyngeal Carcinoma,SYM0733,nasal obstruction
+DIS474,Nasopharyngeal Carcinoma,SYM1220,bloody nasal discharge
+DIS474,Nasopharyngeal Carcinoma,SYM0259,hearing loss
+DIS474,Nasopharyngeal Carcinoma,SYM1219,neck lymph node
+DIS474,Nasopharyngeal Carcinoma,SYM0007,headache
+DIS474,Nasopharyngeal Carcinoma,SYM0210,double vision
+DIS474,Nasopharyngeal Carcinoma,SYM0771,facial numbness
+DIS475,Temporomandibular Joint Disorder,SYM0086,jaw pain
+DIS475,Temporomandibular Joint Disorder,SYM1221,clicking jaw
+DIS475,Temporomandibular Joint Disorder,SYM1222,limited mouth opening
+DIS475,Temporomandibular Joint Disorder,SYM0007,headache
+DIS475,Temporomandibular Joint Disorder,SYM0163,ear pain
+DIS475,Temporomandibular Joint Disorder,SYM0731,facial pain
+DIS475,Temporomandibular Joint Disorder,SYM1223,jaw locking
+DIS476,Specific Phobia,SYM1224,intense fear of specific object
+DIS476,Specific Phobia,SYM0801,avoidance
+DIS476,Specific Phobia,SYM0810,panic attacks
+DIS476,Specific Phobia,SYM1225,anticipatory anxiety
+DIS476,Specific Phobia,SYM0816,physical symptoms
+DIS476,Specific Phobia,SYM1226,distress
+DIS476,Specific Phobia,SYM1227,impaired functioning
+DIS477,Adjustment Disorder,SYM1228,emotional disturbance
+DIS477,Adjustment Disorder,SYM1229,behavioural changes
+DIS477,Adjustment Disorder,SYM1230,sadness
+DIS477,Adjustment Disorder,SYM0099,anxiety
+DIS477,Adjustment Disorder,SYM1231,worry
+DIS477,Adjustment Disorder,SYM1232,hopelessness
+DIS477,Adjustment Disorder,SYM0790,social withdrawal
+DIS478,Burnout,SYM1005,exhaustion
+DIS478,Burnout,SYM0878,depersonalisation
+DIS478,Burnout,SYM1233,reduced performance
+DIS478,Burnout,SYM1234,cynicism
+DIS478,Burnout,SYM0007,headache
+DIS478,Burnout,SYM0602,sleep problems
+DIS478,Burnout,SYM0782,concentration difficulty
+DIS479,Grief Disorder,SYM1235,intense sadness
+DIS479,Grief Disorder,SYM1236,yearning
+DIS479,Grief Disorder,SYM1237,difficulty accepting loss
+DIS479,Grief Disorder,SYM1238,bitterness
+DIS479,Grief Disorder,SYM1239,identity confusion
+DIS479,Grief Disorder,SYM0790,social withdrawal
+DIS479,Grief Disorder,SYM1240,preoccupation with deceased
+DIS480,Conversion Disorder,SYM0855,neurological symptoms
+DIS480,Conversion Disorder,SYM0015,weakness
+DIS480,Conversion Disorder,SYM0081,paralysis
+DIS480,Conversion Disorder,SYM0131,seizures
+DIS480,Conversion Disorder,SYM1241,sensory symptoms
+DIS480,Conversion Disorder,SYM0126,swallowing difficulty
+DIS480,Conversion Disorder,SYM0152,vision problems
+DIS481,Mesothelioma,SYM0059,chest pain
+DIS481,Mesothelioma,SYM0034,shortness of breath
+DIS481,Mesothelioma,SYM0006,cough
+DIS481,Mesothelioma,SYM0010,fatigue
+DIS481,Mesothelioma,SYM0064,weight loss
+DIS481,Mesothelioma,SYM1242,pleural effusion
+DIS481,Mesothelioma,SYM0052,back pain
+DIS482,Carcinoid Tumour,SYM0320,flushing
+DIS482,Carcinoid Tumour,SYM0029,diarrhoea
+DIS482,Carcinoid Tumour,SYM0396,wheezing
+DIS482,Carcinoid Tumour,SYM0014,abdominal pain
+DIS482,Carcinoid Tumour,SYM0947,heart problems
+DIS482,Carcinoid Tumour,SYM0010,fatigue
+DIS482,Carcinoid Tumour,SYM0064,weight loss
+DIS483,Ewing's Sarcoma,SYM0048,bone pain
+DIS483,Ewing's Sarcoma,SYM0101,swelling
+DIS483,Ewing's Sarcoma,SYM0027,fever
+DIS483,Ewing's Sarcoma,SYM0010,fatigue
+DIS483,Ewing's Sarcoma,SYM0064,weight loss
+DIS483,Ewing's Sarcoma,SYM0258,fractures
+DIS483,Ewing's Sarcoma,SYM0378,anaemia
+DIS484,Retinoblastoma,SYM1243,white pupil
+DIS484,Retinoblastoma,SYM0687,squinting
+DIS484,Retinoblastoma,SYM1244,red eye
+DIS484,Retinoblastoma,SYM0476,vision changes
+DIS484,Retinoblastoma,SYM0024,eye pain
+DIS484,Retinoblastoma,SYM1245,enlarged pupil
+DIS484,Retinoblastoma,SYM1246,secondary glaucoma
+DIS485,Wilms' Tumour,SYM0495,abdominal mass
+DIS485,Wilms' Tumour,SYM0014,abdominal pain
+DIS485,Wilms' Tumour,SYM0481,blood in urine
+DIS485,Wilms' Tumour,SYM0027,fever
+DIS485,Wilms' Tumour,SYM0021,nausea
+DIS485,Wilms' Tumour,SYM0471,high blood pressure
+DIS485,Wilms' Tumour,SYM0378,anaemia
+DIS486,Essential Thrombocythaemia,SYM0007,headache
+DIS486,Essential Thrombocythaemia,SYM0035,dizziness
+DIS486,Essential Thrombocythaemia,SYM0941,blood clots
+DIS486,Essential Thrombocythaemia,SYM0932,bleeding
+DIS486,Essential Thrombocythaemia,SYM0010,fatigue
+DIS486,Essential Thrombocythaemia,SYM1247,tingling in hands
+DIS486,Essential Thrombocythaemia,SYM1248,redness of hands
+DIS487,Myelofibrosis,SYM0010,fatigue
+DIS487,Myelofibrosis,SYM0931,enlarged spleen
+DIS487,Myelofibrosis,SYM0378,anaemia
+DIS487,Myelofibrosis,SYM0102,night sweats
+DIS487,Myelofibrosis,SYM0048,bone pain
+DIS487,Myelofibrosis,SYM0064,weight loss
+DIS487,Myelofibrosis,SYM0027,fever
+DIS488,Paroxysmal Nocturnal Haemoglobinuria,SYM0040,dark urine
+DIS488,Paroxysmal Nocturnal Haemoglobinuria,SYM0378,anaemia
+DIS488,Paroxysmal Nocturnal Haemoglobinuria,SYM0941,blood clots
+DIS488,Paroxysmal Nocturnal Haemoglobinuria,SYM0010,fatigue
+DIS488,Paroxysmal Nocturnal Haemoglobinuria,SYM0034,shortness of breath
+DIS488,Paroxysmal Nocturnal Haemoglobinuria,SYM0014,abdominal pain
+DIS488,Paroxysmal Nocturnal Haemoglobinuria,SYM0126,swallowing difficulty
+DIS489,Warm Autoimmune Haemolytic Anaemia,SYM0010,fatigue
+DIS489,Warm Autoimmune Haemolytic Anaemia,SYM0075,jaundice
+DIS489,Warm Autoimmune Haemolytic Anaemia,SYM0040,dark urine
+DIS489,Warm Autoimmune Haemolytic Anaemia,SYM0931,enlarged spleen
+DIS489,Warm Autoimmune Haemolytic Anaemia,SYM0033,pallor
+DIS489,Warm Autoimmune Haemolytic Anaemia,SYM0034,shortness of breath
+DIS489,Warm Autoimmune Haemolytic Anaemia,SYM0085,palpitations
+DIS490,Cold Agglutinin Disease,SYM1249,haemolytic anaemia
+DIS490,Cold Agglutinin Disease,SYM0010,fatigue
+DIS490,Cold Agglutinin Disease,SYM1250,cold-triggered symptoms
+DIS490,Cold Agglutinin Disease,SYM0986,raynaud's phenomenon
+DIS490,Cold Agglutinin Disease,SYM1251,acrocyanosis
+DIS490,Cold Agglutinin Disease,SYM0075,jaundice
+DIS490,Cold Agglutinin Disease,SYM1252,livedo reticularis
+DIS491,Adult Onset Still's Disease,SYM1253,quotidian fever
+DIS491,Adult Onset Still's Disease,SYM1254,arthritis
+DIS491,Adult Onset Still's Disease,SYM1255,salmon-coloured rash
+DIS491,Adult Onset Still's Disease,SYM0003,sore throat
+DIS491,Adult Onset Still's Disease,SYM0064,weight loss
+DIS491,Adult Onset Still's Disease,SYM1256,liver enlargement
+DIS491,Adult Onset Still's Disease,SYM1257,lymphadenopathy
+DIS492,Eosinophilic Granulomatosis,SYM1258,asthma
+DIS492,Eosinophilic Granulomatosis,SYM1259,sinusitis
+DIS492,Eosinophilic Granulomatosis,SYM1260,nerve damage
+DIS492,Eosinophilic Granulomatosis,SYM0017,rash
+DIS492,Eosinophilic Granulomatosis,SYM0014,abdominal pain
+DIS492,Eosinophilic Granulomatosis,SYM1261,blood eosinophilia
+DIS492,Eosinophilic Granulomatosis,SYM1262,heart disease
+DIS493,Polyarteritis Nodosa,SYM0027,fever
+DIS493,Polyarteritis Nodosa,SYM0064,weight loss
+DIS493,Polyarteritis Nodosa,SYM0025,joint pain
+DIS493,Polyarteritis Nodosa,SYM0022,muscle pain
+DIS493,Polyarteritis Nodosa,SYM0014,abdominal pain
+DIS493,Polyarteritis Nodosa,SYM1263,hypertension
+DIS493,Polyarteritis Nodosa,SYM0908,kidney problems
+DIS494,Spondyloarthropathy,SYM0052,back pain
+DIS494,Spondyloarthropathy,SYM0963,morning stiffness
+DIS494,Spondyloarthropathy,SYM0971,enthesitis
+DIS494,Spondyloarthropathy,SYM0972,dactylitis
+DIS494,Spondyloarthropathy,SYM0263,eye inflammation
+DIS494,Spondyloarthropathy,SYM0980,skin rash
+DIS494,Spondyloarthropathy,SYM1054,bowel problems
+DIS495,Microscopic Polyangiitis,SYM1264,kidney disease
+DIS495,Microscopic Polyangiitis,SYM1265,lung haemorrhage
+DIS495,Microscopic Polyangiitis,SYM1260,nerve damage
+DIS495,Microscopic Polyangiitis,SYM0017,rash
+DIS495,Microscopic Polyangiitis,SYM0010,fatigue
+DIS495,Microscopic Polyangiitis,SYM0027,fever
+DIS495,Microscopic Polyangiitis,SYM0064,weight loss
+DIS496,Monkeypox,SYM0027,fever
+DIS496,Monkeypox,SYM0007,headache
+DIS496,Monkeypox,SYM0022,muscle pain
+DIS496,Monkeypox,SYM0573,backache
+DIS496,Monkeypox,SYM0077,swollen lymph nodes
+DIS496,Monkeypox,SYM0017,rash
+DIS496,Monkeypox,SYM0281,pustules
+DIS497,Q Fever,SYM0008,high fever
+DIS497,Q Fever,SYM0023,severe headache
+DIS497,Q Fever,SYM0010,fatigue
+DIS497,Q Fever,SYM0012,chills
+DIS497,Q Fever,SYM1014,pneumonia
+DIS497,Q Fever,SYM1266,hepatitis
+DIS497,Q Fever,SYM0017,rash
+DIS498,Rocky Mountain Spotted Fever,SYM0027,fever
+DIS498,Rocky Mountain Spotted Fever,SYM0007,headache
+DIS498,Rocky Mountain Spotted Fever,SYM1267,rash starting on wrists
+DIS498,Rocky Mountain Spotted Fever,SYM0025,joint pain
+DIS498,Rocky Mountain Spotted Fever,SYM0021,nausea
+DIS498,Rocky Mountain Spotted Fever,SYM0022,muscle pain
+DIS498,Rocky Mountain Spotted Fever,SYM0045,confusion
+DIS499,Tularaemia,SYM1268,skin ulcer
+DIS499,Tularaemia,SYM0077,swollen lymph nodes
+DIS499,Tularaemia,SYM0027,fever
+DIS499,Tularaemia,SYM0007,headache
+DIS499,Tularaemia,SYM0010,fatigue
+DIS499,Tularaemia,SYM1014,pneumonia
+DIS499,Tularaemia,SYM0059,chest pain
+DIS500,Hantavirus Pulmonary Syndrome,SYM0027,fever
+DIS500,Hantavirus Pulmonary Syndrome,SYM0010,fatigue
+DIS500,Hantavirus Pulmonary Syndrome,SYM0073,muscle aches
+DIS500,Hantavirus Pulmonary Syndrome,SYM0006,cough
+DIS500,Hantavirus Pulmonary Syndrome,SYM0034,shortness of breath
+DIS500,Hantavirus Pulmonary Syndrome,SYM0007,headache
+DIS500,Hantavirus Pulmonary Syndrome,SYM0035,dizziness
+DIS501,Cauda Equina Syndrome,SYM0966,low back pain
+DIS501,Cauda Equina Syndrome,SYM1269,bilateral leg weakness
+DIS501,Cauda Equina Syndrome,SYM1270,saddle anaesthesia
+DIS501,Cauda Equina Syndrome,SYM1064,bladder dysfunction
+DIS501,Cauda Equina Syndrome,SYM1271,bowel dysfunction
+DIS501,Cauda Equina Syndrome,SYM1272,sexual dysfunction
+DIS501,Cauda Equina Syndrome,SYM1273,sciatica
+DIS502,Testicular Torsion,SYM1274,sudden severe scrotal pain
+DIS502,Testicular Torsion,SYM0101,swelling
+DIS502,Testicular Torsion,SYM0021,nausea
+DIS502,Testicular Torsion,SYM0030,vomiting
+DIS502,Testicular Torsion,SYM0014,abdominal pain
+DIS502,Testicular Torsion,SYM1275,high-riding testicle
+DIS502,Testicular Torsion,SYM1276,erythema
+DIS503,Ludwig's Angina,SYM1277,floor of mouth swelling
+DIS503,Ludwig's Angina,SYM0181,difficulty swallowing
+DIS503,Ludwig's Angina,SYM0161,drooling
+DIS503,Ludwig's Angina,SYM1278,trismus
+DIS503,Ludwig's Angina,SYM1279,submandibular swelling
+DIS503,Ludwig's Angina,SYM0174,breathing difficulty
+DIS503,Ludwig's Angina,SYM0027,fever
+DIS504,Boerhaave Syndrome,SYM1280,severe chest pain after vomiting
+DIS504,Boerhaave Syndrome,SYM0208,neck pain
+DIS504,Boerhaave Syndrome,SYM1281,subcutaneous emphysema
+DIS504,Boerhaave Syndrome,SYM1282,dysphagia
+DIS504,Boerhaave Syndrome,SYM0034,shortness of breath
+DIS504,Boerhaave Syndrome,SYM0027,fever
+DIS504,Boerhaave Syndrome,SYM1283,haematemesis
+DIS505,Aortic Dissection,SYM1284,sudden severe chest pain
+DIS505,Aortic Dissection,SYM1285,tearing back pain
+DIS505,Aortic Dissection,SYM1286,unequal blood pressure
+DIS505,Aortic Dissection,SYM1287,stroke symptoms
+DIS505,Aortic Dissection,SYM1288,aortic regurgitation
+DIS505,Aortic Dissection,SYM1289,pulse deficit
+DIS505,Aortic Dissection,SYM1017,hypotension
+DIS506,Systemic Vasculitis,SYM0027,fever
+DIS506,Systemic Vasculitis,SYM0064,weight loss
+DIS506,Systemic Vasculitis,SYM0010,fatigue
+DIS506,Systemic Vasculitis,SYM0025,joint pain
+DIS506,Systemic Vasculitis,SYM0017,rash
+DIS506,Systemic Vasculitis,SYM1260,nerve damage
+DIS506,Systemic Vasculitis,SYM0908,kidney problems
+DIS507,Eosinophilia,SYM0006,cough
+DIS507,Eosinophilia,SYM0980,skin rash
+DIS507,Eosinophilia,SYM0014,abdominal pain
+DIS507,Eosinophilia,SYM0027,fever
+DIS507,Eosinophilia,SYM0077,swollen lymph nodes
+DIS507,Eosinophilia,SYM0010,fatigue
+DIS507,Eosinophilia,SYM0064,weight loss
+DIS508,Hypercalcaemia,SYM0021,nausea
+DIS508,Hypercalcaemia,SYM0030,vomiting
+DIS508,Hypercalcaemia,SYM0435,excessive thirst
+DIS508,Hypercalcaemia,SYM0436,frequent urination
+DIS508,Hypercalcaemia,SYM0018,constipation
+DIS508,Hypercalcaemia,SYM0045,confusion
+DIS508,Hypercalcaemia,SYM0049,muscle weakness
+DIS509,Hyponatraemia,SYM0007,headache
+DIS509,Hyponatraemia,SYM0021,nausea
+DIS509,Hyponatraemia,SYM0045,confusion
+DIS509,Hyponatraemia,SYM0010,fatigue
+DIS509,Hyponatraemia,SYM0185,muscle cramps
+DIS509,Hyponatraemia,SYM0131,seizures
+DIS509,Hyponatraemia,SYM0652,coma
+DIS510,Hyperkalaemia,SYM0049,muscle weakness
+DIS510,Hyperkalaemia,SYM0010,fatigue
+DIS510,Hyperkalaemia,SYM0085,palpitations
+DIS510,Hyperkalaemia,SYM0093,irregular heartbeat
+DIS510,Hyperkalaemia,SYM0021,nausea
+DIS510,Hyperkalaemia,SYM0059,chest pain
+DIS510,Hyperkalaemia,SYM0081,paralysis
+DIS511,Hypokalaemia,SYM0049,muscle weakness
+DIS511,Hypokalaemia,SYM0010,fatigue
+DIS511,Hypokalaemia,SYM0018,constipation
+DIS511,Hypokalaemia,SYM0085,palpitations
+DIS511,Hypokalaemia,SYM0185,muscle cramps
+DIS511,Hypokalaemia,SYM1290,increased urination
+DIS511,Hypokalaemia,SYM1291,respiratory problems
+DIS512,Hyperuricaemia,SYM0025,joint pain
+DIS512,Hyperuricaemia,SYM0454,kidney stones
+DIS512,Hyperuricaemia,SYM1292,tophi
+DIS512,Hyperuricaemia,SYM1293,gout attacks
+DIS512,Hyperuricaemia,SYM0010,fatigue
+DIS512,Hyperuricaemia,SYM0014,abdominal pain
+DIS512,Hyperuricaemia,SYM0027,fever
+DIS513,Cor Pulmonale,SYM0034,shortness of breath
+DIS513,Cor Pulmonale,SYM0089,leg swelling
+DIS513,Cor Pulmonale,SYM0010,fatigue
+DIS513,Cor Pulmonale,SYM0400,cyanosis
+DIS513,Cor Pulmonale,SYM0090,rapid heartbeat
+DIS513,Cor Pulmonale,SYM1294,distended neck veins
+DIS513,Cor Pulmonale,SYM0389,enlarged liver
+DIS514,Libman-Sacks Endocarditis,SYM0027,fever
+DIS514,Libman-Sacks Endocarditis,SYM0098,heart murmur
+DIS514,Libman-Sacks Endocarditis,SYM0010,fatigue
+DIS514,Libman-Sacks Endocarditis,SYM0025,joint pain
+DIS514,Libman-Sacks Endocarditis,SYM0017,rash
+DIS514,Libman-Sacks Endocarditis,SYM0908,kidney problems
+DIS514,Libman-Sacks Endocarditis,SYM0855,neurological symptoms
+DIS515,Loeffler Endocarditis,SYM0062,breathlessness
+DIS515,Loeffler Endocarditis,SYM0010,fatigue
+DIS515,Loeffler Endocarditis,SYM0006,cough
+DIS515,Loeffler Endocarditis,SYM0064,weight loss
+DIS515,Loeffler Endocarditis,SYM0101,swelling
+DIS515,Loeffler Endocarditis,SYM0017,rash
+DIS515,Loeffler Endocarditis,SYM1295,eosinophilia
+DIS516,Non-Bacterial Thrombotic Endocarditis,SYM0027,fever
+DIS516,Non-Bacterial Thrombotic Endocarditis,SYM0098,heart murmur
+DIS516,Non-Bacterial Thrombotic Endocarditis,SYM1296,embolic events
+DIS516,Non-Bacterial Thrombotic Endocarditis,SYM0064,weight loss
+DIS516,Non-Bacterial Thrombotic Endocarditis,SYM0010,fatigue
+DIS516,Non-Bacterial Thrombotic Endocarditis,SYM1297,systemic symptoms
+DIS516,Non-Bacterial Thrombotic Endocarditis,SYM0929,petechiae
+DIS517,Stiff Person Syndrome,SYM0133,muscle stiffness
+DIS517,Stiff Person Syndrome,SYM1002,muscle spasms
+DIS517,Stiff Person Syndrome,SYM1298,hyperlordosis
+DIS517,Stiff Person Syndrome,SYM0099,anxiety
+DIS517,Stiff Person Syndrome,SYM0173,difficulty walking
+DIS517,Stiff Person Syndrome,SYM1067,falls
+DIS517,Stiff Person Syndrome,SYM1299,autonomic dysfunction
+DIS518,Neuromyelitis Optica,SYM0140,vision loss
+DIS518,Neuromyelitis Optica,SYM0024,eye pain
+DIS518,Neuromyelitis Optica,SYM0015,weakness
+DIS518,Neuromyelitis Optica,SYM1300,sensory loss
+DIS518,Neuromyelitis Optica,SYM1064,bladder dysfunction
+DIS518,Neuromyelitis Optica,SYM1301,spinal cord symptoms
+DIS518,Neuromyelitis Optica,SYM0010,fatigue
+DIS519,Cerebral Autosomal Dominant Arteriopathy,SYM1302,migraines
+DIS519,Cerebral Autosomal Dominant Arteriopathy,SYM0951,strokes
+DIS519,Cerebral Autosomal Dominant Arteriopathy,SYM1066,dementia
+DIS519,Cerebral Autosomal Dominant Arteriopathy,SYM1057,psychiatric symptoms
+DIS519,Cerebral Autosomal Dominant Arteriopathy,SYM0180,cognitive decline
+DIS519,Cerebral Autosomal Dominant Arteriopathy,SYM1303,white matter changes
+DIS519,Cerebral Autosomal Dominant Arteriopathy,SYM0762,family history
+DIS520,Anti-NMDA Receptor Encephalitis,SYM1057,psychiatric symptoms
+DIS520,Anti-NMDA Receptor Encephalitis,SYM0131,seizures
+DIS520,Anti-NMDA Receptor Encephalitis,SYM1304,movement disorder
+DIS520,Anti-NMDA Receptor Encephalitis,SYM1305,decreased consciousness
+DIS520,Anti-NMDA Receptor Encephalitis,SYM1306,autonomic instability
+DIS520,Anti-NMDA Receptor Encephalitis,SYM0907,memory problems
+DIS520,Anti-NMDA Receptor Encephalitis,SYM1307,catatonia
+DIS521,Tarsal Tunnel Syndrome,SYM1084,ankle pain
+DIS521,Tarsal Tunnel Syndrome,SYM0191,tingling
+DIS521,Tarsal Tunnel Syndrome,SYM0054,numbness
+DIS521,Tarsal Tunnel Syndrome,SYM1308,burning in foot
+DIS521,Tarsal Tunnel Syndrome,SYM1309,pain worse at night
+DIS521,Tarsal Tunnel Syndrome,SYM0015,weakness
+DIS521,Tarsal Tunnel Syndrome,SYM0244,heel pain
+DIS522,Kienbock Disease,SYM0237,wrist pain
+DIS522,Kienbock Disease,SYM0101,swelling
+DIS522,Kienbock Disease,SYM0231,stiffness
+DIS522,Kienbock Disease,SYM0223,limited range of motion
+DIS522,Kienbock Disease,SYM0015,weakness
+DIS522,Kienbock Disease,SYM0222,tenderness
+DIS522,Kienbock Disease,SYM1310,avascular necrosis
+DIS523,Dupuytren's Contracture,SYM1311,finger contracture
+DIS523,Dupuytren's Contracture,SYM1312,palm thickening
+DIS523,Dupuytren's Contracture,SYM1313,inability to straighten fingers
+DIS523,Dupuytren's Contracture,SYM1314,painless nodules
+DIS523,Dupuytren's Contracture,SYM1315,ring finger affected
+DIS523,Dupuytren's Contracture,SYM1316,little finger affected
+DIS523,Dupuytren's Contracture,SYM1317,palmar pits
+DIS524,Trigger Finger,SYM1318,finger catching
+DIS524,Trigger Finger,SYM0747,clicking
+DIS524,Trigger Finger,SYM1319,locking
+DIS524,Trigger Finger,SYM0248,pain
+DIS524,Trigger Finger,SYM0963,morning stiffness
+DIS524,Trigger Finger,SYM1320,swelling at base
+DIS524,Trigger Finger,SYM1321,inability to straighten
+DIS525,Mycosis Fungoides,SYM1322,skin patches
+DIS525,Mycosis Fungoides,SYM1323,plaques
+DIS525,Mycosis Fungoides,SYM1324,tumours
+DIS525,Mycosis Fungoides,SYM0284,itching
+DIS525,Mycosis Fungoides,SYM0104,redness
+DIS525,Mycosis Fungoides,SYM0317,skin thickening
+DIS525,Mycosis Fungoides,SYM1257,lymphadenopathy
+DIS526,Dermatitis Herpetiformis,SYM0298,intense itching
+DIS526,Dermatitis Herpetiformis,SYM0308,blisters
+DIS526,Dermatitis Herpetiformis,SYM0285,burning
+DIS526,Dermatitis Herpetiformis,SYM1325,rash on elbows
+DIS526,Dermatitis Herpetiformis,SYM1326,rash on knees
+DIS526,Dermatitis Herpetiformis,SYM0618,rash on buttocks
+DIS526,Dermatitis Herpetiformis,SYM1327,rash on back
+DIS527,Acanthosis Nigricans,SYM1328,dark velvety skin
+DIS527,Acanthosis Nigricans,SYM0317,skin thickening
+DIS527,Acanthosis Nigricans,SYM1329,body folds affected
+DIS527,Acanthosis Nigricans,SYM1330,neck patches
+DIS527,Acanthosis Nigricans,SYM1331,armpit patches
+DIS527,Acanthosis Nigricans,SYM1332,insulin resistance
+DIS527,Acanthosis Nigricans,SYM0092,weight gain
+DIS528,Pyoderma Gangrenosum,SYM1333,painful ulcers
+DIS528,Pyoderma Gangrenosum,SYM1334,rapid enlargement
+DIS528,Pyoderma Gangrenosum,SYM0900,irregular borders
+DIS528,Pyoderma Gangrenosum,SYM1335,surrounding erythema
+DIS528,Pyoderma Gangrenosum,SYM1336,tissue destruction
+DIS528,Pyoderma Gangrenosum,SYM0248,pain
+DIS528,Pyoderma Gangrenosum,SYM0280,scarring
+DIS529,Budd-Chiari Syndrome,SYM0014,abdominal pain
+DIS529,Budd-Chiari Syndrome,SYM1337,ascites
+DIS529,Budd-Chiari Syndrome,SYM0075,jaundice
+DIS529,Budd-Chiari Syndrome,SYM0389,enlarged liver
+DIS529,Budd-Chiari Syndrome,SYM0089,leg swelling
+DIS529,Budd-Chiari Syndrome,SYM0010,fatigue
+DIS529,Budd-Chiari Syndrome,SYM0064,weight loss
+DIS530,Portal Hypertension,SYM1337,ascites
+DIS530,Portal Hypertension,SYM1338,variceal bleeding
+DIS530,Portal Hypertension,SYM1012,splenomegaly
+DIS530,Portal Hypertension,SYM1339,encephalopathy
+DIS530,Portal Hypertension,SYM0075,jaundice
+DIS530,Portal Hypertension,SYM1340,spider angiomas
+DIS530,Portal Hypertension,SYM1341,caput medusae
+DIS531,Short Bowel Syndrome,SYM0029,diarrhoea
+DIS531,Short Bowel Syndrome,SYM1187,malnutrition
+DIS531,Short Bowel Syndrome,SYM0064,weight loss
+DIS531,Short Bowel Syndrome,SYM0032,dehydration
+DIS531,Short Bowel Syndrome,SYM1342,electrolyte imbalances
+DIS531,Short Bowel Syndrome,SYM0010,fatigue
+DIS531,Short Bowel Syndrome,SYM1343,steatorrhoea
+DIS532,Intestinal Pseudo-obstruction,SYM0395,abdominal distension
+DIS532,Intestinal Pseudo-obstruction,SYM0018,constipation
+DIS532,Intestinal Pseudo-obstruction,SYM0021,nausea
+DIS532,Intestinal Pseudo-obstruction,SYM0030,vomiting
+DIS532,Intestinal Pseudo-obstruction,SYM0014,abdominal pain
+DIS532,Intestinal Pseudo-obstruction,SYM0393,inability to pass gas
+DIS532,Intestinal Pseudo-obstruction,SYM1344,reduced bowel sounds
+DIS533,Goodpasture Syndrome,SYM0109,coughing blood
+DIS533,Goodpasture Syndrome,SYM0034,shortness of breath
+DIS533,Goodpasture Syndrome,SYM0010,fatigue
+DIS533,Goodpasture Syndrome,SYM0494,kidney failure
+DIS533,Goodpasture Syndrome,SYM0481,blood in urine
+DIS533,Goodpasture Syndrome,SYM0378,anaemia
+DIS533,Goodpasture Syndrome,SYM0059,chest pain
+DIS534,Wegener's Granulomatosis,SYM0084,nosebleeds
+DIS534,Wegener's Granulomatosis,SYM1345,nasal crusting
+DIS534,Wegener's Granulomatosis,SYM1259,sinusitis
+DIS534,Wegener's Granulomatosis,SYM0109,coughing blood
+DIS534,Wegener's Granulomatosis,SYM1264,kidney disease
+DIS534,Wegener's Granulomatosis,SYM0025,joint pain
+DIS534,Wegener's Granulomatosis,SYM0010,fatigue
+DIS535,Churg-Strauss Syndrome,SYM1258,asthma
+DIS535,Churg-Strauss Syndrome,SYM1259,sinusitis
+DIS535,Churg-Strauss Syndrome,SYM1346,nasal polyps
+DIS535,Churg-Strauss Syndrome,SYM0956,peripheral neuropathy
+DIS535,Churg-Strauss Syndrome,SYM0980,skin rash
+DIS535,Churg-Strauss Syndrome,SYM1295,eosinophilia
+DIS535,Churg-Strauss Syndrome,SYM1262,heart disease
+DIS536,Idiopathic Pulmonary Arterial Hypertension,SYM0062,breathlessness
+DIS536,Idiopathic Pulmonary Arterial Hypertension,SYM0010,fatigue
+DIS536,Idiopathic Pulmonary Arterial Hypertension,SYM0035,dizziness
+DIS536,Idiopathic Pulmonary Arterial Hypertension,SYM0059,chest pain
+DIS536,Idiopathic Pulmonary Arterial Hypertension,SYM0094,fainting
+DIS536,Idiopathic Pulmonary Arterial Hypertension,SYM0089,leg swelling
+DIS536,Idiopathic Pulmonary Arterial Hypertension,SYM0415,racing heartbeat
+DIS537,Multiple Endocrine Neoplasia Type 1,SYM1347,parathyroid tumours
+DIS537,Multiple Endocrine Neoplasia Type 1,SYM1348,pituitary tumours
+DIS537,Multiple Endocrine Neoplasia Type 1,SYM1349,pancreatic tumours
+DIS537,Multiple Endocrine Neoplasia Type 1,SYM0454,kidney stones
+DIS537,Multiple Endocrine Neoplasia Type 1,SYM1350,peptic ulcers
+DIS537,Multiple Endocrine Neoplasia Type 1,SYM0007,headache
+DIS537,Multiple Endocrine Neoplasia Type 1,SYM0476,vision changes
+DIS538,Multiple Endocrine Neoplasia Type 2,SYM1351,medullary thyroid cancer
+DIS538,Multiple Endocrine Neoplasia Type 2,SYM1352,phaeochromocytoma
+DIS538,Multiple Endocrine Neoplasia Type 2,SYM1353,parathyroid disease
+DIS538,Multiple Endocrine Neoplasia Type 2,SYM1263,hypertension
+DIS538,Multiple Endocrine Neoplasia Type 2,SYM0007,headache
+DIS538,Multiple Endocrine Neoplasia Type 2,SYM0020,sweating
+DIS538,Multiple Endocrine Neoplasia Type 2,SYM0085,palpitations
+DIS539,Carcinoid Syndrome,SYM0320,flushing
+DIS539,Carcinoid Syndrome,SYM0029,diarrhoea
+DIS539,Carcinoid Syndrome,SYM0396,wheezing
+DIS539,Carcinoid Syndrome,SYM1159,abdominal cramps
+DIS539,Carcinoid Syndrome,SYM1262,heart disease
+DIS539,Carcinoid Syndrome,SYM1354,telangiectasia
+DIS539,Carcinoid Syndrome,SYM1355,pellagra-like rash
+DIS540,Zollinger-Ellison Syndrome,SYM1356,multiple peptic ulcers
+DIS540,Zollinger-Ellison Syndrome,SYM0029,diarrhoea
+DIS540,Zollinger-Ellison Syndrome,SYM0014,abdominal pain
+DIS540,Zollinger-Ellison Syndrome,SYM0357,acid reflux
+DIS540,Zollinger-Ellison Syndrome,SYM0064,weight loss
+DIS540,Zollinger-Ellison Syndrome,SYM0021,nausea
+DIS540,Zollinger-Ellison Syndrome,SYM0030,vomiting
+DIS541,Contrast Nephropathy,SYM1357,acute kidney injury after contrast
+DIS541,Contrast Nephropathy,SYM0490,elevated creatinine
+DIS541,Contrast Nephropathy,SYM0072,decreased urine
+DIS541,Contrast Nephropathy,SYM0010,fatigue
+DIS541,Contrast Nephropathy,SYM0021,nausea
+DIS541,Contrast Nephropathy,SYM1358,fluid retention
+DIS541,Contrast Nephropathy,SYM1359,electrolyte imbalance
+DIS542,Radiation Nephritis,SYM1263,hypertension
+DIS542,Radiation Nephritis,SYM1134,proteinuria
+DIS542,Radiation Nephritis,SYM0378,anaemia
+DIS542,Radiation Nephritis,SYM0494,kidney failure
+DIS542,Radiation Nephritis,SYM0010,fatigue
+DIS542,Radiation Nephritis,SYM0498,oedema
+DIS542,Radiation Nephritis,SYM1360,history of radiation
+DIS543,Cast Nephropathy,SYM0494,kidney failure
+DIS543,Cast Nephropathy,SYM0010,fatigue
+DIS543,Cast Nephropathy,SYM0498,oedema
+DIS543,Cast Nephropathy,SYM0072,decreased urine
+DIS543,Cast Nephropathy,SYM0021,nausea
+DIS543,Cast Nephropathy,SYM0048,bone pain
+DIS543,Cast Nephropathy,SYM0378,anaemia
+DIS544,Urethral Diverticulum,SYM1361,post-void dribbling
+DIS544,Urethral Diverticulum,SYM1362,recurrent uti
+DIS544,Urethral Diverticulum,SYM0488,pelvic pain
+DIS544,Urethral Diverticulum,SYM1149,urethral discharge
+DIS544,Urethral Diverticulum,SYM1363,dyspareunia
+DIS544,Urethral Diverticulum,SYM1364,anterior vaginal wall mass
+DIS544,Urethral Diverticulum,SYM0565,urinary incontinence
+DIS545,Seminal Vesicle Cyst,SYM0488,pelvic pain
+DIS545,Seminal Vesicle Cyst,SYM1365,ejaculatory duct obstruction
+DIS545,Seminal Vesicle Cyst,SYM1366,haematospermia
+DIS545,Seminal Vesicle Cyst,SYM0452,infertility
+DIS545,Seminal Vesicle Cyst,SYM1367,urinary symptoms
+DIS545,Seminal Vesicle Cyst,SYM1368,perineal pain
+DIS545,Seminal Vesicle Cyst,SYM0018,constipation
+DIS546,Ovarian Hyperstimulation Syndrome,SYM0014,abdominal pain
+DIS546,Ovarian Hyperstimulation Syndrome,SYM0359,bloating
+DIS546,Ovarian Hyperstimulation Syndrome,SYM0021,nausea
+DIS546,Ovarian Hyperstimulation Syndrome,SYM0030,vomiting
+DIS546,Ovarian Hyperstimulation Syndrome,SYM0034,shortness of breath
+DIS546,Ovarian Hyperstimulation Syndrome,SYM0042,decreased urination
+DIS546,Ovarian Hyperstimulation Syndrome,SYM1369,rapid weight gain
+DIS547,Chronic Pelvic Pain,SYM1370,pelvic pain lasting over 6 months
+DIS547,Chronic Pelvic Pain,SYM1363,dyspareunia
+DIS547,Chronic Pelvic Pain,SYM1371,dysmenorrhoea
+DIS547,Chronic Pelvic Pain,SYM1372,bladder symptoms
+DIS547,Chronic Pelvic Pain,SYM1373,bowel symptoms
+DIS547,Chronic Pelvic Pain,SYM0010,fatigue
+DIS547,Chronic Pelvic Pain,SYM0050,depression
+DIS548,Pelvic Organ Prolapse,SYM0564,pelvic pressure
+DIS548,Pelvic Organ Prolapse,SYM1374,bulge in vagina
+DIS548,Pelvic Organ Prolapse,SYM0565,urinary incontinence
+DIS548,Pelvic Organ Prolapse,SYM0506,difficulty urinating
+DIS548,Pelvic Organ Prolapse,SYM1375,difficulty defecating
+DIS548,Pelvic Organ Prolapse,SYM1272,sexual dysfunction
+DIS548,Pelvic Organ Prolapse,SYM0261,lower back pain
+DIS549,Galactosaemia,SYM0075,jaundice
+DIS549,Galactosaemia,SYM0466,poor feeding
+DIS549,Galactosaemia,SYM0030,vomiting
+DIS549,Galactosaemia,SYM1376,liver damage
+DIS549,Galactosaemia,SYM0179,intellectual disability
+DIS549,Galactosaemia,SYM0453,cataracts
+DIS549,Galactosaemia,SYM1377,sepsis in newborns
+DIS550,Maple Syrup Urine Disease,SYM1378,sweet-smelling urine
+DIS550,Maple Syrup Urine Disease,SYM0466,poor feeding
+DIS550,Maple Syrup Urine Disease,SYM0030,vomiting
+DIS550,Maple Syrup Urine Disease,SYM0648,lethargy
+DIS550,Maple Syrup Urine Disease,SYM0131,seizures
+DIS550,Maple Syrup Urine Disease,SYM0179,intellectual disability
+DIS550,Maple Syrup Urine Disease,SYM1379,neurological deterioration
+DIS551,Congenital Adrenal Hyperplasia,SYM1380,ambiguous genitalia
+DIS551,Congenital Adrenal Hyperplasia,SYM1381,salt wasting
+DIS551,Congenital Adrenal Hyperplasia,SYM1382,precocious puberty
+DIS551,Congenital Adrenal Hyperplasia,SYM0650,short stature
+DIS551,Congenital Adrenal Hyperplasia,SYM1383,virilisation
+DIS551,Congenital Adrenal Hyperplasia,SYM1263,hypertension
+DIS551,Congenital Adrenal Hyperplasia,SYM0449,acne
+DIS552,Biliary Atresia,SYM0075,jaundice
+DIS552,Biliary Atresia,SYM0649,pale stools
+DIS552,Biliary Atresia,SYM0040,dark urine
+DIS552,Biliary Atresia,SYM0389,enlarged liver
+DIS552,Biliary Atresia,SYM0119,poor weight gain
+DIS552,Biliary Atresia,SYM0371,abdominal swelling
+DIS552,Biliary Atresia,SYM0010,fatigue
+DIS553,Herpes Simplex Keratitis,SYM0024,eye pain
+DIS553,Herpes Simplex Keratitis,SYM0104,redness
+DIS553,Herpes Simplex Keratitis,SYM1384,photophobia
+DIS553,Herpes Simplex Keratitis,SYM0706,tearing
+DIS553,Herpes Simplex Keratitis,SYM0083,blurred vision
+DIS553,Herpes Simplex Keratitis,SYM1385,dendritic ulcer
+DIS553,Herpes Simplex Keratitis,SYM1386,decreased vision
+DIS554,Acanthamoeba Keratitis,SYM1387,severe eye pain
+DIS554,Acanthamoeba Keratitis,SYM0104,redness
+DIS554,Acanthamoeba Keratitis,SYM0083,blurred vision
+DIS554,Acanthamoeba Keratitis,SYM0127,light sensitivity
+DIS554,Acanthamoeba Keratitis,SYM0706,tearing
+DIS554,Acanthamoeba Keratitis,SYM1388,disproportionate pain
+DIS554,Acanthamoeba Keratitis,SYM1389,ring infiltrate
+DIS555,Scleritis,SYM1387,severe eye pain
+DIS555,Scleritis,SYM0104,redness
+DIS555,Scleritis,SYM0222,tenderness
+DIS555,Scleritis,SYM1384,photophobia
+DIS555,Scleritis,SYM0706,tearing
+DIS555,Scleritis,SYM0083,blurred vision
+DIS555,Scleritis,SYM1390,systemic disease association
+DIS556,Branchial Cleft Cyst,SYM0897,neck lump
+DIS556,Branchial Cleft Cyst,SYM0557,recurrent infections
+DIS556,Branchial Cleft Cyst,SYM1391,sinus tract
+DIS556,Branchial Cleft Cyst,SYM0208,neck pain
+DIS556,Branchial Cleft Cyst,SYM0126,swallowing difficulty
+DIS556,Branchial Cleft Cyst,SYM0155,neck stiffness
+DIS556,Branchial Cleft Cyst,SYM1392,abscess
+DIS557,Thyroglossal Duct Cyst,SYM1393,midline neck lump
+DIS557,Thyroglossal Duct Cyst,SYM1394,moves with tongue protrusion
+DIS557,Thyroglossal Duct Cyst,SYM1395,recurrent infection
+DIS557,Thyroglossal Duct Cyst,SYM1396,neck discomfort
+DIS557,Thyroglossal Duct Cyst,SYM1282,dysphagia
+DIS557,Thyroglossal Duct Cyst,SYM0530,discharge
+DIS557,Thyroglossal Duct Cyst,SYM1397,fistula
+DIS558,Parapharyngeal Abscess,SYM1113,neck swelling
+DIS558,Parapharyngeal Abscess,SYM1278,trismus
+DIS558,Parapharyngeal Abscess,SYM0027,fever
+DIS558,Parapharyngeal Abscess,SYM1282,dysphagia
+DIS558,Parapharyngeal Abscess,SYM0161,drooling
+DIS558,Parapharyngeal Abscess,SYM0764,muffled voice
+DIS558,Parapharyngeal Abscess,SYM0612,stridor
+DIS559,Body Dysmorphic Disorder,SYM1398,preoccupation with perceived defect
+DIS559,Body Dysmorphic Disorder,SYM1399,repetitive behaviours
+DIS559,Body Dysmorphic Disorder,SYM0801,avoidance
+DIS559,Body Dysmorphic Disorder,SYM0790,social withdrawal
+DIS559,Body Dysmorphic Disorder,SYM0050,depression
+DIS559,Body Dysmorphic Disorder,SYM0099,anxiety
+DIS559,Body Dysmorphic Disorder,SYM1400,skin picking
+DIS560,Trichotillomania,SYM1401,compulsive hair pulling
+DIS560,Trichotillomania,SYM1402,bald patches
+DIS560,Trichotillomania,SYM1403,tension before pulling
+DIS560,Trichotillomania,SYM1404,relief after pulling
+DIS560,Trichotillomania,SYM1405,hair ingestion
+DIS560,Trichotillomania,SYM1406,skin damage
+DIS560,Trichotillomania,SYM1407,shame
+DIS561,Excoriation Disorder,SYM1408,compulsive skin picking
+DIS561,Excoriation Disorder,SYM0428,skin lesions
+DIS561,Excoriation Disorder,SYM1409,tissue damage
+DIS561,Excoriation Disorder,SYM1226,distress
+DIS561,Excoriation Disorder,SYM1410,difficulty stopping
+DIS561,Excoriation Disorder,SYM1411,bleeding sores
+DIS561,Excoriation Disorder,SYM1412,scars
+DIS562,Gastrointestinal Stromal Tumour,SYM0014,abdominal pain
+DIS562,Gastrointestinal Stromal Tumour,SYM1413,gastrointestinal bleeding
+DIS562,Gastrointestinal Stromal Tumour,SYM0021,nausea
+DIS562,Gastrointestinal Stromal Tumour,SYM0030,vomiting
+DIS562,Gastrointestinal Stromal Tumour,SYM0495,abdominal mass
+DIS562,Gastrointestinal Stromal Tumour,SYM1414,early satiety
+DIS562,Gastrointestinal Stromal Tumour,SYM0064,weight loss
+DIS563,Cholangiocarcinoma,SYM0075,jaundice
+DIS563,Cholangiocarcinoma,SYM0014,abdominal pain
+DIS563,Cholangiocarcinoma,SYM0064,weight loss
+DIS563,Cholangiocarcinoma,SYM0010,fatigue
+DIS563,Cholangiocarcinoma,SYM0284,itching
+DIS563,Cholangiocarcinoma,SYM0027,fever
+DIS563,Cholangiocarcinoma,SYM0372,clay-coloured stools
+DIS564,Adrenocortical Carcinoma,SYM0014,abdominal pain
+DIS564,Adrenocortical Carcinoma,SYM1415,hormonal excess
+DIS564,Adrenocortical Carcinoma,SYM1383,virilisation
+DIS564,Adrenocortical Carcinoma,SYM1416,cushing's features
+DIS564,Adrenocortical Carcinoma,SYM0064,weight loss
+DIS564,Adrenocortical Carcinoma,SYM0010,fatigue
+DIS564,Adrenocortical Carcinoma,SYM0052,back pain
+DIS565,Haemophagocytic Lymphohistiocytosis,SYM0013,prolonged fever
+DIS565,Haemophagocytic Lymphohistiocytosis,SYM0931,enlarged spleen
+DIS565,Haemophagocytic Lymphohistiocytosis,SYM1417,cytopenia
+DIS565,Haemophagocytic Lymphohistiocytosis,SYM1418,elevated ferritin
+DIS565,Haemophagocytic Lymphohistiocytosis,SYM1419,coagulopathy
+DIS565,Haemophagocytic Lymphohistiocytosis,SYM0855,neurological symptoms
+DIS565,Haemophagocytic Lymphohistiocytosis,SYM1420,liver dysfunction
+DIS566,Mastocytosis,SYM0320,flushing
+DIS566,Mastocytosis,SYM0293,hives
+DIS566,Mastocytosis,SYM0014,abdominal pain
+DIS566,Mastocytosis,SYM0021,nausea
+DIS566,Mastocytosis,SYM0048,bone pain
+DIS566,Mastocytosis,SYM1421,anaphylaxis
+DIS566,Mastocytosis,SYM0284,itching
+DIS567,SAPHO Syndrome,SYM1422,sternoclavicular arthritis
+DIS567,SAPHO Syndrome,SYM0449,acne
+DIS567,SAPHO Syndrome,SYM1423,palmoplantar pustulosis
+DIS567,SAPHO Syndrome,SYM1424,hyperostosis
+DIS567,SAPHO Syndrome,SYM1425,osteitis
+DIS567,SAPHO Syndrome,SYM0048,bone pain
+DIS567,SAPHO Syndrome,SYM0028,joint swelling
+DIS568,Palindromic Rheumatism,SYM1426,episodic joint swelling
+DIS568,Palindromic Rheumatism,SYM0025,joint pain
+DIS568,Palindromic Rheumatism,SYM0104,redness
+DIS568,Palindromic Rheumatism,SYM0105,warmth
+DIS568,Palindromic Rheumatism,SYM1427,spontaneous resolution
+DIS568,Palindromic Rheumatism,SYM1428,shoulder attacks
+DIS568,Palindromic Rheumatism,SYM1429,wrist attacks
+DIS569,Nocardiosis,SYM1430,lung infection
+DIS569,Nocardiosis,SYM1122,brain abscess
+DIS569,Nocardiosis,SYM1431,skin infection
+DIS569,Nocardiosis,SYM0027,fever
+DIS569,Nocardiosis,SYM0006,cough
+DIS569,Nocardiosis,SYM0034,shortness of breath
+DIS569,Nocardiosis,SYM0064,weight loss
+DIS570,Actinomycosis,SYM1392,abscess
+DIS570,Actinomycosis,SYM1432,draining sinuses
+DIS570,Actinomycosis,SYM1433,firm swelling
+DIS570,Actinomycosis,SYM0027,fever
+DIS570,Actinomycosis,SYM0064,weight loss
+DIS570,Actinomycosis,SYM1434,jaw involvement
+DIS570,Actinomycosis,SYM1435,pelvic involvement
+DIS571,Melioidosis,SYM1014,pneumonia
+DIS571,Melioidosis,SYM0027,fever
+DIS571,Melioidosis,SYM0006,cough
+DIS571,Melioidosis,SYM0064,weight loss
+DIS571,Melioidosis,SYM0007,headache
+DIS571,Melioidosis,SYM1436,localised infection
+DIS571,Melioidosis,SYM1437,septicaemia
+DIS572,Tension Pneumothorax,SYM0432,severe shortness of breath
+DIS572,Tension Pneumothorax,SYM0059,chest pain
+DIS572,Tension Pneumothorax,SYM1438,tracheal deviation
+DIS572,Tension Pneumothorax,SYM1439,absent breath sounds
+DIS572,Tension Pneumothorax,SYM1017,hypotension
+DIS572,Tension Pneumothorax,SYM1294,distended neck veins
+DIS572,Tension Pneumothorax,SYM0400,cyanosis
+DIS573,Massive Haemothorax,SYM0034,shortness of breath
+DIS573,Massive Haemothorax,SYM0059,chest pain
+DIS573,Massive Haemothorax,SYM1440,decreased breath sounds
+DIS573,Massive Haemothorax,SYM1017,hypotension
+DIS573,Massive Haemothorax,SYM1441,dullness on percussion
+DIS573,Massive Haemothorax,SYM1025,tachycardia
+DIS573,Massive Haemothorax,SYM0378,anaemia
